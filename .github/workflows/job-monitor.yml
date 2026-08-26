@@ -35,7 +35,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "No tracker changes to commit."
           else
-            git commit -m "Update job tracker"
+            run_timestamp="$(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "Update job tracker (${run_timestamp})" \
+              -m "GitHub Actions workflow run #${GITHUB_RUN_NUMBER}"
             git push
           fi
 
