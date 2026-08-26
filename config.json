@@ -1,0 +1,21 @@
+{
+  "search_term": "Actuary",
+  "title_keywords": ["Actuary", "actuarial"],
+  "search_terms": [
+    "Actuary",
+    "Actuarial",
+    "Zurich Insurance Company Ltd (Singapore Branch)",
+    "Chubb Asia Pacific Pte. Ltd.",
+    "Munich Re"
+  ],
+  "watched_companies": [
+    "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+    "CHUBB ASIA PACIFIC PTE. LTD.",
+    "MUNICH RE"
+  ],
+  "title_match": "stem",
+  "title_stem": "actuar",
+  "missing_checks_before_expiring": 3,
+  "request_timeout_seconds": 30,
+  "page_size": 20
+}

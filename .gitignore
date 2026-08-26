@@ -1,0 +1,4 @@
+data/jobs.json.backup
+data/jobs.json.tmp
+logs/*.log
+.DS_Store
