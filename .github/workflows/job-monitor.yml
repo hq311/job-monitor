@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json output/dashboard.html logs/run_history.jsonl logs/monitor.log
+          git add data/jobs.json dashboard.html output/details logs/run_history.jsonl logs/monitor.log
           if git diff --cached --quiet; then
             echo "No tracker changes to commit."
           else

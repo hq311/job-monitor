@@ -10,7 +10,7 @@ Requires Python 3.9 or newer.
 python3 monitor.py
 ```
 
-Then open `output/dashboard.html` in a browser. Run the same command later to discover new jobs and update existing ones.
+Then open `dashboard.html` in the repository folder (or visit the GitHub file). Run the same command later to discover new jobs and update existing ones.
 
 The dashboard's small **Run log** button (top right) expands to show the last ten monitor invocations, including success/failure, execution time, fetched/tracked/new/missing/expired counts, and any error message. The full append-only JSON-lines history is stored at `logs/run_history.jsonl`.
 

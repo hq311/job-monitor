@@ -25,7 +25,7 @@ DATA_DIR = ROOT / "data"
 OUTPUT_DIR = ROOT / "output"
 LOG_DIR = ROOT / "logs"
 JOBS_PATH = DATA_DIR / "jobs.json"
-DASHBOARD_PATH = OUTPUT_DIR / "dashboard.html"
+DASHBOARD_PATH = ROOT / "dashboard.html"
 API_URL = "https://api.mycareersfuture.gov.sg/v2/jobs"
 SGT = ZoneInfo("Asia/Singapore")
 RUN_LOG_PATH = LOG_DIR / "run_history.jsonl"
@@ -317,7 +317,7 @@ def render_job_detail(job: dict[str, Any]) -> str:
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{text(job.get('title'))} — Archived job</title><style>
 body{{margin:0;background:#f5f7fa;color:#17202a;font:15px/1.6 system-ui,-apple-system,sans-serif}}main{{max-width:900px;margin:auto;padding:32px 20px}}a{{color:#155eef}}.back{{display:inline-block;margin-bottom:18px}}.panel{{background:#fff;border:1px solid #dce2e8;border-radius:14px;padding:24px}}h1{{line-height:1.2;margin:6px 0}}.company{{color:#637083;font-size:17px}}.status{{display:inline-block;background:#e8eefc;color:#1849a9;border-radius:999px;padding:3px 9px;font-weight:700}}dl{{display:grid;grid-template-columns:170px 1fr;border-top:1px solid #dce2e8;margin-top:22px}}dt,dd{{margin:0;padding:9px 0;border-bottom:1px solid #edf0f3}}dt{{color:#637083}}h2{{margin-top:28px}}.skills{{columns:2}}.note{{color:#637083;font-size:13px;margin-top:26px}}@media(max-width:600px){{dl{{grid-template-columns:1fr}}dd{{padding-top:0}}.skills{{columns:1}}}}
-</style></head><body><main><a class="back" href="../dashboard.html">← Back to dashboard</a><article class="panel"><span class="status">{status}</span><h1>{text(job.get('title'))}</h1><div class="company">{text(job.get('company'))}</div><p><a href="{html.escape(job.get('url',''))}" target="_blank" rel="noopener">Open current MyCareersFuture page ↗</a></p><dl>{facts_html}</dl><h2>Skills</h2><ul class="skills">{skills}</ul><h2>Captured job description</h2><p>{description}</p><p class="note">This is a local snapshot captured when the posting was available. The source page may later change or disappear.</p></article></main></body></html>"""
+</style></head><body><main><a class="back" href="../../dashboard.html">← Back to dashboard</a><article class="panel"><span class="status">{status}</span><h1>{text(job.get('title'))}</h1><div class="company">{text(job.get('company'))}</div><p><a href="{html.escape(job.get('url',''))}" target="_blank" rel="noopener">Open current MyCareersFuture page ↗</a></p><dl>{facts_html}</dl><h2>Skills</h2><ul class="skills">{skills}</ul><h2>Captured job description</h2><p>{description}</p><p class="note">This is a local snapshot captured when the posting was available. The source page may later change or disappear.</p></article></main></body></html>"""
 
 
 def write_job_details(jobs: dict[str, dict[str, Any]]) -> None:
@@ -357,7 +357,7 @@ def render_dashboard(jobs: dict[str, dict[str, Any]], config: dict[str, Any], ru
             f"data-last-seen='{html.escape(fmt_date(job.get('last_seen_at')))}' data-expired='{html.escape(fmt_date(job.get('expired_at') or job.get('ended_at')))}' data-index='{row_index}' "
             f"data-search='{html.escape((job.get('title','') + ' ' + job.get('company','')).casefold())}'>"
             f"<td><span class='badge {html.escape(status)}'>{html.escape(status.replace('_', ' ').title())}</span></td>"
-            f"<td><a href='details/{html.escape(job.get('source_job_id',''))}.html'>{html.escape(job.get('title',''))}</a></td>"
+            f"<td><a href='output/details/{html.escape(job.get('source_job_id',''))}.html'>{html.escape(job.get('title',''))}</a></td>"
             f"<td>{html.escape(job.get('company',''))}</td>"
             f"<td>{html.escape(salary)}</td>"
             f"<td>{html.escape(job.get('posted_at') or '—')}</td>"
