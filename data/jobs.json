@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-09-05",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -68,7 +68,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -122,7 +122,7 @@
       "expired_at": null,
       "expires_at": "2026-09-06",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -175,7 +175,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -229,7 +229,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -282,7 +282,7 @@
       "expired_at": null,
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -342,7 +342,7 @@
         "Title: actuarial"
       ],
       "minimum_years_experience": 2,
-      "missing_checks": 0,
+      "missing_checks": 1,
       "position_levels": [
         "Executive"
       ],
@@ -370,7 +370,7 @@
       ],
       "source_job_id": "62e4fd769608e6e64adc0a53c81a46eb",
       "source_job_post_id": "MCF-2026-1391722",
-      "status": "active",
+      "status": "possibly_missing",
       "title": "Actuarial Executive/ Assistant Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-executive-assistant-manager-tokio-marine-life-insurance-singapore-62e4fd769608e6e64adc0a53c81a46eb",
       "vacancies": 2
@@ -391,7 +391,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -446,7 +446,7 @@
       "expired_at": null,
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -500,7 +500,7 @@
       "expired_at": null,
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -554,7 +554,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -608,7 +608,7 @@
       "expired_at": null,
       "expires_at": "2026-08-31",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -659,7 +659,7 @@
       "expired_at": null,
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -718,7 +718,7 @@
         "Title: actuarial"
       ],
       "minimum_years_experience": 3,
-      "missing_checks": 0,
+      "missing_checks": 1,
       "position_levels": [
         "Professional"
       ],
@@ -749,7 +749,7 @@
       ],
       "source_job_id": "a4de22f49b34fdc421686d55c24b47f4",
       "source_job_post_id": "MCF-2026-1391327",
-      "status": "active",
+      "status": "possibly_missing",
       "title": "Assistant Manager, Actuarial Services - HSBC Life",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/assistant-manager-actuarial-services-hsbc-life-hsbc-life-a4de22f49b34fdc421686d55c24b47f4",
       "vacancies": 1
@@ -768,7 +768,7 @@
       "expired_at": null,
       "expires_at": "2026-09-01",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -828,7 +828,7 @@
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
       ],
       "minimum_years_experience": 10,
-      "missing_checks": 0,
+      "missing_checks": 1,
       "position_levels": [
         "Middle Management"
       ],
@@ -857,7 +857,7 @@
       ],
       "source_job_id": "cb83d69cc5fb3882ad70607b87f49f1e",
       "source_job_post_id": "MCF-2026-1289248",
-      "status": "active",
+      "status": "possibly_missing",
       "title": "Claims Excellence Lead, APAC",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/claims-excellence-lead-apac-zurich-insurance-company-cb83d69cc5fb3882ad70607b87f49f1e",
       "vacancies": 1
@@ -880,7 +880,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -930,7 +930,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -987,7 +987,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1040,7 +1040,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-26T22:28:54+08:00",
+      "last_seen_at": "2026-08-27T07:55:45+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial",
@@ -1178,6 +1178,17 @@
       "fetched": 63,
       "matching": 20,
       "missing": 0,
+      "new": 0,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 17,
+      "checked_at": "2026-08-27T07:55:45+08:00",
+      "expired": 0,
+      "fetched": 59,
+      "matching": 17,
+      "missing": 3,
       "new": 0,
       "reopened": 0,
       "status": "success"
