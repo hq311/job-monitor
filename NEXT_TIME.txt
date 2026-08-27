@@ -1,0 +1,3 @@
+Continue work on /Users/haiqi/Desktop/Codex/job-monitor.
+
+Read CODEX_HANDOFF.md and inspect the current Git status, README, config, monitor.py, and workflow before changing anything. Preserve the targeted tracking criteria and active/expired lifecycle rules.
