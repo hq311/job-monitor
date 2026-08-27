@@ -12,6 +12,8 @@ python3 monitor.py
 
 Then open `dashboard.html` in the repository folder (or visit the GitHub file). Run the same command later to discover new jobs and update existing ones.
 
+Live dashboard: [https://hq311.github.io/job-monitor/](https://hq311.github.io/job-monitor/)
+
 The dashboard's small **Run log** button (top right) expands to show the last ten monitor invocations, including success/failure, execution time, fetched/tracked/new/missing/expired counts, and any error message. The full append-only JSON-lines history is stored at `logs/run_history.jsonl`.
 
 Configuration lives in `config.json`. The initial setup combines `Actuary`, `Actuarial`, and the Zurich company search; deduplicates them by source UUID; and retains jobs when either the title contains the stem `actuar` or the returned company name exactly matches the configured Zurich company. Zurich jobs are retained regardless of title.

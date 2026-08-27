@@ -329,6 +329,10 @@ def write_job_details(jobs: dict[str, dict[str, Any]]) -> None:
 
 def render_dashboard(jobs: dict[str, dict[str, Any]], config: dict[str, Any], run: dict[str, Any], run_history: list[dict[str, Any]] | None = None) -> str:
     run_history = run_history or []
+    last_successful_check = next(
+        (entry.get("finished_at") for entry in reversed(run_history) if entry.get("status") == "success"),
+        run.get("checked_at"),
+    )
     ordered = sorted(
         jobs.values(),
         key=lambda job: (job.get("status") in ("ended", "expired"), job.get("posted_at") or ""),
@@ -373,7 +377,7 @@ def render_dashboard(jobs: dict[str, dict[str, Any]], config: dict[str, Any], ru
     company_summary = ", ".join(config.get("watched_companies", []))
     match_description = f'Actuarial roles + every job from {html.escape(company_summary)}'
     run_history_rows = []
-    for entry in reversed(run_history[-10:]):
+    for entry in reversed(run_history[-5:]):
         entry_status = entry.get("status", "unknown")
         if entry_status == "success":
             result = (
@@ -406,7 +410,7 @@ main{{max-width:1280px;margin:auto;padding:32px 20px}}h1{{margin:0;font-size:28p
 .badge{{display:inline-block;border-radius:999px;padding:3px 8px;font-size:12px;font-weight:700}}.active{{background:#dcfce7;color:#166534}}.possibly_missing{{background:#fef3c7;color:#92400e}}.expired{{background:#e5e7eb;color:#4b5563}}
 .empty{{display:none;text-align:center;padding:30px;color:var(--muted)}}footer{{margin-top:16px;color:var(--muted);font-size:12px}}@media(max-width:900px){{.cards{{grid-template-columns:1fr 1fr}}.controls{{grid-template-columns:1fr 1fr}}}}@media(max-width:600px){{.controls{{grid-template-columns:1fr}}}}
 </style></head><body><main>
-<div class="topbar"><div><h1>MyCareersFuture Job Tracker</h1><p class="sub">Promoted recommendations excluded · Last successful check: {html.escape(fmt_datetime(run.get('checked_at')))}</p></div><button id="toggleRunLog" class="log-toggle" type="button" aria-expanded="false">Run log</button></div>
+<div class="topbar"><div><h1>MyCareersFuture Job Tracker</h1><p class="sub">Promoted recommendations excluded · Last successful check: {html.escape(fmt_datetime(last_successful_check))}</p></div><button id="toggleRunLog" class="log-toggle" type="button" aria-expanded="false">Run log</button></div>
 <section class="criteria"><strong>Tracking criteria</strong><span>Title keywords: Actuary, actuarial</span><span>Companies: {html.escape(company_summary)}</span></section>
 <section id="runLogPanel" class="run-log" hidden><h2>Monitor run log</h2><table><thead><tr><th>Finished</th><th>Status</th><th>High-level results or error</th></tr></thead><tbody>{''.join(run_history_rows) or '<tr><td colspan="3">No runs recorded yet.</td></tr>'}</tbody></table></section>
 <section class="cards"><div class="card"><b id="activeCount">0</b><span>Active postings</span></div><div class="card"><b id="age7">0</b><span>Posted ≤7 days ago</span></div><div class="card"><b id="age30">0</b><span>Posted 8–30 days ago</span></div><div class="card"><b id="age31">0</b><span>Posted 31+ days ago</span></div><div class="card"><b id="avgSalary">—</b><span>Average midpoint salary</span></div></section>
