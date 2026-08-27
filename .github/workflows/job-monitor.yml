@@ -3,8 +3,9 @@ name: Job monitor
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 02:00 UTC every other calendar day (10:00 Singapore time).
-    - cron: "0 2 */2 * *"
+    # The cadence step below runs the monitor every other day at 02:00 UTC
+    # (10:00 Singapore time), including across month boundaries.
+    - cron: "0 2 * * *"
 
 permissions:
   contents: write
@@ -21,9 +22,21 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Check every-other-day cadence
+        id: cadence
+        if: github.event_name == 'schedule'
+        run: |
+          day_number=$(( $(date -u +%s) / 86400 ))
+          if (( day_number % 2 == 0 )); then
+            echo "run_monitor=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_monitor=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Fetch and update jobs
         id: monitor
         continue-on-error: true
+        if: github.event_name == 'workflow_dispatch' || steps.cadence.outputs.run_monitor == 'true'
         run: python3 monitor.py
 
       - name: Commit updated tracker data and dashboard

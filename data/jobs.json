@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-09-05",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -68,7 +68,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -122,7 +122,7 @@
       "expired_at": null,
       "expires_at": "2026-09-06",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -159,6 +159,59 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/marketing-actuary-general-reinsurance-ag-singapore-branch-2fae869c03a274466d863ff02791ffc3",
       "vacancies": 1
     },
+    "3f7ec6f5a757c86451d76814b97e1c35": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "GRAVITAS RECRUITMENT GROUP (SG) PTE. LTD.",
+      "company_uen": "201411749D",
+      "description": "We're hiring for a fast-growing insurtech startup that's rebuilding how insurers design, run, and govern their actuarial and financial models.\nIf you're an actuary who's tired of legacy systems and wants to build the tools insurers will use for the next decade, this is your seat.\nWhat you'll do\nDesign, build, and test actuarial models that power real decisions on forecasting, risk, pricing, and capital\nDig into complex data sets and turn them into insight, not just output\nWork closely with cross-functional teams (product, tech, actuarial) and Big 4 actuarial consultants\nKeep models accurate, efficient, and audit-ready against evolving regulatory frameworks\nWhat you'll bring\n5+ years of actuarial experience, ideally with exposure to IFRS 17, RBC 2, or Solvency II\nHands-on experience with actuarial modelling and coding tools/software (Prophet, Python, SQL, VBA etc.)\nSharp problem-solving skills and the ability to explain complex things simply\nFluency in Mandarin Chinese or Korean is a strong advantage, given regional stakeholder coverage\nWho thrives here\nThis is a startup, not a legacy insurer. The actuary who does well is comfortable with ambiguity, likes building things from scratch, and would rather shape a process than inherit one. You're curious about technology, take ownership, and you're energised by moving fast.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-09-26",
+      "first_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "location": "Islandwide",
+      "matched_criteria": [
+        "Title: Actuary"
+      ],
+      "minimum_years_experience": 5,
+      "missing_checks": 0,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-08-27",
+      "reopened_at": null,
+      "salary_max": 12000,
+      "salary_min": 8000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Liaising with cross functional teams",
+        "Audit and Compliance",
+        "Data Insight",
+        "Valuation",
+        "Prophet",
+        "Risk",
+        "Actuarial Science",
+        "Actuarial Consulting",
+        "Forecasting Models",
+        "Life Insurance",
+        "Financial Modelling",
+        "Quality Models",
+        "Actuaries",
+        "Actuarial qualifications",
+        "Capital",
+        "Product Pricing"
+      ],
+      "source_job_id": "3f7ec6f5a757c86451d76814b97e1c35",
+      "source_job_post_id": "MCF-2026-1498009",
+      "status": "active",
+      "title": "Modelling Actuary (Insurtech Startup)",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/modelling-actuary-gravitas-recruitment-group-3f7ec6f5a757c86451d76814b97e1c35",
+      "vacancies": 2
+    },
     "5317eacf6305242d9daf08b2c044c480": {
       "categories": [
         "Banking and Finance",
@@ -175,7 +228,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -229,7 +282,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -282,7 +335,7 @@
       "expired_at": null,
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -333,7 +386,7 @@
         "Full Time"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-27T19:34:05+08:00",
       "expires_at": "2026-08-26",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
       "last_seen_at": "2026-08-26T22:28:54+08:00",
@@ -342,7 +395,7 @@
         "Title: actuarial"
       ],
       "minimum_years_experience": 2,
-      "missing_checks": 1,
+      "missing_checks": 2,
       "position_levels": [
         "Executive"
       ],
@@ -370,7 +423,7 @@
       ],
       "source_job_id": "62e4fd769608e6e64adc0a53c81a46eb",
       "source_job_post_id": "MCF-2026-1391722",
-      "status": "possibly_missing",
+      "status": "expired",
       "title": "Actuarial Executive/ Assistant Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-executive-assistant-manager-tokio-marine-life-insurance-singapore-62e4fd769608e6e64adc0a53c81a46eb",
       "vacancies": 2
@@ -391,7 +444,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -446,7 +499,7 @@
       "expired_at": null,
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -500,7 +553,7 @@
       "expired_at": null,
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -554,7 +607,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -608,7 +661,7 @@
       "expired_at": null,
       "expires_at": "2026-08-31",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -659,7 +712,7 @@
       "expired_at": null,
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -709,7 +762,7 @@
         "Full Time"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-27T19:34:05+08:00",
       "expires_at": "2026-08-26",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
       "last_seen_at": "2026-08-26T22:28:54+08:00",
@@ -718,7 +771,7 @@
         "Title: actuarial"
       ],
       "minimum_years_experience": 3,
-      "missing_checks": 1,
+      "missing_checks": 2,
       "position_levels": [
         "Professional"
       ],
@@ -749,10 +802,61 @@
       ],
       "source_job_id": "a4de22f49b34fdc421686d55c24b47f4",
       "source_job_post_id": "MCF-2026-1391327",
-      "status": "possibly_missing",
+      "status": "expired",
       "title": "Assistant Manager, Actuarial Services - HSBC Life",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/assistant-manager-actuarial-services-hsbc-life-hsbc-life-a4de22f49b34fdc421686d55c24b47f4",
       "vacancies": 1
+    },
+    "af16603453cb2d3d42ff8f27eb1cbbac": {
+      "categories": [
+        "Consulting"
+      ],
+      "company": "ERNST & YOUNG ADVISORY PTE. LTD.",
+      "company_uen": "198905395E",
+      "description": "The Opportunity:\nJoin Financial Services Organisation (FSO) and you will work with multi-disciplinary teams from around the world to deliver a global perspective. We are the only professional services organisation who has a separate business dedicated exclusively to the financial services marketplace dealing with asset management, banking and capital markets, insurance and private equity.\nOur Insurance and Actuarial Advisory Services practice comprises two areas: Life/Health Insurance and Property/Casualty products and services. Join this team and you will provide clients with traditional actuarial services (e.g., reserving, pricing and mergers and acquisition support), as well as leading edge services such as financial reporting and measurement, financial risk management, modeling, hedging, reinsurance, securitization, economic capital and solvency.\nYour Key Responsibilities:\nAs part of our Actuarial team, you’ll work on high-impact opportunities to apply your knowledge and experience working on:\nMarket research and industry benchmarking.\nValuation, pricing and product development.\nRegulatory changes, including Risk-Based Capital, Solvency II and IFRS.\nMerger & Acquisitions (M&A) and due diligence projects.\nActuarial audits and financial modelling.\nFinancial risk, product distribution and capital issues.\nWhat we look for\nYou have an agile, growth-oriented mindset. What you know matters. But the right mindset is just as important in determining success. We’re looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world.\nYou are curious and purpose driven. We’re looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world.\nYou are inclusive. We’re looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust.\nQualifications:University degree related to Actuarial Science or equivalent.\nExperience and/or demonstrated passion in understanding of economic or market issues and the ability to interpret their impact on clients. This passion could be demonstrated via university projects, internships, conferences, self-study, etc.\nExperience and/or desire to pursue actuarial examinations with either the Institute and Faculty of Actuaries (UK), the Society of Actuaries (US) or the Institute of Actuaries of Australia.\nWhat’s in it for you\nAccelerate your technical capabilities and transformative leadership skills with future-focused courses and development programs.\nBroaden your horizons by working on highly integrated teams across the globe and collaborate with people of diverse backgrounds — both professionally and culturally.\nBring out the best in yourself with continuous investment in your personal well-being and career development.\nDevelop your own personal purpose and help us create a positive ripple effect on our teams, our business, clients and society – building a better working world, together.\nWhat you can expect\nShortlisted candidates can expect up to 3 interview rounds with the hiring team.\nPlease note that for your application to be considered, you are required to upload/send in the following documents along with your online application:\nDetailed resume with indicative interest in Life or General Insurance work\nHighest academic certification and transcripts",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-09-10",
+      "first_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 0,
+      "missing_checks": 0,
+      "position_levels": [
+        "Fresh/entry level"
+      ],
+      "posted_at": "2026-08-27",
+      "reopened_at": null,
+      "salary_max": 6000,
+      "salary_min": 4000,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "Asset Management",
+        "Valuation",
+        "Reinsurance",
+        "Economic Capital",
+        "Risk Management",
+        "Actuarial Science",
+        "General Insurance",
+        "Modelling",
+        "Actuaries",
+        "Capital",
+        "Product Development",
+        "Financial Reporting",
+        "Solvency II"
+      ],
+      "source_job_id": "af16603453cb2d3d42ff8f27eb1cbbac",
+      "source_job_post_id": "MCF-2026-1493431",
+      "status": "active",
+      "title": "Actuarial Consultant",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-consultant-ernst-young-advisory-af16603453cb2d3d42ff8f27eb1cbbac",
+      "vacancies": 10
     },
     "c936750f7b5610392ab61b60e3c86dbe": {
       "categories": [
@@ -768,7 +872,7 @@
       "expired_at": null,
       "expires_at": "2026-09-01",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -819,7 +923,7 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-27T19:34:05+08:00",
       "expires_at": "2026-08-26",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
       "last_seen_at": "2026-08-26T22:28:54+08:00",
@@ -828,7 +932,7 @@
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
       ],
       "minimum_years_experience": 10,
-      "missing_checks": 1,
+      "missing_checks": 2,
       "position_levels": [
         "Middle Management"
       ],
@@ -857,7 +961,7 @@
       ],
       "source_job_id": "cb83d69cc5fb3882ad70607b87f49f1e",
       "source_job_post_id": "MCF-2026-1289248",
-      "status": "possibly_missing",
+      "status": "expired",
       "title": "Claims Excellence Lead, APAC",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/claims-excellence-lead-apac-zurich-insurance-company-cb83d69cc5fb3882ad70607b87f49f1e",
       "vacancies": 1
@@ -880,7 +984,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -930,7 +1034,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -987,7 +1091,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1040,7 +1144,7 @@
       "expired_at": null,
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-27T07:55:45+08:00",
+      "last_seen_at": "2026-08-27T19:34:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial",
@@ -1190,6 +1294,17 @@
       "matching": 17,
       "missing": 3,
       "new": 0,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 19,
+      "checked_at": "2026-08-27T19:34:05+08:00",
+      "expired": 3,
+      "fetched": 63,
+      "matching": 19,
+      "missing": 0,
+      "new": 2,
       "reopened": 0,
       "status": "success"
     }

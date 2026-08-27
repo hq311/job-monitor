@@ -15,7 +15,6 @@
   ],
   "title_match": "stem",
   "title_stem": "actuar",
-  "missing_checks_before_expiring": 3,
   "request_timeout_seconds": 30,
   "page_size": 20
 }
