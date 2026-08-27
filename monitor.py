@@ -89,7 +89,7 @@ def load_run_log() -> list[dict[str, Any]]:
 
 def load_config() -> dict[str, Any]:
     config = load_json(CONFIG_PATH, {})
-    required = {"search_term", "missing_checks_before_expiring", "page_size"}
+    required = {"search_term", "page_size"}
     missing = required - config.keys()
     if missing:
         raise ValueError(f"Missing config values: {', '.join(sorted(missing))}")
@@ -217,7 +217,6 @@ def normalize_job(raw: dict[str, Any], observed_at: str, config: dict[str, Any])
         "expired_at": None,
         "reopened_at": None,
         "status": "active",
-        "missing_checks": 0,
     }
 
 
@@ -232,12 +231,17 @@ def update_jobs(
         for raw in fetched
         if raw.get("uuid") and is_watched_job(raw, config)
     }
-    stats = {"fetched": len(fetched), "matching": len(matching), "new": 0, "active": 0, "missing": 0, "expired": 0, "reopened": 0}
+    stats = {"fetched": len(fetched), "matching": len(matching), "new": 0, "active": 0, "expired": 0, "reopened": 0}
 
     for job_id, current in matching.items():
+        if advertised_expired(current, observed_at):
+            current["status"] = "expired"
+            current["expired_at"] = observed_at
         if job_id not in stored:
             stored[job_id] = current
             stats["new"] += 1
+            if current["status"] == "expired":
+                stats["expired"] += 1
             continue
         existing = stored[job_id]
         was_expired = existing.get("status") in ("ended", "expired")
@@ -248,18 +252,12 @@ def update_jobs(
             existing["reopened_at"] = observed_at
             stats["reopened"] += 1
 
-    threshold = max(1, int(config["missing_checks_before_expiring"]))
     for job_id, job in stored.items():
         if job_id in matching or job.get("status") in ("ended", "expired"):
             continue
-        job["missing_checks"] = int(job.get("missing_checks", 0)) + 1
-        if job["missing_checks"] >= threshold:
-            job["status"] = "expired"
-            job["expired_at"] = observed_at
-            stats["expired"] += 1
-        else:
-            job["status"] = "possibly_missing"
-            stats["missing"] += 1
+        job["status"] = "expired"
+        job["expired_at"] = observed_at
+        stats["expired"] += 1
 
     stats["active"] = sum(1 for job in stored.values() if job.get("status") == "active")
     return stored, stats
@@ -273,6 +271,26 @@ def fmt_date(value: Any) -> str:
     if value in (None, ""):
         return "—"
     return str(value)[:10]
+
+
+def advertised_expired(job: dict[str, Any], observed_at: str) -> bool:
+    expires_at = job.get("expires_at")
+    if not expires_at:
+        return False
+    try:
+        return datetime.fromisoformat(str(expires_at)[:10]).date() <= datetime.fromisoformat(observed_at).date()
+    except ValueError:
+        return False
+
+
+def posted_within_days(job: dict[str, Any], reference_at: str | None, days: int) -> bool:
+    if not reference_at or not job.get("posted_at"):
+        return False
+    try:
+        age = (datetime.fromisoformat(str(reference_at)).date() - datetime.fromisoformat(str(job["posted_at"])[:10]).date()).days
+        return 0 <= age <= days
+    except ValueError:
+        return False
 
 
 def fmt_datetime(value: Any) -> str:
@@ -341,6 +359,8 @@ def render_dashboard(jobs: dict[str, dict[str, Any]], config: dict[str, Any], ru
     rows = []
     for row_index, job in enumerate(ordered):
         status = "expired" if job.get("status") == "ended" else job.get("status", "unknown")
+        is_new = posted_within_days(job, last_successful_check, 7)
+        new_badge = "<span class='new-badge'>New</span>" if is_new else ""
         salary = f"{fmt_money(job.get('salary_min'))}–{fmt_money(job.get('salary_max'))}"
         if job.get("salary_period"):
             salary += f" {job['salary_period']}"
@@ -358,10 +378,10 @@ def render_dashboard(jobs: dict[str, dict[str, Any]], config: dict[str, Any], ru
             f"data-salary-max='{job.get('salary_max') if job.get('salary_max') is not None else ''}' "
             f"data-salary-mid='{salary_mid}' data-posted='{html.escape(job.get('posted_at') or '')}' "
             f"data-expires='{html.escape(job.get('expires_at') or '')}' data-first-seen='{html.escape(fmt_date(job.get('first_seen_at')))}' "
-            f"data-last-seen='{html.escape(fmt_date(job.get('last_seen_at')))}' data-expired='{html.escape(fmt_date(job.get('expired_at') or job.get('ended_at')))}' data-index='{row_index}' "
+            f"data-last-seen='{html.escape(fmt_date(job.get('last_seen_at')))}' data-expired='{html.escape(fmt_date(job.get('expired_at') or job.get('ended_at')))}' data-new={'1' if is_new else '0'} data-index='{row_index}' "
             f"data-search='{html.escape((job.get('title','') + ' ' + job.get('company','')).casefold())}'>"
             f"<td><span class='badge {html.escape(status)}'>{html.escape(status.replace('_', ' ').title())}</span></td>"
-            f"<td><a href='output/details/{html.escape(job.get('source_job_id',''))}.html'>{html.escape(job.get('title',''))}</a></td>"
+            f"<td><a href='output/details/{html.escape(job.get('source_job_id',''))}.html'>{html.escape(job.get('title',''))}</a>{new_badge}</td>"
             f"<td>{html.escape(job.get('company',''))}</td>"
             f"<td>{html.escape(salary)}</td>"
             f"<td>{html.escape(job.get('posted_at') or '—')}</td>"
@@ -382,8 +402,7 @@ def render_dashboard(jobs: dict[str, dict[str, Any]], config: dict[str, Any], ru
         if entry_status == "success":
             result = (
                 f"Ran {entry.get('execution_seconds', '—')}s · Fetched {entry.get('fetched', 0)} · Tracked {entry.get('matching', 0)} · "
-                f"New {entry.get('new', 0)} · Missing {entry.get('missing', 0)} · "
-                f"Expired {entry.get('expired', 0)}"
+                f"New {entry.get('new', 0)} · Expired {entry.get('expired', 0)}"
             )
         else:
             result = f"Ran {entry.get('execution_seconds', '—')}s · {entry.get('error', 'Unknown error')}"
@@ -400,34 +419,34 @@ def render_dashboard(jobs: dict[str, dict[str, Any]], config: dict[str, Any], ru
 *{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 system-ui,-apple-system,sans-serif}}
 main{{max-width:1280px;margin:auto;padding:32px 20px}}h1{{margin:0;font-size:28px}}.sub{{color:var(--muted);margin:4px 0 24px}}
 .criteria{{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:#eef4ff;border:1px solid #b8ccff;border-radius:12px;padding:12px 14px;margin:0 0 18px;color:#173b8f}}.criteria strong{{margin-right:4px}}.criteria span{{background:white;border:1px solid #c9d8ff;border-radius:7px;padding:5px 9px}}.criteria-chip{{display:inline-block;background:#eef4ff;border:1px solid #c9d8ff;color:#173b8f;border-radius:6px;padding:2px 6px;margin:1px 2px;font-size:12px}}
-.topbar{{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}}.log-toggle{{width:auto;white-space:nowrap;background:white;color:#155eef;border-color:#b8ccff;padding:7px 10px;font-size:13px}}.run-log{{background:white;border:1px solid var(--line);border-radius:12px;padding:18px;margin:0 0 18px}}.run-log h2{{margin:0 0 10px;font-size:17px}}.run-log table{{white-space:normal}}.run-status{{display:inline-block;border-radius:6px;padding:2px 7px;font-weight:700;font-size:12px}}.run-status.success{{background:#dcfce7;color:#166534}}.run-status.failed{{background:#fee2e2;color:#991b1b}}
+.topbar{{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}}.log-toggle{{width:auto;white-space:nowrap;background:white;color:#155eef;border-color:#b8ccff;padding:7px 10px;font-size:13px}}.run-log{{background:white;border:1px solid var(--line);border-radius:12px;padding:18px;margin:0 0 18px}}.run-log h2{{margin:0 0 10px;font-size:17px}}.run-log table{{white-space:normal}}.run-status{{display:inline-block;border-radius:6px;padding:2px 7px;font-weight:700;font-size:12px}}.run-status.success{{background:#dcfce7;color:#166534}}.run-status.failed{{background:#fee2e2;color:#991b1b}}.new-badge{{display:inline-block;background:#dbeafe;color:#1d4ed8;border-radius:999px;padding:2px 7px;margin-left:6px;font-size:11px;font-weight:700}}
 .cards{{display:grid;grid-template-columns:repeat(5,minmax(130px,1fr));gap:12px;margin-bottom:18px}}.card{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}}.card b{{display:block;font-size:26px}}.card span{{color:var(--muted)}}
 .controls{{display:grid;grid-template-columns:1.3fr 1.2fr .7fr .9fr .8fr;gap:10px;margin:18px 0}}input,select,button{{min-width:0;width:100%;border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:white;font:inherit}}button{{background:#155eef;color:white;border-color:#155eef;font-weight:700;cursor:pointer}}button:hover{{background:#124dcc}}
 .chart{{background:white;border:1px solid var(--line);border-radius:12px;padding:18px;margin:18px 0}}.chart h2{{margin:0 0 2px;font-size:17px}}.chart p{{margin:0 0 10px;color:var(--muted)}}#salaryChart{{display:block;width:100%;height:250px}}.axis{{stroke:#cbd5e1;stroke-width:1}}.trend{{fill:none;stroke:#155eef;stroke-width:3}}.point{{fill:#155eef}}.chart-label{{fill:#637083;font-size:11px}}.no-chart{{color:var(--muted);text-align:center;padding:60px 0}}
 .x-axis-label{{text-align:center;color:var(--muted);font-size:12px;margin-top:-18px}}.table-actions{{display:flex;justify-content:flex-end;margin:0 0 10px}}.table-actions button{{width:auto}}
 .table-wrap{{overflow:auto;background:white;border:1px solid var(--line);border-radius:12px}}table{{width:100%;border-collapse:collapse;white-space:nowrap}}th,td{{text-align:left;padding:12px;border-bottom:1px solid var(--line)}}th{{background:#f8fafc;color:var(--muted);font-size:12px;text-transform:uppercase}}a{{color:var(--blue);font-weight:600;text-decoration:none}}a:hover{{text-decoration:underline}}
 .sort-header{{all:unset;cursor:pointer;font:inherit;color:inherit;text-transform:inherit}}.sort-header:hover{{color:#155eef}}.sort-header[aria-sort="ascending"]::after{{content:" ▲"}}.sort-header[aria-sort="descending"]::after{{content:" ▼"}}
-.badge{{display:inline-block;border-radius:999px;padding:3px 8px;font-size:12px;font-weight:700}}.active{{background:#dcfce7;color:#166534}}.possibly_missing{{background:#fef3c7;color:#92400e}}.expired{{background:#e5e7eb;color:#4b5563}}
+.badge{{display:inline-block;border-radius:999px;padding:3px 8px;font-size:12px;font-weight:700}}.active{{background:#dcfce7;color:#166534}}.expired{{background:#e5e7eb;color:#4b5563}}
 .empty{{display:none;text-align:center;padding:30px;color:var(--muted)}}footer{{margin-top:16px;color:var(--muted);font-size:12px}}@media(max-width:900px){{.cards{{grid-template-columns:1fr 1fr}}.controls{{grid-template-columns:1fr 1fr}}}}@media(max-width:600px){{.controls{{grid-template-columns:1fr}}}}
 </style></head><body><main>
 <div class="topbar"><div><h1>MyCareersFuture Job Tracker</h1><p class="sub">Promoted recommendations excluded · Last successful check: {html.escape(fmt_datetime(last_successful_check))}</p></div><button id="toggleRunLog" class="log-toggle" type="button" aria-expanded="false">Run log</button></div>
 <section class="criteria"><strong>Tracking criteria</strong><span>Title keywords: Actuary, actuarial</span><span>Companies: {html.escape(company_summary)}</span></section>
 <section id="runLogPanel" class="run-log" hidden><h2>Monitor run log</h2><table><thead><tr><th>Finished</th><th>Status</th><th>High-level results or error</th></tr></thead><tbody>{''.join(run_history_rows) or '<tr><td colspan="3">No runs recorded yet.</td></tr>'}</tbody></table></section>
 <section class="cards"><div class="card"><b id="activeCount">0</b><span>Active postings</span></div><div class="card"><b id="age7">0</b><span>Posted ≤7 days ago</span></div><div class="card"><b id="age30">0</b><span>Posted 8–30 days ago</span></div><div class="card"><b id="age31">0</b><span>Posted 31+ days ago</span></div><div class="card"><b id="avgSalary">—</b><span>Average midpoint salary</span></div></section>
-<div class="controls"><input id="search" type="search" placeholder="Search title or company"><select id="company"><option value="all">All companies</option>{company_options}</select><input id="minSalary" type="number" min="0" step="500" placeholder="Minimum salary"><select id="sort"><option value="default">Default sorting</option><option value="min-asc">Minimum salary: low to high</option><option value="min-desc">Minimum salary: high to low</option><option value="max-asc">Maximum salary: low to high</option><option value="max-desc">Maximum salary: high to low</option></select><select id="status"><option value="all">All statuses</option><option value="active" selected>Active</option><option value="possibly_missing">Possibly missing</option><option value="expired">Expired postings</option></select></div>
+<div class="controls"><input id="search" type="search" placeholder="Search title or company"><select id="company"><option value="all">All companies</option>{company_options}</select><input id="minSalary" type="number" min="0" step="500" placeholder="Minimum salary"><select id="sort"><option value="default">Default sorting</option><option value="min-asc">Minimum salary: low to high</option><option value="min-desc">Minimum salary: high to low</option><option value="max-asc">Maximum salary: low to high</option><option value="max-desc">Maximum salary: high to low</option></select><select id="status"><option value="all">All statuses</option><option value="active" selected>Active</option><option value="expired">Expired postings</option></select><select id="newFilter"><option value="all">All posting dates</option><option value="new">Posted within 7 days</option></select></div>
 <section class="chart"><h2>Average salary trend</h2><p>Monthly average of (minimum salary + maximum salary) ÷ 2 for visible active postings</p><svg id="salaryChart" viewBox="0 0 760 250" role="img" aria-label="Average midpoint salary by posting month"></svg><div class="x-axis-label">Job posting month</div><div id="noChart" class="no-chart" hidden>Not enough salary data for this filter.</div></section>
 <div class="table-actions"><button id="downloadCsv" type="button">Download visible CSV</button></div>
 <div class="table-wrap"><table><thead><tr><th><button class="sort-header" data-sort-field="status">Status</button></th><th><button class="sort-header" data-sort-field="title">Job title</button></th><th><button class="sort-header" data-sort-field="company">Company</button></th><th><button class="sort-header" data-sort-field="salaryMin" data-sort-type="number">Salary</button></th><th><button class="sort-header" data-sort-field="posted">Posted</button></th><th><button class="sort-header" data-sort-field="expires">Advertised expiry</button></th><th><button class="sort-header" data-sort-field="firstSeen">First seen</button></th><th><button class="sort-header" data-sort-field="lastSeen">Last seen</button></th><th><button class="sort-header" data-sort-field="expired">Confirmed expired</button></th><th>Matched criteria</th><th>Source</th></tr></thead><tbody id="jobs">{''.join(rows)}</tbody></table><div id="empty" class="empty">No jobs match these filters.</div></div>
-<footer>Source: MyCareersFuture. “Expired posting” means absent from {int(config['missing_checks_before_expiring'])} consecutive complete successful searches. Dates use Singapore time.</footer>
+<footer>Source: MyCareersFuture. “Expired posting” means the listing is no longer returned by a complete successful search, or its advertised expiry date has passed. Dates use Singapore time.</footer>
 <script>
-const q=document.querySelector('#search'),company=document.querySelector('#company'),minSalary=document.querySelector('#minSalary'),sort=document.querySelector('#sort'),statusFilter=document.querySelector('#status'),tbody=document.querySelector('#jobs'),rows=[...tbody.querySelectorAll('tr')],empty=document.querySelector('#empty');
+const q=document.querySelector('#search'),company=document.querySelector('#company'),minSalary=document.querySelector('#minSalary'),sort=document.querySelector('#sort'),statusFilter=document.querySelector('#status'),newFilter=document.querySelector('#newFilter'),tbody=document.querySelector('#jobs'),rows=[...tbody.querySelectorAll('tr')],empty=document.querySelector('#empty');
 let headerSort={{field:null,direction:'asc',type:'text'}};
 const money=n=>n?new Intl.NumberFormat('en-SG',{{style:'currency',currency:'SGD',maximumFractionDigits:0}}).format(n):'—';
 function drawTrend(activeRows){{const svg=document.querySelector('#salaryChart'),noChart=document.querySelector('#noChart'),groups={{}};for(const row of activeRows){{const month=row.dataset.posted.slice(0,7),mid=Number(row.dataset.salaryMid);if(month&&mid){{(groups[month]??=[]).push(mid)}}}}const data=Object.entries(groups).sort().map(([month,v])=>({{month,value:v.reduce((a,b)=>a+b,0)/v.length}}));svg.innerHTML='';if(!data.length){{svg.hidden=true;noChart.hidden=false;return}}svg.hidden=false;noChart.hidden=true;const W=760,H=250,L=64,R=24,T=24,B=44,max=Math.max(...data.map(d=>d.value))*1.12,min=Math.min(...data.map(d=>d.value))*0.88||0;const x=i=>data.length===1?(L+W-R)/2:L+i*(W-L-R)/(data.length-1),y=v=>T+(max-v)*(H-T-B)/(max-min||1);svg.innerHTML=`<line class="axis" x1="${{L}}" y1="${{H-B}}" x2="${{W-R}}" y2="${{H-B}}"/><line class="axis" x1="${{L}}" y1="${{T}}" x2="${{L}}" y2="${{H-B}}"/>`+data.map((d,i)=>`<text class="chart-label" text-anchor="middle" x="${{x(i)}}" y="${{H-18}}">${{d.month}}</text>`).join('')+`<text class="chart-label" text-anchor="end" x="${{L-8}}" y="${{y(max)+4}}">${{money(max)}}</text><text class="chart-label" text-anchor="end" x="${{L-8}}" y="${{y(min)+4}}">${{money(min)}}</text><polyline class="trend" points="${{data.map((d,i)=>`${{x(i)}},${{y(d.value)}}`).join(' ')}}"/>`+data.map((d,i)=>`<circle class="point" cx="${{x(i)}}" cy="${{y(d.value)}}" r="5"><title>${{d.month}}: ${{money(d.value)}}</title></circle><text class="chart-label" text-anchor="middle" x="${{x(i)}}" y="${{y(d.value)-10}}">${{money(d.value)}}</text>`).join('')}}
 function applySort(){{let field,direction,type;if(sort.value!=='default'){{const parts=sort.value.split('-');field=parts[0]==='min'?'salaryMin':'salaryMax';direction=parts[1];type='number'}}else if(headerSort.field){{({{field,direction,type}}=headerSort)}}else{{field='index';direction='asc';type='number'}}const sorted=[...rows].sort((a,b)=>{{let av=a.dataset[field]??'',bv=b.dataset[field]??'';if(type==='number'){{av=Number(av||0);bv=Number(bv||0)}}else{{av=av.toLocaleLowerCase();bv=bv.toLocaleLowerCase()}}const comparison=type==='number'?av-bv:av.localeCompare(bv);return direction==='asc'?comparison:-comparison}});sorted.forEach(row=>tbody.appendChild(row))}}
-function filter(){{applySort();let visible=0;const minimum=Number(minSalary.value||0);for(const row of rows){{const rowSalary=Number(row.dataset.salaryMin||0),show=(!q.value||row.dataset.search.includes(q.value.toLowerCase()))&&(company.value==='all'||row.dataset.company===company.value)&&(statusFilter.value==='all'||row.dataset.status===statusFilter.value)&&(!minimum||rowSalary>=minimum);row.hidden=!show;if(show)visible++}}empty.style.display=visible?'none':'block';const activeRows=rows.filter(r=>!r.hidden&&r.dataset.status==='active'),today=new Date();let age7=0,age30=0,age31=0;const mids=[];for(const row of activeRows){{const days=(today-new Date(row.dataset.posted+'T00:00:00'))/86400000;if(days<=7)age7++;else if(days<=30)age30++;else age31++;const mid=Number(row.dataset.salaryMid);if(mid)mids.push(mid)}}document.querySelector('#activeCount').textContent=activeRows.length;document.querySelector('#age7').textContent=age7;document.querySelector('#age30').textContent=age30;document.querySelector('#age31').textContent=age31;document.querySelector('#avgSalary').textContent=mids.length?money(mids.reduce((a,b)=>a+b,0)/mids.length):'—';drawTrend(activeRows)}}
+function filter(){{applySort();let visible=0;const minimum=Number(minSalary.value||0);for(const row of rows){{const rowSalary=Number(row.dataset.salaryMin||0),show=(!q.value||row.dataset.search.includes(q.value.toLowerCase()))&&(company.value==='all'||row.dataset.company===company.value)&&(statusFilter.value==='all'||row.dataset.status===statusFilter.value)&&(newFilter.value==='all'||row.dataset.new==='1')&&(!minimum||rowSalary>=minimum);row.hidden=!show;if(show)visible++}}empty.style.display=visible?'none':'block';const activeRows=rows.filter(r=>!r.hidden&&r.dataset.status==='active'),today=new Date();let age7=0,age30=0,age31=0;const mids=[];for(const row of activeRows){{const days=(today-new Date(row.dataset.posted+'T00:00:00'))/86400000;if(days<=7)age7++;else if(days<=30)age30++;else age31++;const mid=Number(row.dataset.salaryMid);if(mid)mids.push(mid)}}document.querySelector('#activeCount').textContent=activeRows.length;document.querySelector('#age7').textContent=age7;document.querySelector('#age30').textContent=age30;document.querySelector('#age31').textContent=age31;document.querySelector('#avgSalary').textContent=mids.length?money(mids.reduce((a,b)=>a+b,0)/mids.length):'—';drawTrend(activeRows)}}
 function downloadCsv(){{const visible=[...tbody.querySelectorAll('tr')].filter(row=>!row.hidden),headers=['Status','Job','Company','Salary','Posted','Advertised expiry','First seen','Last seen','Confirmed expired','Matched criteria','Source URL'],quote=value=>'"'+String(value??'').replaceAll('"','""')+'"',lines=[headers.map(quote).join(',')];for(const row of visible){{const cells=[...row.cells],source=cells[10].querySelector('a')?.href||'';lines.push([cells[0].innerText,cells[1].innerText,cells[2].innerText,cells[3].innerText,cells[4].innerText,cells[5].innerText,cells[6].innerText,cells[7].innerText,cells[8].innerText,cells[9].innerText,source].map(quote).join(','))}}const blob=new Blob([lines.join('\\n')],{{type:'text/csv;charset=utf-8'}}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='job-tracker-filtered.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}}
-[q,company,minSalary,sort,statusFilter].forEach(el=>el.addEventListener(el.tagName==='INPUT'?'input':'change',filter));for(const button of document.querySelectorAll('.sort-header')){{button.addEventListener('click',()=>{{const same=headerSort.field===button.dataset.sortField;headerSort={{field:button.dataset.sortField,direction:same&&headerSort.direction==='asc'?'desc':'asc',type:button.dataset.sortType||'text'}};sort.value='default';document.querySelectorAll('.sort-header').forEach(b=>b.removeAttribute('aria-sort'));button.setAttribute('aria-sort',headerSort.direction==='asc'?'ascending':'descending');filter()}})}}document.querySelector('#downloadCsv').addEventListener('click',downloadCsv);document.querySelector('#toggleRunLog').addEventListener('click',()=>{{const panel=document.querySelector('#runLogPanel'),button=document.querySelector('#toggleRunLog');panel.hidden=!panel.hidden;button.setAttribute('aria-expanded',String(!panel.hidden))}});filter();
+[q,company,minSalary,sort,statusFilter,newFilter].forEach(el=>el.addEventListener(el.tagName==='INPUT'?'input':'change',filter));for(const button of document.querySelectorAll('.sort-header')){{button.addEventListener('click',()=>{{const same=headerSort.field===button.dataset.sortField;headerSort={{field:button.dataset.sortField,direction:same&&headerSort.direction==='asc'?'desc':'asc',type:button.dataset.sortType||'text'}};sort.value='default';document.querySelectorAll('.sort-header').forEach(b=>b.removeAttribute('aria-sort'));button.setAttribute('aria-sort',headerSort.direction==='asc'?'ascending':'descending');filter()}})}}document.querySelector('#downloadCsv').addEventListener('click',downloadCsv);document.querySelector('#toggleRunLog').addEventListener('click',()=>{{const panel=document.querySelector('#runLogPanel'),button=document.querySelector('#toggleRunLog');panel.hidden=!panel.hidden;button.setAttribute('aria-expanded',String(!panel.hidden))}});filter();
 </script></main></body></html>"""
 
 
@@ -467,7 +486,7 @@ def main() -> int:
     write_job_details(dataset.get("jobs", {}))
     print(f"Checked: {run.get('checked_at', 'Never')}")
     if not args.render_only:
-        print(f"Fetched: {run['fetched']} | Tracked matches: {run['matching']} | New: {run['new']} | Active: {run['active']} | Possibly missing: {run['missing']} | Expired: {run['expired']}")
+        print(f"Fetched: {run['fetched']} | Tracked matches: {run['matching']} | New: {run['new']} | Active: {run['active']} | Expired: {run['expired']}")
     print(f"Dashboard: {DASHBOARD_PATH}")
     return 0
 
