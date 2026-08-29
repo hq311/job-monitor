@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-09-05",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -68,7 +68,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -122,7 +122,7 @@
       "expired_at": null,
       "expires_at": "2026-09-06",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -172,7 +172,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -225,7 +225,7 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-29T16:53:50+08:00",
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
       "last_seen_at": "2026-08-27T19:34:05+08:00",
@@ -263,7 +263,7 @@
       ],
       "source_job_id": "5317eacf6305242d9daf08b2c044c480",
       "source_job_post_id": "MCF-2026-1300827",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Pricing Manager, Life Insurance",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-pricing-manager-life-insurance-gravitas-recruitment-group-5317eacf6305242d9daf08b2c044c480",
       "vacancies": 1
@@ -279,7 +279,7 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-29T16:53:50+08:00",
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
       "last_seen_at": "2026-08-27T19:34:05+08:00",
@@ -316,7 +316,7 @@
       ],
       "source_job_id": "598e2a4899637f5d79d9d016fe5937f4",
       "source_job_post_id": "MCF-2026-1305133",
-      "status": "active",
+      "status": "expired",
       "title": "Data Scientist, APAC",
       "url": "https://www.mycareersfuture.gov.sg/job/information-technology/data-scientist-apac-zurich-insurance-company-598e2a4899637f5d79d9d016fe5937f4",
       "vacancies": 1
@@ -332,10 +332,10 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-29T16:53:50+08:00",
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -368,7 +368,7 @@
       ],
       "source_job_id": "59cb7ae7404fa053faddbacd7407c0d7",
       "source_job_post_id": "MCF-2026-1312545",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Executive",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-executive-income-insurance-59cb7ae7404fa053faddbacd7407c0d7",
       "vacancies": 1
@@ -441,7 +441,7 @@
         "Full Time"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-29T16:53:50+08:00",
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
       "last_seen_at": "2026-08-27T19:34:05+08:00",
@@ -481,7 +481,7 @@
       ],
       "source_job_id": "64b2f34ffb8f1b725da7923b9dd6703d",
       "source_job_post_id": "MCF-2026-1300913",
-      "status": "active",
+      "status": "expired",
       "title": "Senior Health Pricing Actuary, Reinsurance (SEA)",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/senior-health-pricing-actuary-reinsurance-gravitas-recruitment-group-64b2f34ffb8f1b725da7923b9dd6703d",
       "vacancies": 1
@@ -499,7 +499,7 @@
       "expired_at": null,
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -550,10 +550,10 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-29T16:53:50+08:00",
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -588,9 +588,59 @@
       ],
       "source_job_id": "758d2a31137d52cccd21ded125ca9789",
       "source_job_post_id": "MCF-2026-1309617",
-      "status": "active",
+      "status": "expired",
       "title": "Pricing Actuary",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/pricing-actuary-munich-management-758d2a31137d52cccd21ded125ca9789",
+      "vacancies": 1
+    },
+    "7c7664a6171ccd1243edc8bed9c08d24": {
+      "categories": [
+        "Accounting / Auditing / Taxation",
+        "Banking and Finance",
+        "Consulting",
+        "Insurance",
+        "Risk Management"
+      ],
+      "company": "AIA SINGAPORE PRIVATE LIMITED",
+      "company_uen": "201106386R",
+      "description": "Roles and Responsibilities:\nRegular reporting and analysis (60%)\n• Perform IFRS reporting tasks and take appropriate actions to address any potential issues in a timely and effective manner.\n• Analyze OPAT drivers, CSM movements, and assist in providing explanations of financial results to local management and Group Office.\n• Support the preparation of management reports, business analysis and reporting packs.\n• Leverage data, automation and emerging technologies, including AI-enabled solutions, to improve reporting processes, analytics and operational efficiency.\nSystem and Model Maintenance (30%)\n• Maintain actuarial models and reporting systems to support financial reporting and business requirements.\n• Support implementation and maintenance of new products, model enhancements and system changes, ensuring alignment with business and pricing requirements.\n• Assist in system testing, model validation, reconciliations, user acceptance testing (UAT) and issue resolution.\n• Document system and model changes, including preparation of change logs, testing evidence and maintenance of governance documentation.\n• Support ongoing improvements to actuarial systems, processes and controls to enhance efficiency, reliability and data quality.\nStrategic planning and projects (10%)\n• Support the annual strategic planning exercise, including the enhancement of models for the budget exercise, and preparation of management reports / presentations\n• Support company projects and initiatives from a financial reporting perspective\nMinimum Job Requirements:\n• Education – University graduate (Major in Actuarial Science, Mathematics, Statistics, or related discipline)\n• Experience – 0 to 2 years of life insurance-related actuarial working experience\n• Certifications/Licences – Progression in, or intention to pursue, professional actuarial examinations\n• Technical Skills – Knowledge of actuarial software and programming languages such as Python, R, VBA, SQL or SAS would be an advantage",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-09-27",
+      "first_seen_at": "2026-08-29T16:53:50+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 1,
+      "position_levels": [
+        "Junior Executive"
+      ],
+      "posted_at": "2026-08-28",
+      "reopened_at": null,
+      "salary_max": 5000,
+      "salary_min": 3000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Valuation",
+        "manage reporting processes",
+        "Actuarial Science",
+        "Management Reporting",
+        "Statistics",
+        "Reporting",
+        "Reporting & Analysis",
+        "Insurance",
+        "Financial Reporting",
+        "System Maintenance"
+      ],
+      "source_job_id": "7c7664a6171ccd1243edc8bed9c08d24",
+      "source_job_post_id": "MCF-2026-1509921",
+      "status": "active",
+      "title": "Actuarial, Analyst",
+      "url": "https://www.mycareersfuture.gov.sg/job/accounting/actuarial-analyst-aia-singapore-7c7664a6171ccd1243edc8bed9c08d24",
       "vacancies": 1
     },
     "84cbcfceb1fad622befa772213d1c8ad": {
@@ -607,7 +657,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -661,7 +711,7 @@
       "expired_at": null,
       "expires_at": "2026-08-31",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -709,10 +759,10 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-29T16:53:50+08:00",
       "expires_at": "2026-08-29",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -746,7 +796,7 @@
       ],
       "source_job_id": "9ec3a31dea21d833c1b0c37354e03128",
       "source_job_post_id": "MCF-2026-1312317",
-      "status": "active",
+      "status": "expired",
       "title": "Assistant Manager/Senior Executive, Actuarial (Par Fund Management)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/assistant-managersenior-executive-actuarial-income-insurance-9ec3a31dea21d833c1b0c37354e03128",
       "vacancies": 1
@@ -820,7 +870,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -872,7 +922,7 @@
       "expired_at": null,
       "expires_at": "2026-09-01",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -984,7 +1034,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1034,7 +1084,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1091,7 +1141,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-27T19:34:05+08:00",
+      "last_seen_at": "2026-08-29T16:53:50+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1141,7 +1191,7 @@
         "Full Time"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-08-29T16:53:50+08:00",
       "expires_at": "2026-08-28",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
       "last_seen_at": "2026-08-27T19:34:05+08:00",
@@ -1180,7 +1230,7 @@
       ],
       "source_job_id": "fa3d5989fb3526fa9cea0462abe0444a",
       "source_job_post_id": "MCF-2026-1405643",
-      "status": "active",
+      "status": "expired",
       "title": "Senior Actuarial Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-actuarial-analyst-chubb-asia-pacific-fa3d5989fb3526fa9cea0462abe0444a",
       "vacancies": 1
@@ -1305,6 +1355,16 @@
       "matching": 19,
       "missing": 0,
       "new": 2,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 13,
+      "checked_at": "2026-08-29T16:53:50+08:00",
+      "expired": 4,
+      "fetched": 57,
+      "matching": 16,
+      "new": 1,
       "reopened": 0,
       "status": "success"
     }
