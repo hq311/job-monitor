@@ -10,12 +10,22 @@ on:
 permissions:
   contents: write
 
+# Scheduled runs can remain queued long enough for a newer run to update main.
+# Serialize publishers so two monitor runs cannot race each other at git push.
+concurrency:
+  group: job-monitor-main
+  cancel-in-progress: false
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v5
+        with:
+          # A scheduled event's recorded SHA can be stale by the time its runner
+          # starts. Always build the tracker update from the current main branch.
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v6
