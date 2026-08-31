@@ -1,6 +1,6 @@
-# MyCareersFuture Job Monitor
+# Singapore Actuarial Job Monitor
 
-A small, dependency-free tracker for organic MyCareersFuture jobs. It tracks postings whose titles contain `Actuary` or `actuarial`, plus every job from Zurich Insurance Company Ltd (Singapore Branch), Chubb Asia Pacific Pte. Ltd., and Munich Re. Promoted/recommended cards are excluded.
+A targeted monitor for Singapore job listings on MyCareersFuture. It includes roles whose titles contain `Actuary` or `Actuarial`, plus every opening from Zurich Insurance Company Ltd (Singapore Branch), Chubb Asia Pacific Pte. Ltd., and Munich Re. It is not a complete index of all Singapore jobs, and promoted/recommended cards are excluded.
 
 ## Run
 
@@ -16,7 +16,7 @@ Live dashboard: [https://hq311.github.io/job-monitor/](https://hq311.github.io/j
 
 The dashboard includes company, status, salary, and new-posting filters; sortable columns; CSV export; a salary trend chart calculated from the currently visible active postings; and a **New** badge for jobs posted within the last seven days.
 
-The small **Run log** button (top right) expands to show the five latest monitor invocations, including success/failure, execution time, fetched/tracked/new/expired counts, and any error message. The full append-only JSON-lines history is stored at `logs/run_history.jsonl`.
+The header distinguishes **Data last updated** (the latest successful live fetch) from **Dashboard last generated** (the latest HTML rebuild). The small **Run log** button (top right) expands to show the five latest monitor invocations, including success/failure, execution time, fetched/tracked/new/expired counts, and any error message. The full append-only JSON-lines history is stored at `logs/run_history.jsonl`.
 
 Configuration lives in `config.json`. The tracker searches `Actuary`, `Actuarial`, and each watched company; deduplicates results by source UUID; and retains jobs matching the configured actuarial title stem or an exact watched-company name. Company matches are retained regardless of title.
 

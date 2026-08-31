@@ -1,4 +1,4 @@
-name: Job monitor
+name: Singapore actuarial job monitor
 
 on:
   workflow_dispatch:

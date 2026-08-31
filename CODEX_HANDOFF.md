@@ -1,4 +1,4 @@
-# Job Monitor — Codex Handoff
+# Singapore Actuarial Job Monitor — Codex Handoff
 
 Use this file as the starting context for a new Codex task. Inspect the current repository before changing anything, because the GitHub Actions workflow may have committed newer tracking data.
 
@@ -64,6 +64,7 @@ Do not reintroduce a `possibly_missing` state unless the user explicitly asks fo
 - CSV export: exports only the currently visible table rows.
 - Job titles open archived detail pages; the final `Live` link opens the current source page.
 - The top run-log button expands to show the five most recent monitor invocations.
+- The header shows separate timestamps for the latest successful live data update and the latest dashboard generation.
 - Dashboard timestamps display Singapore time.
 - The salary trend chart uses all **visible** postings, including expired ones when the status filter includes them. The top summary cards remain active-posting statistics.
 
@@ -92,7 +93,7 @@ PYTHONPYCACHEPREFIX=/tmp/job-monitor-pycache python3 -m py_compile monitor.py
 
 The workflow:
 
-- Can run manually via **Actions → Job monitor → Run workflow**.
+- Can run manually via **Actions → Singapore actuarial job monitor → Run workflow**.
 - Schedules daily at 02:00 UTC, but a cadence step runs the monitor only every other day (about 10:00 AM Singapore time), including across month boundaries.
 - Uses `actions/checkout@v5`, `actions/setup-python@v6`, and Python 3.11.
 - Commits `data/jobs.json`, `dashboard.html`, `output/details`, and `logs/run_history.jsonl` only when they change.
