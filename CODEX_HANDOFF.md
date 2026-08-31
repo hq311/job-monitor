@@ -58,15 +58,22 @@ Do not reintroduce a `possibly_missing` state unless the user explicitly asks fo
 
 ## Dashboard behavior
 
-- Table filters: title/company search, company, minimum salary, status, and jobs posted within the last 7 days.
+- Table filters: title/company search, company, inclusion reason, employment type, location, minimum salary, status, and jobs posted within the last 7 days.
 - `New` badge: a job posted within the last 7 days; this is not based on when the monitor first found it.
 - Table sorting: table headers and salary sorting dropdown.
+- Table headers remain visible while scrolling through the job list.
 - CSV export: exports only the currently visible table rows.
 - Job titles open archived detail pages; the final `Live` link opens the current source page.
 - The top run-log button expands to show the five most recent monitor invocations.
-- The header shows separate timestamps for the latest successful live data update and the latest dashboard generation.
-- Dashboard timestamps display Singapore time.
+- New run-log entries identify scheduled, manual GitHub Actions, and local invocations. Older live-run entries without trigger metadata display as unknown.
+- Render-only entries show the latest saved totals with a clear `Data unchanged` label.
+- The header shows the latest successful live data update; render-only runs do not change this timestamp.
+- If the latest live fetch fails, the saved dashboard is rebuilt with a warning while the last good job data remains unchanged.
+- Dashboard timestamps display the compact `SGT` label (Singapore Time).
 - The salary trend chart uses all **visible** postings, including expired ones when the status filter includes them. The top summary cards remain active-posting statistics.
+- Watched companies use short display names on the dashboard; matching and archived details retain exact registered names.
+- Transient request failures receive one retry after the configured delay.
+- Generated dashboard/detail files are written only when their content changed.
 
 ## Run commands
 

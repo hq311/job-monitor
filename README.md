@@ -14,11 +14,13 @@ Then open `dashboard.html` in the repository folder. Run the same command later 
 
 Live dashboard: [https://hq311.github.io/job-monitor/](https://hq311.github.io/job-monitor/)
 
-The dashboard includes company, status, salary, and new-posting filters; sortable columns; CSV export; a salary trend chart calculated from the currently visible active postings; and a **New** badge for jobs posted within the last seven days.
+The dashboard includes company, inclusion-reason, employment-type, location, status, salary, and new-posting filters; sortable columns with a sticky header; CSV export; a salary trend chart calculated from the currently visible active postings; and a **New** badge for jobs posted within the last seven days. Watched companies use shorter display names on the dashboard while exact registered names remain in the stored data and archived job details.
 
-The header distinguishes **Data last updated** (the latest successful live fetch) from **Dashboard last generated** (the latest HTML rebuild). The small **Run log** button (top right) expands to show the five latest monitor invocations, including success/failure, execution time, fetched/tracked/new/expired counts, and any error message. The full append-only JSON-lines history is stored at `logs/run_history.jsonl`.
+The header shows **Data last updated**, based only on the latest successful live fetch. If a newer live update attempt fails, the dashboard displays a warning while retaining the last good dataset. The small **Run log** button (top right) expands to show the five latest monitor invocations, including whether each was scheduled, manually dispatched, or run locally. Dashboard-only rebuilds retain the latest saved totals but are explicitly labeled **Data unchanged**. The full append-only JSON-lines history is stored at `logs/run_history.jsonl`.
 
 Configuration lives in `config.json`. The tracker searches `Actuary`, `Actuarial`, and each watched company; deduplicates results by source UUID; and retains jobs matching the configured actuarial title stem or an exact watched-company name. Company matches are retained regardless of title.
+
+Each MyCareersFuture request gets one additional attempt after a short delay when it fails because of a timeout, connection problem, rate limit, or server error. Generated dashboard and detail files are rewritten only when their contents changed.
 
 Each job records and displays all matching criteria. For example, a Zurich actuarial posting can carry both title and company tags.
 

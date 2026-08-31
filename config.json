@@ -13,8 +13,14 @@
     "CHUBB ASIA PACIFIC PTE. LTD.",
     "MUNICH RE"
   ],
+  "company_display_names": {
+    "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)": "Zurich Singapore",
+    "CHUBB ASIA PACIFIC PTE. LTD.": "Chubb Asia Pacific",
+    "MUNICH RE": "Munich Re"
+  },
   "title_match": "stem",
   "title_stem": "actuar",
   "request_timeout_seconds": 30,
+  "request_retry_delay_seconds": 2,
   "page_size": 20
 }
