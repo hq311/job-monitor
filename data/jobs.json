@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-09-05",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -68,7 +68,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -121,7 +121,7 @@
       "expired_at": null,
       "expires_at": "2026-09-15",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -172,7 +172,7 @@
       "expired_at": null,
       "expires_at": "2026-09-06",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -222,7 +222,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -549,7 +549,7 @@
       "expired_at": null,
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -660,7 +660,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -707,7 +707,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -760,7 +760,7 @@
       "expired_at": null,
       "expires_at": "2026-09-14",
       "first_seen_at": "2026-08-31T22:38:51+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -972,7 +972,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1021,10 +1021,10 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": "2026-09-01T19:14:05+08:00",
+      "expired_at": "2026-09-01T19:35:16+08:00",
       "expires_at": "2026-09-01",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1035,7 +1035,7 @@
         "Senior Executive"
       ],
       "posted_at": "2026-08-25",
-      "reopened_at": null,
+      "reopened_at": "2026-09-01T19:35:16+08:00",
       "salary_max": 6000,
       "salary_min": 4500,
       "salary_period": "Monthly",
@@ -1132,7 +1132,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1183,7 +1183,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1233,7 +1233,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1290,7 +1290,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:35:16+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1535,6 +1535,16 @@
       "matching": 15,
       "new": 2,
       "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 14,
+      "checked_at": "2026-09-01T19:35:16+08:00",
+      "expired": 0,
+      "fetched": 53,
+      "matching": 15,
+      "new": 0,
+      "reopened": 1,
       "status": "success"
     }
   ]
