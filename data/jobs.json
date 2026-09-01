@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-09-05",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -68,7 +68,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -108,6 +108,56 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/planning-performance-management-executive-zurich-insurance-company-0b430a54848dc3e6b148df52b2e29017",
       "vacancies": 1
     },
+    "18fb1ad0e2c626070d2ce40e3930c7f0": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "CHINA LIFE INSURANCE (SINGAPORE) PTE. LTD.",
+      "company_uen": "201433645N",
+      "description": "Roles and Responsibilities:\nActuarial - Valuation:\nResponsible for the preparation of reserves, new business embedded value, statutory forms and other internal and external reports\nPerform analysis of results, including explanation of movement in valuation results\nProvide support in enhancing and modification of the valuation system\nMonitor the financial positions of the company to ensure ongoing RBC2 solvency\nAssist to manage valuation related projects and coordinate with internal and external parties\nInvolve in the annual review exercise of experience studies, bonus investigation, stress test and policies such as reserving SOP, NBEV SOP, CAR computation SOP and Par Internal Governance Policy\nAssist in the preparation of annual SAA review and business plan\nOthers:\nTo participate in other projects assigned by the Chief Actuary\nJob Requirements:\nGood degree in Actuarial Science or related subjects\nJob title and rank depend on the number of years actuarial working experience in direct life insurance business or consulting firms\nFamiliar with Singapore RBC2 regulations and RBC2 development is an advantage\nFamiliar with actuarial reserving and embedded value reporting\nProficient in MS Excel and MS Access\nGood communication and project management skills\nAbility to read Chinese will be an advantage",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-09-15",
+      "first_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-09-01",
+      "reopened_at": null,
+      "salary_max": 8000,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Valuation Approaches and Methodologies",
+        "Reserves",
+        "Results analysis",
+        "Valuation",
+        "Actuarial Support",
+        "Licensed Life Insurance Agent",
+        "statutory valuation",
+        "Monitor Financial Performance",
+        "Actuarial Science",
+        "Annual business plan development",
+        "Life Insurance",
+        "Excel Training",
+        "Governance Policies",
+        "Project Management Professional"
+      ],
+      "source_job_id": "18fb1ad0e2c626070d2ce40e3930c7f0",
+      "source_job_post_id": "MCF-2026-1527438",
+      "status": "active",
+      "title": "Actuarial Senior Officer/Assistant Manager/Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-senior-officerassistant-managermanager-china-life-insurance-18fb1ad0e2c626070d2ce40e3930c7f0",
+      "vacancies": 1
+    },
     "2fae869c03a274466d863ff02791ffc3": {
       "categories": [
         "Insurance"
@@ -122,7 +172,7 @@
       "expired_at": null,
       "expires_at": "2026-09-06",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -172,7 +222,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -499,7 +549,7 @@
       "expired_at": null,
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -610,7 +660,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -657,7 +707,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -710,7 +760,7 @@
       "expired_at": null,
       "expires_at": "2026-09-14",
       "first_seen_at": "2026-08-31T22:38:51+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -922,7 +972,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -971,10 +1021,10 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-09-01T19:14:05+08:00",
       "expires_at": "2026-09-01",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1009,7 +1059,7 @@
       ],
       "source_job_id": "c936750f7b5610392ab61b60e3c86dbe",
       "source_job_post_id": "MCF-2026-1483356",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial analsyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analsyst-jk-recruitment-services-c936750f7b5610392ab61b60e3c86dbe",
       "vacancies": 1
@@ -1068,6 +1118,53 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/claims-excellence-lead-apac-zurich-insurance-company-cb83d69cc5fb3882ad70607b87f49f1e",
       "vacancies": 1
     },
+    "db7fb554b494b147f713cd9fd9ac0edb": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "AIA SINGAPORE PRIVATE LIMITED",
+      "company_uen": "201106386R",
+      "description": "This role is responsible for ensuring the delivery of timely and quality management information to aid in the overall business strategy and operational goals of the Corporate Solutions division.\nThe role holder will liaise with internal stakeholders including Senior Management, Finance, Actuarial and Group Office. External stakeholders include intermediaries, reinsurers, industry associations and regulators.\nResponsibilities:\nManagement Reporting (50%)\nEnsure timely and accurate submission of management reports. This includes internal reports for decision making by local and group management, and regulatory and industry reports submitted to MAS / LIA.\nPerform analysis on financial indicators and performance metrics and provide inputs for business and strategy planning\nTableau Dashboards (20%)\nDevelop and maintain Tableau dashboards that provide quality management information to support business monitoring, decision-making and business strategy\nReinsurance Management and Administration (15%)\nEnsure timely and accurate submission of reports for reinsurance and pool administration, including preparing regulatory and industry reports to internal and external stakeholders\nAssist in the review, negotiation, and analysis of reinsurance treaties\nSupport the review of treaty documentation and ensure adherence to Group guidelines\nOthers (15%)\nOther responsibilities and duties periodically assigned in order to meet overall business strategic, financial and operational goals.\nRequirements:\nBachelor’s degree in Actuarial Studies / Business or Data Analytics / Mathematics & Statistics\n2 to 7 years of working experience in Actuarial / Group Insurance (Employee Benefits) / Data analytics / Management reporting / Other business support functions involved in working with large and complex datasets\nProficient with Microsoft Office (Word, Excel, Powerpoint, Access)\nProficient with SQL and at least one programming language\nExperience with BI tools, e.g. Tableau, Quickview, Power BI, etc.\nMeticulous and detail-oriented\nStrong analytical and problem-solving skills\nAble to work both independently and within a team\nAble to effectively manage multiple projects and priorities within tight timelines",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-01",
+      "first_seen_at": "2026-09-01T19:14:05+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-01",
+      "reopened_at": null,
+      "salary_max": 6000,
+      "salary_min": 3400,
+      "salary_period": "Monthly",
+      "skills": [
+        "Tableau",
+        "Dashboards",
+        "Group Insurance",
+        "Detail Oriented",
+        "Data Analysis",
+        "Reinsurance",
+        "SQL",
+        "Management Reporting",
+        "Reports",
+        "Internal and External Reporting"
+      ],
+      "source_job_id": "db7fb554b494b147f713cd9fd9ac0edb",
+      "source_job_post_id": "MCF-2026-1526789",
+      "status": "active",
+      "title": "Portfolio Management, Analyst/Specialist (Actuarial)",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/portfolio-management-analystspecialist-aia-singapore-db7fb554b494b147f713cd9fd9ac0edb",
+      "vacancies": 1
+    },
     "e85cf15a8956777453726849b5372357": {
       "categories": [
         "Accounting / Auditing / Taxation",
@@ -1086,7 +1183,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1136,7 +1233,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1193,7 +1290,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-08-31T22:38:51+08:00",
+      "last_seen_at": "2026-09-01T19:14:05+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1427,6 +1524,16 @@
       "fetched": 52,
       "matching": 14,
       "new": 1,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 14,
+      "checked_at": "2026-09-01T19:14:05+08:00",
+      "expired": 0,
+      "fetched": 53,
+      "matching": 15,
+      "new": 2,
       "reopened": 0,
       "status": "success"
     }
