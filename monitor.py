@@ -56,6 +56,20 @@ def run_trigger() -> str:
     return "local"
 
 
+def run_metadata() -> dict[str, str]:
+    """Describe where the invocation ran, with a linkable Actions identity when available."""
+    metadata = {"trigger": run_trigger()}
+    for environment_name, field_name in (
+        ("GITHUB_ACTOR", "github_actor"),
+        ("GITHUB_RUN_ID", "github_run_id"),
+        ("GITHUB_REPOSITORY", "github_repository"),
+    ):
+        value = os.environ.get(environment_name)
+        if value:
+            metadata[field_name] = value
+    return metadata
+
+
 def load_json(path: Path, default: Any) -> Any:
     if not path.exists():
         return default
@@ -496,11 +510,25 @@ def render_dashboard(
         if not entry_trigger:
             entry_trigger = "local" if entry_mode == "render-only" else "unknown"
         trigger_labels = {
-            "scheduled": "Scheduled",
-            "manual": "Manual",
-            "local": "Local",
-            "unknown": "Unknown",
+            "scheduled": "GitHub Actions · Scheduled",
+            "manual": "GitHub Actions · Manual",
+            "local": "Local script",
+            "unknown": "Historical · Unknown",
         }
+        source_label = trigger_labels.get(entry_trigger, str(entry_trigger).title())
+        github_run_id = entry.get("github_run_id")
+        github_repository = entry.get("github_repository")
+        if github_run_id and github_repository:
+            run_url = f"https://github.com/{github_repository}/actions/runs/{github_run_id}"
+            source_html = (
+                f"<a href='{html.escape(run_url)}' target='_blank' rel='noopener'>"
+                f"{html.escape(source_label)} ↗</a>"
+            )
+        else:
+            source_html = html.escape(source_label)
+        github_actor = entry.get("github_actor")
+        if github_actor and entry_trigger == "manual":
+            source_html += f"<span>Triggered by {html.escape(str(github_actor))}</span>"
         stats = (
             f"Fetched {entry.get('fetched', 0)} · Tracked {entry.get('matching', 0)} · "
             f"New {entry.get('new', 0)} · Expired {entry.get('expired', 0)}"
@@ -517,7 +545,7 @@ def render_dashboard(
             result_detail = entry.get("error", "Unknown error")
         run_history_rows.append(
             f"<tr><td>{html.escape(fmt_datetime(entry.get('finished_at')))}</td>"
-            f"<td>{html.escape(trigger_labels.get(entry_trigger, str(entry_trigger).title()))}</td>"
+            f"<td class='run-source'>{source_html}</td>"
             f"<td><span class='run-status {html.escape(entry_status)}'>{html.escape(entry_status.title())}</span></td>"
             f"<td class='run-result'><strong>{html.escape(result_title)}</strong>"
             f"<span>{html.escape(str(result_detail))} · Ran {html.escape(str(entry.get('execution_seconds', '—')))}s</span></td></tr>"
@@ -530,7 +558,7 @@ def render_dashboard(
 *{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 system-ui,-apple-system,sans-serif}}
 main{{max-width:1280px;margin:auto;padding:32px 20px}}h1{{margin:0;font-size:28px}}.sub{{color:var(--muted);margin:4px 0 12px}}.update-time{{color:var(--muted);margin:0 0 20px;font-size:13px}}.update-time strong{{color:var(--ink)}}.update-warning{{background:#fff7ed;border:1px solid #fdba74;color:#9a3412;border-radius:10px;padding:10px 12px;margin:0 0 18px}}
 .criteria{{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:#eef4ff;border:1px solid #b8ccff;border-radius:12px;padding:12px 14px;margin:0 0 18px;color:#173b8f}}.criteria strong{{margin-right:4px}}.criteria span{{background:white;border:1px solid #c9d8ff;border-radius:7px;padding:5px 9px}}.criteria-chip{{display:inline-block;background:#eef4ff;border:1px solid #c9d8ff;color:#173b8f;border-radius:6px;padding:2px 6px;margin:1px 2px;font-size:12px}}
-.topbar{{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}}.log-toggle{{width:auto;white-space:nowrap;background:white;color:#155eef;border-color:#b8ccff;padding:7px 10px;font-size:13px}}.run-log{{overflow:auto;background:white;border:1px solid var(--line);border-radius:12px;padding:18px;margin:0 0 18px}}.run-log h2{{margin:0 0 10px;font-size:17px}}.run-log table{{min-width:720px;white-space:normal}}.run-result strong,.run-result span{{display:block}}.run-result span{{color:var(--muted);margin-top:2px}}.run-status{{display:inline-block;border-radius:6px;padding:2px 7px;font-weight:700;font-size:12px}}.run-status.success{{background:#dcfce7;color:#166534}}.run-status.failed{{background:#fee2e2;color:#991b1b}}.new-badge{{display:inline-block;background:#dbeafe;color:#1d4ed8;border-radius:999px;padding:2px 7px;margin-left:6px;font-size:11px;font-weight:700}}
+.topbar{{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}}.log-toggle{{width:auto;white-space:nowrap;background:white;color:#155eef;border-color:#b8ccff;padding:7px 10px;font-size:13px}}.run-log{{overflow:auto;background:white;border:1px solid var(--line);border-radius:12px;padding:18px;margin:0 0 18px}}.run-log h2{{margin:0 0 10px;font-size:17px}}.run-log table{{min-width:760px;white-space:normal}}.run-source span,.run-result strong,.run-result span{{display:block}}.run-source span,.run-result span{{color:var(--muted);margin-top:2px}}.run-status{{display:inline-block;border-radius:6px;padding:2px 7px;font-weight:700;font-size:12px}}.run-status.success{{background:#dcfce7;color:#166534}}.run-status.failed{{background:#fee2e2;color:#991b1b}}.new-badge{{display:inline-block;background:#dbeafe;color:#1d4ed8;border-radius:999px;padding:2px 7px;margin-left:6px;font-size:11px;font-weight:700}}
 .cards{{display:grid;grid-template-columns:repeat(5,minmax(130px,1fr));gap:12px;margin-bottom:18px}}.card{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}}.card b{{display:block;font-size:26px}}.card span{{color:var(--muted)}}
 .controls{{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:18px 0}}input,select,button{{min-width:0;width:100%;border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:white;font:inherit}}button{{background:#155eef;color:white;border-color:#155eef;font-weight:700;cursor:pointer}}button:hover{{background:#124dcc}}
 .chart{{background:white;border:1px solid var(--line);border-radius:12px;padding:18px;margin:18px 0}}.chart h2{{margin:0 0 2px;font-size:17px}}.chart p{{margin:0 0 10px;color:var(--muted)}}#salaryChart{{display:block;width:100%;height:250px}}.axis{{stroke:#cbd5e1;stroke-width:1}}.trend{{fill:none;stroke:#155eef;stroke-width:3}}.point{{fill:#155eef}}.chart-label{{fill:#637083;font-size:11px}}.no-chart{{color:var(--muted);text-align:center;padding:60px 0}}
@@ -544,7 +572,7 @@ main{{max-width:1280px;margin:auto;padding:32px 20px}}h1{{margin:0;font-size:28p
 <p class="update-time"><strong>Data last updated:</strong> {html.escape(fmt_datetime(last_successful_check))}</p>
 {update_warning}
 <section class="criteria"><strong>Included listings</strong><span>Actuarial job titles containing “Actuary” or “Actuarial”</span><span>All roles from watched companies: {html.escape(company_summary)}</span></section>
-<section id="runLogPanel" class="run-log" hidden><h2>Monitor run log</h2><table><thead><tr><th>Finished</th><th>Started by</th><th>Status</th><th>Result</th></tr></thead><tbody>{''.join(run_history_rows) or '<tr><td colspan="4">No runs recorded yet.</td></tr>'}</tbody></table></section>
+<section id="runLogPanel" class="run-log" hidden><h2>Monitor run log</h2><table><thead><tr><th>Finished</th><th>Run source</th><th>Status</th><th>Result</th></tr></thead><tbody>{''.join(run_history_rows) or '<tr><td colspan="4">No runs recorded yet.</td></tr>'}</tbody></table></section>
 <section class="cards"><div class="card"><b id="activeCount">0</b><span>Active postings</span></div><div class="card"><b id="age7">0</b><span>Posted ≤7 days ago</span></div><div class="card"><b id="age30">0</b><span>Posted 8–30 days ago</span></div><div class="card"><b id="age31">0</b><span>Posted 31+ days ago</span></div><div class="card"><b id="avgSalary">—</b><span>Average midpoint salary</span></div></section>
 <div class="controls"><input id="search" type="search" aria-label="Search title or company" placeholder="Search title or company"><select id="company" aria-label="Filter by company"><option value="all">All companies</option>{company_options}</select><select id="matchType" aria-label="Filter by inclusion reason"><option value="all">All inclusion reasons</option><option value="actuarial">Actuarial title match</option><option value="company">Watched company match</option></select><select id="employment" aria-label="Filter by employment type"><option value="all">All employment types</option>{employment_options}</select><select id="location" aria-label="Filter by location"><option value="all">All locations</option>{location_options}</select><input id="minSalary" type="number" min="0" step="500" aria-label="Minimum monthly salary" placeholder="Minimum salary"><select id="sort" aria-label="Sort jobs"><option value="default">Default sorting</option><option value="min-asc">Minimum salary: low to high</option><option value="min-desc">Minimum salary: high to low</option><option value="max-asc">Maximum salary: low to high</option><option value="max-desc">Maximum salary: high to low</option></select><select id="status" aria-label="Filter by status"><option value="all">All statuses</option><option value="active" selected>Active</option><option value="expired">Expired postings</option></select><select id="newFilter" aria-label="Filter by posting date"><option value="all">All posting dates</option><option value="new">Posted within 7 days</option></select></div>
 <section class="chart"><h2>Average salary trend</h2><p>Monthly average of (minimum salary + maximum salary) ÷ 2 for all visible postings</p><svg id="salaryChart" viewBox="0 0 760 250" role="img" aria-label="Average midpoint salary by posting month"></svg><div class="x-axis-label">Job posting month</div><div id="noChart" class="no-chart" hidden>Not enough salary data for this filter.</div></section>
@@ -600,7 +628,7 @@ def main() -> int:
         "execution_seconds": elapsed_seconds(RUN_STARTED_AT, finished_at),
         "status": "success",
         "mode": RUN_MODE,
-        "trigger": run_trigger(),
+        **run_metadata(),
         **run,
     })
     write_outputs(dataset, config, run)
@@ -623,7 +651,7 @@ def handle_failure(exc: Exception) -> None:
         "execution_seconds": elapsed_seconds(RUN_STARTED_AT, finished_at),
         "status": "failed",
         "mode": RUN_MODE,
-        "trigger": run_trigger(),
+        **run_metadata(),
         "error": f"{type(exc).__name__}: {exc}",
     }
     append_run_log(failure_entry)

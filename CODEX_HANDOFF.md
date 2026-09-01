@@ -65,7 +65,7 @@ Do not reintroduce a `possibly_missing` state unless the user explicitly asks fo
 - CSV export: exports only the currently visible table rows.
 - Job titles open archived detail pages; the final `Live` link opens the current source page.
 - The top run-log button expands to show the five most recent monitor invocations.
-- New run-log entries identify scheduled, manual GitHub Actions, and local invocations. Older live-run entries without trigger metadata display as unknown.
+- Run-source labels explicitly distinguish `GitHub Actions · Scheduled`, `GitHub Actions · Manual`, `Local script`, and `Historical · Unknown`. New Actions entries include a direct run link; manual entries also include the initiating GitHub actor.
 - Render-only entries show the latest saved totals with a clear `Data unchanged` label.
 - The header shows the latest successful live data update; render-only runs do not change this timestamp.
 - If the latest live fetch fails, the saved dashboard is rebuilt with a warning while the last good job data remains unchanged.
