@@ -67,12 +67,13 @@ Do not reintroduce a `possibly_missing` state unless the user explicitly asks fo
 - The top run-log button expands to show the five most recent monitor invocations.
 - Run-source labels explicitly distinguish `GitHub Actions · Scheduled`, `GitHub Actions · Manual`, `Local script`, and `Historical · Unknown`. New Actions entries include a direct run link; manual entries also include the initiating GitHub actor.
 - Render-only entries show the latest saved totals with a clear `Data unchanged` label.
-- The header shows the latest successful live data update; render-only runs do not change this timestamp.
+- The header separates the latest successful live check from the latest material job-data change. Routine `last_seen_at` refreshes and render-only runs do not advance the latter.
 - If the latest live fetch fails, the saved dashboard is rebuilt with a warning while the last good job data remains unchanged.
 - Dashboard timestamps display the compact `SGT` label (Singapore Time).
 - The salary trend chart uses all **visible** postings, including expired ones when the status filter includes them. The top summary cards remain active-posting statistics.
 - Watched companies use short display names on the dashboard; matching and archived details retain exact registered names.
 - Transient request failures receive one retry after the configured delay.
+- A fetched listing whose advertised expiry date has arrived remains expired and is not repeatedly counted as reopened.
 - Generated dashboard/detail files are written only when their content changed.
 
 ## Run commands

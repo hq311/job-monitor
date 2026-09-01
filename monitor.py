@@ -297,12 +297,22 @@ def update_jobs(
             continue
         existing = stored[job_id]
         was_expired = existing.get("status") in ("ended", "expired")
+        is_expired = current.get("status") in ("ended", "expired")
         first_seen = existing.get("first_seen_at", observed_at)
+        previous_expired_at = existing.get("expired_at")
+        previous_reopened_at = existing.get("reopened_at")
+        if was_expired and is_expired:
+            current["expired_at"] = previous_expired_at or observed_at
+            current["reopened_at"] = previous_reopened_at
         existing.update(current)
         existing["first_seen_at"] = first_seen
-        if was_expired:
+        if was_expired and not is_expired:
             existing["reopened_at"] = observed_at
             stats["reopened"] += 1
+        elif not was_expired and is_expired:
+            stats["expired"] += 1
+        elif not is_expired:
+            existing["reopened_at"] = previous_reopened_at
 
     for job_id, job in stored.items():
         if job_id in matching or job.get("status") in ("ended", "expired"):
@@ -313,6 +323,28 @@ def update_jobs(
 
     stats["active"] = sum(1 for job in stored.values() if job.get("status") == "active")
     return stored, stats
+
+
+def material_jobs_signature(jobs: dict[str, dict[str, Any]]) -> str:
+    """Return a stable comparison that ignores routine observation timestamps."""
+    material = {
+        job_id: {key: value for key, value in job.items() if key != "last_seen_at"}
+        for job_id, job in jobs.items()
+    }
+    return json.dumps(material, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+
+
+def infer_data_changed_at(dataset: dict[str, Any]) -> str | None:
+    if dataset.get("data_changed_at"):
+        return str(dataset["data_changed_at"])
+    runs = dataset.get("runs", [])
+    for run in reversed(runs):
+        explicitly_changed = run.get("data_changed")
+        if explicitly_changed is True:
+            return run.get("checked_at")
+        if explicitly_changed is None and (run.get("new", 0) or run.get("expired", 0)):
+            return run.get("checked_at")
+    return runs[0].get("checked_at") if runs else None
 
 
 def fmt_money(value: Any) -> str:
@@ -402,6 +434,7 @@ def render_dashboard(
     config: dict[str, Any],
     run: dict[str, Any],
     run_history: list[dict[str, Any]] | None = None,
+    data_changed_at: str | None = None,
 ) -> str:
     run_history = run_history or []
     last_successful_check = next(
@@ -538,7 +571,14 @@ def render_dashboard(
                 result_title = "Dashboard rebuilt · Data unchanged"
                 result_detail = f"Latest saved totals: {stats}"
             else:
-                result_title = "Live data updated"
+                data_changed = entry.get("data_changed")
+                if data_changed is None:
+                    data_changed = bool(entry.get("new", 0) or entry.get("expired", 0))
+                result_title = (
+                    "Live check complete · Job data changed"
+                    if data_changed
+                    else "Live check complete · No changes"
+                )
                 result_detail = stats
         else:
             result_title = "Live data update failed" if entry_mode == "monitor" else "Dashboard rebuild failed"
@@ -556,7 +596,7 @@ def render_dashboard(
 <style>
 :root{{--ink:#17202a;--muted:#637083;--line:#dce2e8;--bg:#f5f7fa;--card:#fff;--blue:#155eef}}
 *{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 system-ui,-apple-system,sans-serif}}
-main{{max-width:1280px;margin:auto;padding:32px 20px}}h1{{margin:0;font-size:28px}}.sub{{color:var(--muted);margin:4px 0 12px}}.update-time{{color:var(--muted);margin:0 0 20px;font-size:13px}}.update-time strong{{color:var(--ink)}}.update-warning{{background:#fff7ed;border:1px solid #fdba74;color:#9a3412;border-radius:10px;padding:10px 12px;margin:0 0 18px}}
+main{{max-width:1280px;margin:auto;padding:32px 20px}}h1{{margin:0;font-size:28px}}.sub{{color:var(--muted);margin:4px 0 12px}}.update-times{{display:flex;flex-wrap:wrap;gap:8px 20px;color:var(--muted);margin:0 0 20px;font-size:13px}}.update-times strong{{color:var(--ink)}}.update-warning{{background:#fff7ed;border:1px solid #fdba74;color:#9a3412;border-radius:10px;padding:10px 12px;margin:0 0 18px}}
 .criteria{{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:#eef4ff;border:1px solid #b8ccff;border-radius:12px;padding:12px 14px;margin:0 0 18px;color:#173b8f}}.criteria strong{{margin-right:4px}}.criteria span{{background:white;border:1px solid #c9d8ff;border-radius:7px;padding:5px 9px}}.criteria-chip{{display:inline-block;background:#eef4ff;border:1px solid #c9d8ff;color:#173b8f;border-radius:6px;padding:2px 6px;margin:1px 2px;font-size:12px}}
 .topbar{{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}}.log-toggle{{width:auto;white-space:nowrap;background:white;color:#155eef;border-color:#b8ccff;padding:7px 10px;font-size:13px}}.run-log{{overflow:auto;background:white;border:1px solid var(--line);border-radius:12px;padding:18px;margin:0 0 18px}}.run-log h2{{margin:0 0 10px;font-size:17px}}.run-log table{{min-width:760px;white-space:normal}}.run-source span,.run-result strong,.run-result span{{display:block}}.run-source span,.run-result span{{color:var(--muted);margin-top:2px}}.run-status{{display:inline-block;border-radius:6px;padding:2px 7px;font-weight:700;font-size:12px}}.run-status.success{{background:#dcfce7;color:#166534}}.run-status.failed{{background:#fee2e2;color:#991b1b}}.new-badge{{display:inline-block;background:#dbeafe;color:#1d4ed8;border-radius:999px;padding:2px 7px;margin-left:6px;font-size:11px;font-weight:700}}
 .cards{{display:grid;grid-template-columns:repeat(5,minmax(130px,1fr));gap:12px;margin-bottom:18px}}.card{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}}.card b{{display:block;font-size:26px}}.card span{{color:var(--muted)}}
@@ -569,7 +609,7 @@ main{{max-width:1280px;margin:auto;padding:32px 20px}}h1{{margin:0;font-size:28p
 .empty{{display:none;text-align:center;padding:30px;color:var(--muted)}}footer{{margin-top:16px;color:var(--muted);font-size:12px}}@media(max-width:900px){{.cards{{grid-template-columns:1fr 1fr}}.controls{{grid-template-columns:1fr 1fr}}}}@media(max-width:600px){{.controls{{grid-template-columns:1fr}}}}
 </style></head><body><main>
 <div class="topbar"><div><h1>Singapore Actuarial Job Monitor</h1><p class="sub">Singapore job listings sourced from MyCareersFuture · Updated every 2 days</p></div><button id="toggleRunLog" class="log-toggle" type="button" aria-expanded="false">Run log</button></div>
-<p class="update-time"><strong>Data last updated:</strong> {html.escape(fmt_datetime(last_successful_check))}</p>
+<p class="update-times"><span><strong>Last checked:</strong> {html.escape(fmt_datetime(last_successful_check))}</span><span><strong>Job data last changed:</strong> {html.escape(fmt_datetime(data_changed_at))}</span></p>
 {update_warning}
 <section class="criteria"><strong>Included listings</strong><span>Actuarial job titles containing “Actuary” or “Actuarial”</span><span>All roles from watched companies: {html.escape(company_summary)}</span></section>
 <section id="runLogPanel" class="run-log" hidden><h2>Monitor run log</h2><table><thead><tr><th>Finished</th><th>Run source</th><th>Status</th><th>Result</th></tr></thead><tbody>{''.join(run_history_rows) or '<tr><td colspan="4">No runs recorded yet.</td></tr>'}</tbody></table></section>
@@ -594,7 +634,10 @@ function downloadCsv(){{const visible=[...tbody.querySelectorAll('tr')].filter(r
 
 def write_outputs(dataset: dict[str, Any], config: dict[str, Any], run: dict[str, Any]) -> None:
     jobs = dataset.get("jobs", {})
-    write_text_if_changed(DASHBOARD_PATH, render_dashboard(jobs, config, run, load_run_log()))
+    write_text_if_changed(
+        DASHBOARD_PATH,
+        render_dashboard(jobs, config, run, load_run_log(), infer_data_changed_at(dataset)),
+    )
     write_job_details(jobs)
 
 
@@ -614,10 +657,14 @@ def main() -> int:
     if args.render_only:
         run = dataset.get("runs", [{}])[-1] if dataset.get("runs") else {"checked_at": "Never"}
     else:
+        previous_signature = material_jobs_signature(dataset.get("jobs", {}))
+        previous_changed_at = infer_data_changed_at(dataset)
         fetched = fetch_all(config)
         jobs, stats = update_jobs(dataset.get("jobs", {}), fetched, config, checked_at)
-        run = {"checked_at": checked_at, "status": "success", **stats}
+        data_changed = material_jobs_signature(jobs) != previous_signature
+        run = {"checked_at": checked_at, "status": "success", "data_changed": data_changed, **stats}
         dataset["jobs"] = jobs
+        dataset["data_changed_at"] = checked_at if data_changed or not previous_changed_at else previous_changed_at
         dataset.setdefault("runs", []).append(run)
         dataset["runs"] = dataset["runs"][-100:]
         atomic_write_json(JOBS_PATH, dataset)
