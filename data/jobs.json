@@ -1,4 +1,5 @@
 {
+  "data_changed_at": "2026-09-02T15:01:06+08:00",
   "jobs": {
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
@@ -14,7 +15,7 @@
       "expired_at": null,
       "expires_at": "2026-09-05",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -68,7 +69,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -121,7 +122,7 @@
       "expired_at": null,
       "expires_at": "2026-09-15",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -172,7 +173,7 @@
       "expired_at": null,
       "expires_at": "2026-09-06",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -222,7 +223,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -549,7 +550,7 @@
       "expired_at": null,
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -660,7 +661,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -707,7 +708,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -760,7 +761,7 @@
       "expired_at": null,
       "expires_at": "2026-09-14",
       "first_seen_at": "2026-08-31T22:38:51+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -972,7 +973,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1009,6 +1010,52 @@
       "title": "Actuarial Consultant",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-consultant-ernst-young-advisory-af16603453cb2d3d42ff8f27eb1cbbac",
       "vacancies": 10
+    },
+    "b3a04170236f488bb32203aef011ed99": {
+      "categories": [
+        "Consulting"
+      ],
+      "company": "KPMG SERVICES PTE. LTD.",
+      "company_uen": "200003956G",
+      "description": "The KPMG Actuarial Services team offers innovative business solutions to help clients navigate the rapidly changing insurance industry. Our professionals have sound technical skills with the ability to cut through complex issues to help our clients make more effective and efficient business decisions. We invite highly motivated, dynamic professionals to join our growing Actuarial practice. Successful candidates will play a significant role in offering a wide range of actuarial consultancy services in the insurance and financial services industry.\nThe role involves:\nPerforming actuarial audit for our life insurance and reinsurance clients\nLiaising with internal and external stakeholders to perform assessments, discuss the findings and prepare assessment reports\nContributing to IFRS 17 projects including assisting in financial impact assessment, performing actuarial modelling and providing technical support\nParticipating in advisory engagements related to capital and risk management reviews, reserving and pricing reviews, mergers and acquisitions consulting, and life & health insurance valuation\nReviewing or building financial models including business planning/ forecasting, corporate financing and capital management\nMentoring and training of junior staff\nThe ideal candidate should have:\nPossess a recognised degree or relevant qualification\nAt least 2-6 years of experience in the life insurance or consulting field preferably within the ASEAN market\nPossess strong communication, analytical and problem-solving skills with the ability to work independently\nAdvanced proficiency in actuarial modelling with Prophet is a must\nOnly shortlisted candidates will be contacted by KPMG Talent Acquisition team, personal data collected will be used for recruitment purposes only.\nAt KPMG in Singapore we are committed to creating a diverse and inclusive workplace. We believe that diversity of thought, background and experience strengthens relationships and delivers meaningful benefits to our people, our clients and communities. As an equal opportunity employer, all qualified applicants will receive consideration for employment regardless of age, race, gender identity or expression, colour, marital status, religion, sexual orientation, disability, or other non-merit factors. We celebrate the different talents that our people bring and support every staff member in their journey to achieve personal and professional growth. One of the ways we do this is through Take Charge: Flexi-work, our flexible working framework which enables agile and innovative teams to help deliver our business goals.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-02",
+      "first_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-09-02",
+      "reopened_at": null,
+      "salary_max": 12000,
+      "salary_min": 6000,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "Analytical Skills",
+        "Valuation",
+        "Mergers",
+        "Prophet",
+        "Actuarial Consulting",
+        "Life Insurance",
+        "Modelling",
+        "Articulate",
+        "Acquisitions"
+      ],
+      "source_job_id": "b3a04170236f488bb32203aef011ed99",
+      "source_job_post_id": "MCF-2026-1534967",
+      "status": "active",
+      "title": "FS Consulting, Life Actuarial, Senior Associate to Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/fs-consulting-life-actuarial-senior-associate-manager-kpmg-services-b3a04170236f488bb32203aef011ed99",
+      "vacancies": 4
     },
     "c936750f7b5610392ab61b60e3c86dbe": {
       "categories": [
@@ -1132,7 +1179,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1183,7 +1230,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1233,7 +1280,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1290,7 +1337,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-01T19:41:01+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1327,6 +1374,58 @@
       "status": "active",
       "title": "Intern, Actuarial Services",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-f01d09bb39a0c54ac1fb473a6da69f1b",
+      "vacancies": 1
+    },
+    "f3eb15a841b66ece6701d53f9e38f57a": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (Singapore Branch)",
+      "company_uen": "T08FC7171K",
+      "description": "Product Owner - AI Retail Growth, Zurich Asia Pacific\nContext\nZurich in Asia Pacific is running a strategic initiative focused on reimagining how insurance is discovered, considered and sold in an AI-led world. This role sits within a newly formed squad and owns the development of AI-native discovery and purchase journey, starting with select markets and expanding across the region.\nWe're looking for a Product Owner who will own the end-to-end build: from conversational discovery and purchase flows to the underlying data and recommendation architecture that powers personalized, channel-agnostic sales.\nThis is a hands-on, build-and-ship role reporting into the region, working closely with internal and external development partners, underwriting, and country teams.\nThis role reports to Head of AI Retail & Customer, APAC.\nWhat the Role Does\nOwn the product roadmap and backlog for the AI-led retail sales channel\nTranslate vision into user stories, acceptance criteria, and prioritized sprints, working directly with internal and external development agencies\nDesign and iterate the conversational purchase experience - balancing conversion, trust, and regulatory/compliance requirements in insurance sales\nDefine the data architecture and business logic behind data-driven add-on and cross-sell recommendations\nEnsure the channel is built on a channel-agnostic architecture that can extend beyond web to WhatsApp, app, and partner channels\nPartner with underwriting, pricing, and compliance to make sure the AI-driven journey stays within risk and regulatory guardrails\nDefine and track success metrics and use them to drive the product roadmap\nAct as the day-to-day counterpart to the internal and external build partner, managing scope, timelines, and quality\nScope the path to regional rollout, capturing what's reusable vs. market-specific\nWhat we’re looking for\n6–8+ years in product management/product ownership, ideally with experience shipping consumer-facing digital products in insurance, fintech, or e-commerce\nDirect experience building or owning Digital and/or AI-powered customer journeys - not just familiarity with AI tools\nStrong grasp of agile delivery - comfortable writing detailed specs and managing an external dev team, not just running ceremonies\nWorking knowledge of how insurance products and financial regulations\nSharp instincts for conversion-focused UX and where friction genuinely matters vs. where it's a compliance non-negotiable\nComfortable operating with ambiguity - this is a 0-to-1 build, not an existing product with a mature backlog\nExcellent stakeholder management - this role sits between strategy, tech delivery, core insurance operations, and country teams\nAbility to communicate effectively with customers, partners, and stakeholders across APAC markets.\nProficiency in Mandarin may be required where the role involves regular interaction with Mandarin-speaking customers, partners, vendors, or markets where documentation and business communications are primarily conducted in Mandarin.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-02",
+      "first_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Middle Management"
+      ],
+      "posted_at": "2026-09-02",
+      "reopened_at": null,
+      "salary_max": 13000,
+      "salary_min": 9000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Marketing Operations",
+        "Trust Structuring",
+        "knowledge of local market",
+        "Marketing Tool",
+        "Content Strategy",
+        "Search Engine Marketing",
+        "brand reporting",
+        "Aircraft Design",
+        "Marketing Processes",
+        "LLMs",
+        "Structured data analysis",
+        "Engaging Stakeholders",
+        "Testing Tools",
+        "Search Algorithm",
+        "Digital Concepts",
+        "Generative AI Strategy"
+      ],
+      "source_job_id": "f3eb15a841b66ece6701d53f9e38f57a",
+      "source_job_post_id": "MCF-2026-1537245",
+      "status": "active",
+      "title": "Product Owner, AI & Retail Growth, APAC",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/product-owner-ai-retail-growth-apac-zurich-insurance-company-f3eb15a841b66ece6701d53f9e38f57a",
       "vacancies": 1
     },
     "fa3d5989fb3526fa9cea0462abe0444a": {
@@ -1555,6 +1654,17 @@
       "matching": 15,
       "new": 0,
       "reopened": 1,
+      "status": "success"
+    },
+    {
+      "active": 16,
+      "checked_at": "2026-09-02T15:01:06+08:00",
+      "data_changed": true,
+      "expired": 0,
+      "fetched": 54,
+      "matching": 16,
+      "new": 2,
+      "reopened": 0,
       "status": "success"
     }
   ]
