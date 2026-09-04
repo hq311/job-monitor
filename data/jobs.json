@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-09-02T15:01:06+08:00",
+  "data_changed_at": "2026-09-04T15:08:53+08:00",
   "jobs": {
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
@@ -15,7 +15,7 @@
       "expired_at": null,
       "expires_at": "2026-09-05",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -69,7 +69,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -122,7 +122,7 @@
       "expired_at": null,
       "expires_at": "2026-09-15",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -173,7 +173,7 @@
       "expired_at": null,
       "expires_at": "2026-09-06",
       "first_seen_at": "2026-08-26T21:47:11+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -210,6 +210,65 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/marketing-actuary-general-reinsurance-ag-singapore-branch-2fae869c03a274466d863ff02791ffc3",
       "vacancies": 1
     },
+    "3d85bb161fbb0c9b888366535dddddbc": {
+      "categories": [
+        "Consulting",
+        "Insurance",
+        "Risk Management"
+      ],
+      "company": "RANDSTAD PTE. LIMITED",
+      "company_uen": "199304055W",
+      "description": "About the company\nA leading international direct life insurer in Singapore, renowned for its strong capital stability and commitment to long-term career growth.\nAbout the job\nThis pivotal opportunity enables an actuarial specialist to step away from routine model execution into a high-impact technical assurance role.\nSpearhead independent reviews of direct life pricing structures, profit testing models, and reinsurance treaty terms to evaluate commercial viability.\nAssess reserve sufficiency, foundational assumption setting, and control frameworks across traditional life portfolios.\nIdentify technical exposure areas across underwriting and product development functions to preserve balance sheet integrity.\nTranslate complex actuarial analyses into actionable strategic guidance for executive leadership and the audit committee.\nEnhance internal assurance frameworks by implementing technical governance standards across core actuarial activities.\nAbout the manager/team\nYou will join an elite group offering high operational autonomy, and direct executive visibility.\nSkills and experience required\nNear-qualified or fully qualified actuary credential (FSA, FIA, FIAA, or local equivalent).\nProven experience within life insurance pricing, reinsurance arrangements, or reinsurer client advisory.\nStrong foundational knowledge in traditional actuarial areas such as valuation, asset-liability management, or product development.\nStrategic orientation with a desire to pivot from routine model production into high-visibility advisory and review work.\nEffective communication skills with a track record of articulating technical concepts to non-actuarial stakeholders.\nTo apply online please use the 'apply' function, alternatively you may contact Lynette Lim.\n(EA: 94C3609/ R1435181 )",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-04",
+      "first_seen_at": "2026-09-04T15:08:53+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 10,
+      "position_levels": [
+        "Manager"
+      ],
+      "posted_at": "2026-09-04",
+      "reopened_at": null,
+      "salary_max": 11000,
+      "salary_min": 10000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Communication",
+        "IFRS",
+        "Analytical Thinking",
+        "Valuation",
+        "Reinsurance",
+        "Problem Solving",
+        "Asset and Liability Management",
+        "Risk Management",
+        "Written Communication",
+        "Auditing and Assurance Standards",
+        "Strategic Leadership",
+        "Actuarial Science",
+        "Actuarial Consulting",
+        "Life Insurance",
+        "Time Management",
+        "Actuarial qualifications",
+        "Capital",
+        "Consulting",
+        "Balance Sheet Management",
+        "Able To Work Independently"
+      ],
+      "source_job_id": "3d85bb161fbb0c9b888366535dddddbc",
+      "source_job_post_id": "MCF-2026-1553539",
+      "status": "active",
+      "title": "Actuarial Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-manager-randstad-3d85bb161fbb0c9b888366535dddddbc",
+      "vacancies": 1
+    },
     "3f7ec6f5a757c86451d76814b97e1c35": {
       "categories": [
         "Insurance"
@@ -223,7 +282,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -550,7 +609,7 @@
       "expired_at": null,
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -588,6 +647,65 @@
       "status": "active",
       "title": "Head of Underwriting & Portfolio Management (Small Commercial Insurance)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/head-underwriting-portfolio-management-chubb-asia-pacific-6795dd4618467edd0e1242f869df6adf",
+      "vacancies": 1
+    },
+    "6c4655654cdc0011c59a477ec3636154": {
+      "categories": [
+        "Consulting",
+        "Insurance",
+        "Risk Management"
+      ],
+      "company": "RANDSTAD PTE. LIMITED",
+      "company_uen": "199304055W",
+      "description": "About the company\nA well-established global insurance company with a strong market presence is expanding its regional governance capabilities.\nAbout the job\nThis is a unique opportunity for an actuarial specialist looking to transition into a strategic internal audit position with long-term leadership potential.\nPlan, direct, and execute comprehensive audit programs across core business divisions.\nEvaluate internal control effectiveness and deliver actionable risk-mitigation insights to business leaders.\nPrepare clear audit findings and reports for presentation to executive stakeholders.\nCollaborate across lines of defense to identify emerging risks and advise on key business initiatives.\nMentor junior team members while progressively building the capacity to step into an audit lead role.\nSkills and experience required\nAt least 6 to 8 years of relevant actuarial experience, ideally in Life or Health insurance.\nSolid understanding of risk management principles, internal control systems, or data analytics capabilities.\nStrong strategic thinking, high attention to detail, and sound analytical judgment.\nExcellent interpersonal and communication skills to effectively engage and collaborate with senior stakeholders.\nTo apply online please use the 'apply' function, alternatively you may contact Lynette Lim.\n(EA: 94C3609/ R1435181 )",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-03",
+      "first_seen_at": "2026-09-04T15:08:53+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-03",
+      "reopened_at": null,
+      "salary_max": 11000,
+      "salary_min": 9000,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "Mentoring",
+        "Analytics Support",
+        "Strong Attention To Detail",
+        "Analytical Thinking",
+        "Valuation",
+        "Reinsurance",
+        "Interpersonal Skills",
+        "Strategic Thinking",
+        "Risk Management",
+        "Auditing",
+        "Internal Controls",
+        "Actuarial Science",
+        "Audit Management",
+        "Audit Reports",
+        "Life Insurance",
+        "Actuaries",
+        "Consulting",
+        "Team Player",
+        "Able To Work Independently"
+      ],
+      "source_job_id": "6c4655654cdc0011c59a477ec3636154",
+      "source_job_post_id": "MCF-2026-1256545",
+      "status": "active",
+      "title": "Manager, Actuarial Audit (Life & Health)",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/manager-actuarial-audit-randstad-6c4655654cdc0011c59a477ec3636154",
       "vacancies": 1
     },
     "758d2a31137d52cccd21ded125ca9789": {
@@ -661,7 +779,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -708,7 +826,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -761,7 +879,7 @@
       "expired_at": null,
       "expires_at": "2026-09-14",
       "first_seen_at": "2026-08-31T22:38:51+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -798,6 +916,65 @@
       "status": "active",
       "title": "Senior Regional FP&A Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-regional-fpa-analyst-chubb-asia-pacific-8c7be77271e273622fa50fba318bc53d",
+      "vacancies": 1
+    },
+    "9bbd00abc82d171a26f70be97f25d79a": {
+      "categories": [
+        "Consulting",
+        "Insurance",
+        "Risk Management"
+      ],
+      "company": "RANDSTAD PTE. LIMITED",
+      "company_uen": "199304055W",
+      "description": "About the company\nA leading international life insurer with an established regional presence offers an exceptional platform focused on balance sheet optimization and sustained professional development.\nAbout the job\nThis key role grants complete ownership over solvency frameworks and capital strategy, providing a strong platform to directly influence executive financial decisions.\nSpearhead monthly and quarterly RBC2 capital adequacy calculations, regulatory submissions, and solvency ratio analysis.\nDrive dynamic stress testing models and risk scenario evaluations to support the annual ORSA framework.\nOptimize corporate balance sheet resilience by partnering with risk and investment divisions to model asset-liability matching strategies.\nElevate technical governance by serving as the subject matter expert on capital regulation updates and advising leadership committees.\nAbout the manager/team\nReporting to the Head of Capital Management, you will operate within an agile, strategic unit that offers high visibility to C-suite decision-makers and broad cross-functional exposure.\nSkills and experience required\nDemonstrated expertise in life actuarial functions with hands-on experience in RBC2 capital reporting and solvency calculations.\nActive progress toward professional actuarial designation such as FSA, FIA, FIAA, or an equivalent qualification.\nProficient in actuarial modeling platforms, specifically Prophet, alongside dynamic solvency stress testing methodologies.\nSolid understanding of balance sheet management, capital optimization, and asset-liability matching principles.\nStrong communication and stakeholder engagement skills to translate complex actuarial findings to business leadership.\nTo apply online please use the 'apply' function, alternatively you may contact Lynette Lim.\n(EA: 94C3609/ R1435181 )",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-04",
+      "first_seen_at": "2026-09-04T15:08:53+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 5,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-04",
+      "reopened_at": null,
+      "salary_max": 7500,
+      "salary_min": 6500,
+      "salary_period": "Monthly",
+      "skills": [
+        "Working Capital Management",
+        "Risk Assessment",
+        "system qualification",
+        "ORC",
+        "FSA",
+        "Regulatory Capital",
+        "Valuation",
+        "Prophet",
+        "Capital Budgeting",
+        "Asset and Liability Management",
+        "Asset Optimization",
+        "Stakeholder Engagement",
+        "Actuarial Science",
+        "Life Insurance",
+        "Actuaries",
+        "Actuarial qualifications",
+        "Capital",
+        "Regulatory Submissions",
+        "Balance Sheet Management",
+        "Solvency II"
+      ],
+      "source_job_id": "9bbd00abc82d171a26f70be97f25d79a",
+      "source_job_post_id": "MCF-2026-1553444",
+      "status": "active",
+      "title": "Assistant Manager, Actuarial Capital & Solvency",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/assistant-manager-actuarial-capital-solvency-randstad-9bbd00abc82d171a26f70be97f25d79a",
       "vacancies": 1
     },
     "9c4ee50faa38eb1e943b2350ef3b1a63": {
@@ -973,7 +1150,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1024,7 +1201,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1179,7 +1356,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1230,7 +1407,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1280,7 +1457,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1337,7 +1514,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1389,7 +1566,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-02T15:01:06+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1426,6 +1603,59 @@
       "status": "active",
       "title": "Product Owner, AI & Retail Growth, APAC",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/product-owner-ai-retail-growth-apac-zurich-insurance-company-f3eb15a841b66ece6701d53f9e38f57a",
+      "vacancies": 1
+    },
+    "f58ae7f14f8b6aeb031e331816278490": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "company_uen": "200007268E",
+      "description": "Responsibilities:\nPrice participating, non-participating, and investment-linked products, aligning profitability with business strategy.\nSupport the execution of the overall product and pricing strategy for life insurance offerings.\nDevelop pricing methodologies based on actuarial principles and regulatory standards.\nEnsure compliance with internal policies and external regulatory requirements for product launches.\nCollaborate with internal departments to integrate new individual life product features and initiate process improvements.\nLead discussions with reinsurers to establish effective reinsurance structures when necessary.\nManage accountability regarding business and regulatory compliance risks, implementing appropriate risk mitigation strategies.\nStay informed about industry trends and emerging technologies that could impact risk management.\nRequirements:\nQualified or nearly qualified Actuary from a recognized actuarial professional body.\nMinimum of 5 years of experience in the actuarial field.\nDetail-oriented, efficient, self-motivated, and capable of working under pressure.\nStrong interpersonal, writing, and verbal communication skills.\nProficient in technical and analytical skills.\nInterested candidates who wish to apply for the advertised position, please click on “Apply”. We regret that only shortlisted candidates will be notified.\nEA License No.: 01C4394 (Persol Singapore PTE LTD)\nBy sending us your personal data and curriculum vitae (CV), you are deemed to consent to Persol Singapore Pte Ltd and its affiliates to collect, use and disclose your personal data for the purposes set out in the Privacy Policy available at https://www.persolsingapore.com/policies. You acknowledge that you have read, understood, and agree with the Privacy Policy",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-02",
+      "first_seen_at": "2026-09-04T15:08:53+08:00",
+      "last_seen_at": "2026-09-04T15:08:53+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-02",
+      "reopened_at": null,
+      "salary_max": 8000,
+      "salary_min": 6000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Product and Pricing Strategy Development",
+        "Technology Risk Management",
+        "Detail Oriented",
+        "Regulatory Compliance",
+        "Technical Skills",
+        "Reinsurance",
+        "Efficient",
+        "Pricing Strategy",
+        "Business Strategy",
+        "Verbal Skills",
+        "Writing",
+        "Risk Mitigation",
+        "Work Under Pressure",
+        "Actuarial qualifications",
+        "Self Motivation",
+        "New Product Development"
+      ],
+      "source_job_id": "f58ae7f14f8b6aeb031e331816278490",
+      "source_job_post_id": "MCF-2026-1541239",
+      "status": "active",
+      "title": "Actuarial Pricing Manager (Life Insurance / $8K) [ID 710569]",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-pricing-manager-id-710569-persol-singapore-f58ae7f14f8b6aeb031e331816278490",
       "vacancies": 1
     },
     "fa3d5989fb3526fa9cea0462abe0444a": {
@@ -1664,6 +1894,17 @@
       "fetched": 54,
       "matching": 16,
       "new": 2,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 20,
+      "checked_at": "2026-09-04T15:08:53+08:00",
+      "data_changed": true,
+      "expired": 0,
+      "fetched": 65,
+      "matching": 20,
+      "new": 4,
       "reopened": 0,
       "status": "success"
     }
