@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-09-06T15:02:45+08:00",
+  "data_changed_at": "2026-09-08T15:09:33+08:00",
   "jobs": {
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
@@ -69,7 +69,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -122,7 +122,7 @@
       "expired_at": null,
       "expires_at": "2026-09-15",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -226,7 +226,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -282,7 +282,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -606,7 +606,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-09-08T15:09:33+08:00",
       "expires_at": "2026-09-07",
       "first_seen_at": "2026-08-26T22:24:47+08:00",
       "last_seen_at": "2026-09-06T15:02:45+08:00",
@@ -644,7 +644,7 @@
       ],
       "source_job_id": "6795dd4618467edd0e1242f869df6adf",
       "source_job_post_id": "MCF-2026-1465530",
-      "status": "active",
+      "status": "expired",
       "title": "Head of Underwriting & Portfolio Management (Small Commercial Insurance)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/head-underwriting-portfolio-management-chubb-asia-pacific-6795dd4618467edd0e1242f869df6adf",
       "vacancies": 1
@@ -665,7 +665,7 @@
       "expired_at": null,
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -779,7 +779,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -826,7 +826,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -879,7 +879,7 @@
       "expired_at": null,
       "expires_at": "2026-09-14",
       "first_seen_at": "2026-08-31T22:38:51+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -934,7 +934,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1150,7 +1150,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1201,7 +1201,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1356,7 +1356,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1407,7 +1407,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1457,7 +1457,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1514,7 +1514,7 @@
       "expired_at": null,
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1566,7 +1566,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1619,7 +1619,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-06T15:02:45+08:00",
+      "last_seen_at": "2026-09-08T15:09:33+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1915,6 +1915,17 @@
       "expired": 2,
       "fetched": 61,
       "matching": 19,
+      "new": 0,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 17,
+      "checked_at": "2026-09-08T15:09:33+08:00",
+      "data_changed": true,
+      "expired": 1,
+      "fetched": 57,
+      "matching": 17,
       "new": 0,
       "reopened": 0,
       "status": "success"
