@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-09-08T15:09:33+08:00",
+  "data_changed_at": "2026-09-12T15:03:54+08:00",
   "jobs": {
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
@@ -66,7 +66,7 @@
         "Permanent"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-09-12T15:03:54+08:00",
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:03:20+08:00",
       "last_seen_at": "2026-09-08T15:09:33+08:00",
@@ -104,7 +104,7 @@
       ],
       "source_job_id": "0b430a54848dc3e6b148df52b2e29017",
       "source_job_post_id": "MCF-2026-1381527",
-      "status": "active",
+      "status": "expired",
       "title": "Planning & Performance Management Executive",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/planning-performance-management-executive-zurich-insurance-company-0b430a54848dc3e6b148df52b2e29017",
       "vacancies": 1
@@ -122,7 +122,7 @@
       "expired_at": null,
       "expires_at": "2026-09-15",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -226,7 +226,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -282,7 +282,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -665,7 +665,7 @@
       "expired_at": null,
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -707,6 +707,59 @@
       "title": "Manager, Actuarial Audit (Life & Health)",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/manager-actuarial-audit-randstad-6c4655654cdc0011c59a477ec3636154",
       "vacancies": 1
+    },
+    "6c48fbbf837b2b249477b07e6eb48949": {
+      "categories": [
+        "Banking and Finance",
+        "Insurance"
+      ],
+      "company": "THE GREAT EASTERN LIFE ASSURANCE COMPANY LIMITED",
+      "company_uen": "190800011G",
+      "description": "We are seeking a motivated and aspiring actuary to join our Accident &Health (A&H) actuarial team. You will be part of a dynamic team ofactuaries managing the Group Insurance and A&H portfolio, supportingA&H business initiatives and delivering data-driven insights to achieveoverall business objectives. This role offers a uniqueopportunity to gain hands-on experience in product pricing, product development, monitoring of productsperformance and providing actuarial support to actuarial valuation team and A&Hbusiness teams, with a focuson the Group Insurance and Personal Accident space.\n· Product pricing and data analysis, by developingand enhancing in-house statistical capability, which includes:\n- Design and developpricing models that meet internaland regulatory requirement.\n- Build, implement and maintain a comprehensiveup-to-date database that is consistent, well-defined and well-reconciled to beused by internal stakeholders and to performdata analysis, with the aim of providingactionable insights as wellas setting pricing assumptions.\n- Participate in product revamp, new benefitsenhancement, maintenance of quotation tools and premium calculators.\n- Assist the Company in driving the A&Hbusiness through periodic profitability study,experience analysis and portfolio performance analysis. Actively monitor actualexperience of policies against pricing quotations to identify early actionsthat should be taken to enhance portfolio performance.\n- Assist in the financial management of thebusiness, including reinsurance program review.\n- Support business units in achieving their keyperformance indicators, such as generating relevant reports for monitoring andtracking purposes.\n· Collaboratewith internal/ external stakeholders to design, price and develop A&Hproducts, particularly Group Insurance and Personal Accident products. This includes:\n- Work closely with underwriters and claimsmanagers to integrate new product features and improvement in processes into their day to day operational activities.\n- Provide technical supporton business decisions, such as marketing, underwriting, claims management and system development.\n- Identify and implement process improvements forend-to-end Group Insurance business process to enhance efficiency and ensurerobustness in quotation processes.\n· SupportA&H reserving and financial reporting processes, which includes:\n- Assist in the preparation of A&H actuarialreserves and financial reporting under local and international standards (ie.RBC2, IFRS17).\n- Support the development and maintenance ofvaluation models, relevant coding and assumption setting.Perform annual assumption setting exerciseto review key quotationcomponents such as pricing model, pricing approach, pricing process, dataintegrity and quality, risk rates, inﬂation,trending approach, group discount, and IBNR loading.\n- Collaborate with finance and actuarial valuationteams to ensure consistency and accuracy in actuarial inputs, through closereconciliation between actuarial and finance key figures\n- Facilitate business planning and interpretationof monthly Group Insurance P&L through understanding of RBC2 and IFRS17P&L standards, and compilation of monthly relevant financials\nWe are looking for people who\n· Bachelor’s degreein Actuarial Science,Mathematics, Statistics, or a relatedﬁeld.\n· 3 years or above in relevant actuarial roles.\n· Candidates who have passed IFoA SP1/SA1, or SOA GH101/GH301, or IAA General Insuranceand Health specialisation, or CAS Exam 5, or are actively pursuingactuarial certiﬁcation, will be given priorityconsideration.\n· Experience working closely with underwriting,claims and product developers.\n· Experience in project management and presentingﬁnancials to management.\n· In depth knowledgeof GI, Group, A&H insuranceproducts and actuarial practice.\n· Excellent instatistical analysis, problem solving and communication skills.\n· Proﬁcient in MSExcel.\n· Good knowledge of statistical packages andstrong interest in programming (e.g. SAS, SQL,VBA, Prophet).\n· Familiar with reinsurance structures, AS400system data structure, RBC2, IFRS17 and Prophet programming will be an advantage.\nHow you succeed\n· Championand embody our Core Values ineveryday tasks and interactions.\n· Demonstratehigh level of integrity and accountability.\n· Take initiative to drive improvements andembrace change.\n· Take accountability of business and regulatory compliance risks, implementing measures to mitigate them effectively.\n· Keepabreast with industry trends, regulatory compliance, and emerging threats and technologies to understand and highlightpotential concerns/ risks to safeguard our company proactively.\nWho we are\nFounded in 1908, Great Eastern is a well-established market leader and trusted brand inSingapore and Malaysia. With over S$100 billionin assets and more than 16 millionpolicyholders, including 12.5 million from government schemes, itprovides insurance solutions to customers through three successful distributionchannels – a tied agency force, bancassurance, and ﬁnancial advisory ﬁrm GreatEastern Financial Advisers. The Group also operates in Indonesia and Brunei.\nThe Great EasternLife Assurance CompanyLimited and GreatEastern General Insurance Limited have been assignedthe ﬁnancial strengthand counterparty creditratings of \"AA-\" by S&P Global Ratings since 2010, one of the highest among Asian life insurancecompanies. Great Eastern's assetmanagement subsidiary, Lion Global Investors Limited, is one of the leading asset management companiesin Southeast Asia.\nGreat Eastern is a subsidiary of OCBC, the longest established Singapore bank, formed in 1932. It is the secondlargest ﬁnancial servicesgroup in Southeast Asia by assetsand one of the world’s most highly-rated banks, with anAa1 rating from Moody’s and AA- by both Fitch and S&P. Recognised for its ﬁnancialstrength and stability, OCBC is consistently ranked among the World’s Top50 Safest Banks by Global Finance and has been named Best Managed Bankin Singapore by The Asian Banker.\nTo all recruitment agencies:Great Eastern does not accept unsolicited agencyresumes. Please do notforward resumes to our email or our employees. We will not be responsible for any fees related to unsolicited resumes.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-09-25",
+      "first_seen_at": "2026-09-12T15:03:54+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 0,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-09-11",
+      "reopened_at": null,
+      "salary_max": 6200,
+      "salary_min": 3700,
+      "salary_period": "Monthly",
+      "skills": [
+        "Overseeing a Team",
+        "Statistical Packages",
+        "Group Insurance",
+        "Quotation Management",
+        "Reinsurance",
+        "Market Analysis",
+        "SQL",
+        "Actuarial Consulting",
+        "Project Management",
+        "Analytical and Problem-Solving Skills",
+        "Pricing Analysis",
+        "liaising with developers",
+        "Statistical Techniques",
+        "Economic Modeling",
+        "Product Development",
+        "Insurance industry"
+      ],
+      "source_job_id": "6c48fbbf837b2b249477b07e6eb48949",
+      "source_job_post_id": "MCF-2026-1603543",
+      "status": "active",
+      "title": "Actuarial Analyst",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-analyst-great-eastern-life-assurance-company-6c48fbbf837b2b249477b07e6eb48949",
+      "vacancies": 3
     },
     "758d2a31137d52cccd21ded125ca9789": {
       "categories": [
@@ -779,7 +832,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -826,7 +879,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -879,7 +932,7 @@
       "expired_at": null,
       "expires_at": "2026-09-14",
       "first_seen_at": "2026-08-31T22:38:51+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -934,7 +987,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1147,7 +1200,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-09-12T15:03:54+08:00",
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
       "last_seen_at": "2026-09-08T15:09:33+08:00",
@@ -1183,10 +1236,69 @@
       ],
       "source_job_id": "af16603453cb2d3d42ff8f27eb1cbbac",
       "source_job_post_id": "MCF-2026-1493431",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Consultant",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-consultant-ernst-young-advisory-af16603453cb2d3d42ff8f27eb1cbbac",
       "vacancies": 10
+    },
+    "b0b80ae85ce80ec787a77f42ea063a5e": {
+      "categories": [
+        "Consulting",
+        "Insurance",
+        "Risk Management"
+      ],
+      "company": "RANDSTAD PTE. LIMITED",
+      "company_uen": "199304055W",
+      "description": "About the company\nA prominent global reinsurer with an agile regional presence, dedicated to fostering technical excellence and driving accelerated professional growth across Asia.\nAbout the job\nThis high-visibility leadership position offers complete strategic ownership of regional actuarial pricing frameworks while driving commercial strategy and guiding high-performing technical teams.\nSpearhead regional pricing evaluations, experience investigations, and treaty structuring to ensure profitable portfolio growth and optimal risk selection.\nElevate team performance and delivery standards by providing technical mentorship, quality oversight, and peer reviews for a team of pricing professionals.\nPartner with underwriting and client management functions to construct innovative, risk-adjusted reinsurance solutions that strengthen client relationships.\nOptimize pricing frameworks, cash flow models, and assumption setting processes to maintain robust technical governance across evolving market conditions.\nAbout the manager/team\nYou will join a high-autonomy, meritocratic leadership team that values technical innovation, cross-functional collaboration, and streamlined decision-making processes.\nSkills and experience required\nFellowship or full actuarial qualification from a recognized global professional body (e.g., IFoA, SOA, FIAA) alongside proficiency in analytical tools like SAS or SQL.\nDeep functional expertise in Life and Health actuarial pricing, cash flow modeling, and experience analysis.\nDemonstrated sector experience within reinsurance or a direct life insurer with comprehensive technical exposure to regional deal evaluations.\nProven track record of guiding project workstreams, reviewing complex actuarial deliverables, and mentoring junior team members.\nAdvanced commercial acumen with the ability to translate complex technical risks into clear strategic insights for diverse stakeholders.\nTo apply online please use the 'apply' function, alternatively you may contact Lynette Lim.\n(EA: 94C3609/ R1435181)",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-11",
+      "first_seen_at": "2026-09-12T15:03:54+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: Actuary"
+      ],
+      "minimum_years_experience": 12,
+      "position_levels": [
+        "Manager"
+      ],
+      "posted_at": "2026-09-11",
+      "reopened_at": null,
+      "salary_max": 15000,
+      "salary_min": 13000,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "Project Tracking",
+        "Team Mentoring",
+        "Analytical Skills",
+        "Valuation",
+        "Reinsurance",
+        "Legislation",
+        "Fellowships and Scholarships",
+        "Business Planning",
+        "Experience With Insurance Sector",
+        "SQL",
+        "Service-Oriented Architecture (SOA)",
+        "Life & Health Insurance Licenses",
+        "Life Insurance",
+        "Actuaries",
+        "Actuarial qualifications",
+        "Capital",
+        "Consulting",
+        "Health Insurance",
+        "Cash Flow Analysis"
+      ],
+      "source_job_id": "b0b80ae85ce80ec787a77f42ea063a5e",
+      "source_job_post_id": "MCF-2026-1606215",
+      "status": "active",
+      "title": "Lead Pricing Actuary (Regional)",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/lead-pricing-actuary-randstad-b0b80ae85ce80ec787a77f42ea063a5e",
+      "vacancies": 1
     },
     "b3a04170236f488bb32203aef011ed99": {
       "categories": [
@@ -1201,7 +1313,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1356,7 +1468,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1407,7 +1519,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1457,7 +1569,7 @@
       "expired_at": null,
       "expires_at": "2026-09-13",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1511,7 +1623,7 @@
         "Internship/Attachment"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-09-12T15:03:54+08:00",
       "expires_at": "2026-09-10",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
       "last_seen_at": "2026-09-08T15:09:33+08:00",
@@ -1548,7 +1660,7 @@
       ],
       "source_job_id": "f01d09bb39a0c54ac1fb473a6da69f1b",
       "source_job_post_id": "MCF-2026-0651580",
-      "status": "active",
+      "status": "expired",
       "title": "Intern, Actuarial Services",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-f01d09bb39a0c54ac1fb473a6da69f1b",
       "vacancies": 1
@@ -1566,7 +1678,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1619,7 +1731,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-08T15:09:33+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1656,6 +1768,55 @@
       "status": "active",
       "title": "Actuarial Pricing Manager (Life Insurance / $8K) [ID 710569]",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-pricing-manager-id-710569-persol-singapore-f58ae7f14f8b6aeb031e331816278490",
+      "vacancies": 1
+    },
+    "f9b2405022f50c11ee077b55359a8eb2": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ALLIANZ SE",
+      "company_uen": "S98FC5644A",
+      "description": "Job Purpose\nThe role sits in the Regional Life Actuarial team and will be responsible to support key regional projects of enhancing actuarial model, governance and reporting, and to collaborate with the local entities in achieving these goals.\nWhat you do\n1. Actuarial model and governance:\nSupport model enhancement, with a focus on asset-liability interaction and management rules\nPerform model validation to ensure minimum requirements are met\nCollaborate with local entities to enhance model documentation, including key methodologies, management actions, simplification list etc.\nCoordinate model changes from local entities and ensure alignment with the Group model governance framework\n2. Reporting:\nSupport reporting enhancement across entities, including movement analysis, reconciliations and driver attribution, in accordance to Group requirements and to support clearer explanation of IFRS17 and SII metrics\nImprove reporting process, leveraging on automation\nWhat you bring\nMore than 3+ years experience in insurance industry\nBachelor’s degree in Actuarial or equivalent\nAt least 3+ years of working experience in Actuarial function in dynamic insurance industry\nAble to work independently\nWork well in team and good interpersonal skill is essential\nWilling to travel within Asia\nExperience in Taiwan and in consulting\nGood understanding of IFRS 17 Standards\nExperience in financial analysis and Actuarial modelling\nProficiency in computer skills such as Microsoft Office suite, Visual Basic and PowerPoint\nAI skills, e.g. ChatGPT and Copilot an advantage\nProven ability to multi-task and work under pressure\nAble to speak other Asian language, e.g. Mandarin\nEffective stakeholder management skills, with ability to communicate to a wide variety of levels\nWhat we offer\nWe are certified as one of The World’s Best Places to Work & Great Place to Work in Singapore.\nBe part of a team that’s open-minded, supportive, and genuinely focused on customer outcomes.\nA sense of belonging in the workplace, where you are welcomed and encouraged to bring your most authentic self to work.\nAn employer that is committed to supporting hybrid work and readily provides flexible & remote work options.\nAccess to LinkedIn Learning and Degreed and career opportunities across the world, to support yourcontinuous learning and you taking control of your career development.\nRobust and comprehensive benefit offerings for your health and well being\nInitiatives to support your financial wellness through selected discounted Allianz insurance products, pension contributions and our referral bonus scheme.\nThe opportunity to take part in our Employee Share Purchase Program - own a piece of your employer.\nAllianz Group is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and challenges, is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow and to shape a better future for our customers and the world around us.\nAt Allianz, we stand for unity: we believe that a united world is a more prosperous world, and we are dedicated to consistently advocating for equal opportunities for all. And the foundation for this is our inclusive workplace, where people and performance both matter, and nurtures a culture grounded in integrity, fairness, inclusion and trust.\nWe therefore welcome applications regardless of ethnicity or cultural background, age, gender, nationality, religion, social class, disability or sexual orientation, or any other characteristics protected under applicable local laws and regulations.\nJoin us. Let's care for tomorrow.",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-09-23",
+      "first_seen_at": "2026-09-12T15:03:54+08:00",
+      "last_seen_at": "2026-09-12T15:03:54+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-09-09",
+      "reopened_at": null,
+      "salary_max": 6500,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "International Business Consulting",
+        "Teamwork",
+        "governance framework",
+        "Valuation",
+        "Reinsurance",
+        "Asset and Liability Management",
+        "Model Validation",
+        "Actuarial Science",
+        "producing documentation",
+        "Able To Work Independently",
+        "Insurance industry",
+        "Technical Support"
+      ],
+      "source_job_id": "f9b2405022f50c11ee077b55359a8eb2",
+      "source_job_post_id": "MCF-2026-1584792",
+      "status": "active",
+      "title": "Analyst, Life Actuarial, Asia",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/analyst-life-actuarial-asia-allianz-se-f9b2405022f50c11ee077b55359a8eb2",
       "vacancies": 1
     },
     "fa3d5989fb3526fa9cea0462abe0444a": {
@@ -1927,6 +2088,17 @@
       "fetched": 57,
       "matching": 17,
       "new": 0,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 17,
+      "checked_at": "2026-09-12T15:03:54+08:00",
+      "data_changed": true,
+      "expired": 3,
+      "fetched": 59,
+      "matching": 17,
+      "new": 3,
       "reopened": 0,
       "status": "success"
     }
