@@ -129,7 +129,14 @@ def load_config() -> dict[str, Any]:
     return config
 
 
-def fetch_page(search_term: str, limit: int, page: int, timeout: int, retry_delay: float = 2) -> dict[str, Any]:
+def fetch_page(
+    search_term: str,
+    limit: int,
+    page: int,
+    timeout: int,
+    retry_delay: float = 2,
+    retry_attempts: int = 3,
+) -> dict[str, Any]:
     query = urlencode({"search": search_term, "limit": limit, "page": page})
     request = Request(
         f"{API_URL}?{query}",
@@ -138,17 +145,25 @@ def fetch_page(search_term: str, limit: int, page: int, timeout: int, retry_dela
             "User-Agent": "PersonalJobMonitor/0.1 (targeted, low-frequency read-only monitor)",
         },
     )
-    for attempt in range(2):
+    attempts = max(1, int(retry_attempts))
+    for attempt in range(attempts):
         try:
             with urlopen(request, timeout=timeout) as response:
                 return json.load(response)
         except HTTPError as exc:
-            if attempt == 1 or (exc.code != 429 and not 500 <= exc.code <= 599):
-                raise
-        except (URLError, TimeoutError):
-            if attempt == 1:
-                raise
-        time.sleep(retry_delay)
+            retryable = exc.code == 429 or 500 <= exc.code <= 599
+            if not retryable or attempt == attempts - 1:
+                raise RuntimeError(
+                    f"Request failed for search {search_term!r}, page {page}, "
+                    f"attempt {attempt + 1}/{attempts}: HTTP {exc.code} {exc.reason}"
+                ) from exc
+        except (URLError, TimeoutError) as exc:
+            if attempt == attempts - 1:
+                raise RuntimeError(
+                    f"Request failed for search {search_term!r}, page {page}, "
+                    f"attempt {attempt + 1}/{attempts}: {type(exc).__name__}: {exc}"
+                ) from exc
+        time.sleep(retry_delay * (2 ** attempt))
     raise RuntimeError("Request retry loop ended unexpectedly")
 
 
@@ -156,14 +171,15 @@ def fetch_all(config: dict[str, Any]) -> list[dict[str, Any]]:
     limit = max(1, min(int(config["page_size"]), 100))
     timeout = int(config.get("request_timeout_seconds", 30))
     retry_delay = float(config.get("request_retry_delay_seconds", 2))
+    retry_attempts = int(config.get("request_retry_attempts", 3))
     combined: dict[str, dict[str, Any]] = {}
     for search_term in config.get("search_terms", [config["search_term"]]):
-        first = fetch_page(search_term, limit, 0, timeout, retry_delay)
+        first = fetch_page(search_term, limit, 0, timeout, retry_delay, retry_attempts)
         results = list(first.get("results", []))
         total = int(first.get("total", len(results)))
         page = 1
         while len(results) < total:
-            payload = fetch_page(search_term, limit, page, timeout, retry_delay)
+            payload = fetch_page(search_term, limit, page, timeout, retry_delay, retry_attempts)
             page_results = payload.get("results", [])
             if not page_results:
                 raise RuntimeError(

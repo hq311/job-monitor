@@ -22,5 +22,6 @@
   "title_stem": "actuar",
   "request_timeout_seconds": 30,
   "request_retry_delay_seconds": 2,
+  "request_retry_attempts": 3,
   "page_size": 20
 }

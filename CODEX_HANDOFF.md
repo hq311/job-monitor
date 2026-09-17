@@ -72,7 +72,7 @@ Do not reintroduce a `possibly_missing` state unless the user explicitly asks fo
 - Dashboard timestamps display the compact `SGT` label (Singapore Time).
 - The salary trend chart uses all **visible** postings, including expired ones when the status filter includes them. The top summary cards remain active-posting statistics.
 - Watched companies use short display names on the dashboard; matching and archived details retain exact registered names.
-- Transient request failures receive one retry after the configured delay.
+- Transient request failures receive up to three total attempts with exponential delay; final errors identify the search term and page.
 - A fetched listing whose advertised expiry date has arrived remains expired and is not repeatedly counted as reopened.
 - Generated dashboard/detail files are written only when their content changed.
 

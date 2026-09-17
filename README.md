@@ -20,7 +20,7 @@ The header separates **Last checked** (the latest successful live fetch) from **
 
 Configuration lives in `config.json`. The tracker searches `Actuary`, `Actuarial`, and each watched company; deduplicates results by source UUID; and retains jobs matching the configured actuarial title stem or an exact watched-company name. Company matches are retained regardless of title.
 
-Each MyCareersFuture request gets one additional attempt after a short delay when it fails because of a timeout, connection problem, rate limit, or server error. Generated dashboard and detail files are rewritten only when their contents changed.
+Each MyCareersFuture request gets up to three attempts with progressively longer delays when it fails because of a timeout, connection problem, rate limit, or server error. Final errors identify the affected search and result page. Generated dashboard and detail files are rewritten only when their contents changed.
 
 Each job records and displays all matching criteria. For example, a Zurich actuarial posting can carry both title and company tags.
 
