@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-09-14T15:48:10+08:00",
+  "data_changed_at": "2026-09-18T15:17:42+08:00",
   "jobs": {
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
@@ -119,7 +119,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-09-18T15:17:42+08:00",
       "expires_at": "2026-09-15",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
       "last_seen_at": "2026-09-14T15:48:10+08:00",
@@ -154,9 +154,65 @@
       ],
       "source_job_id": "18fb1ad0e2c626070d2ce40e3930c7f0",
       "source_job_post_id": "MCF-2026-1527438",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Senior Officer/Assistant Manager/Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-senior-officerassistant-managermanager-china-life-insurance-18fb1ad0e2c626070d2ce40e3930c7f0",
+      "vacancies": 1
+    },
+    "20fff77b9b0af89cc5ec7ce4dc4fbf6d": {
+      "categories": [
+        "Banking and Finance",
+        "Consulting",
+        "Insurance",
+        "Risk Management"
+      ],
+      "company": "RANDSTAD PTE. LIMITED",
+      "company_uen": "199304055W",
+      "description": "About the company\nA premier international financial institution with a strong Singapore footprint, committed to continuous business innovation, robust risk management, and long-term professional development.\nAbout the job\nThis strategic actuarial audit role offers broad operational visibility and direct executive engagement while accelerating your trajectory toward team management.\nDrive comprehensive technical evaluations of reserving frameworks, pricing strategies, capital models, and IFRS 17 compliance to enhance enterprise governance.\nDeliver high-impact risk assessments and actionable insights directly to the Chief Actuary, Chief Risk Officer, and Audit Committee.\nChampion independent reviews of actuarial methodologies across diverse business units to safeguard organizational integrity.\nCollaborate with cross-functional leaders to refine modeling standards and optimize financial reporting workflows.\nExecute structured leadership responsibilities designed to prepare you for direct line management in your next career phase.\nAbout the manager/team\nYou will join a dynamic group of analytical specialists under the guidance of a seasoned actuarial leader who offers dedicated mentorship to elevate your commercial acumen and executive presence.\nSkills and experience required\nProven experience within actuarial or risk management domains, with technical exposure across valuation, reserving, pricing, or IFRS 17 reporting.\nFellowship or near-fellowship credentials from a recognized professional body including FSA, FIA, FIAA, or equivalent.\nAdvanced capability with actuarial modeling platforms such as Prophet or AXIS alongside standard regulatory accounting frameworks.\nStrong desire to step into an analytical oversight role with clear ambitions to lead and mentor team members.\nOutstanding communication skills with the ability to translate complex technical findings into clear advice for senior executives.\nTo apply online please use the 'apply' function, alternatively you may contact Lynette Lim.\n(EA: 94C3609/ R1435181 )",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-17",
+      "first_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Manager"
+      ],
+      "posted_at": "2026-09-17",
+      "reopened_at": null,
+      "salary_max": 12000,
+      "salary_min": 10000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Analytical Capability",
+        "Corporate Governance",
+        "FSA",
+        "Valuation",
+        "Prophet",
+        "Assurance",
+        "Risk Management",
+        "Auditing",
+        "Internal Controls",
+        "Fellowships and Scholarships",
+        "Valuation Research and Analysis",
+        "Actuarial Consulting",
+        "Audit Management",
+        "Product Pricing",
+        "Providing expert advice",
+        "Regulatory Frameworks"
+      ],
+      "source_job_id": "20fff77b9b0af89cc5ec7ce4dc4fbf6d",
+      "source_job_post_id": "MCF-2026-1645796",
+      "status": "active",
+      "title": "Actuarial Audit Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-audit-manager-randstad-20fff77b9b0af89cc5ec7ce4dc4fbf6d",
       "vacancies": 1
     },
     "2fae869c03a274466d863ff02791ffc3": {
@@ -226,7 +282,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -282,7 +338,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -665,7 +721,7 @@
       "expired_at": null,
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -722,7 +778,7 @@
       "expired_at": null,
       "expires_at": "2026-09-25",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -832,7 +888,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -879,7 +935,7 @@
       "expired_at": null,
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -971,6 +1027,57 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-regional-fpa-analyst-chubb-asia-pacific-8c7be77271e273622fa50fba318bc53d",
       "vacancies": 1
     },
+    "9258070e171f6719e83d75f58871dc4b": {
+      "categories": [
+        "Consulting",
+        "Insurance",
+        "Professional Services"
+      ],
+      "company": "MSIG ASIA PTE. LTD.",
+      "company_uen": "200412216K",
+      "description": "Join our Actuarial Services team, where you will support in the provision of actuarial-related advice and services across our business units in Asia.\nResponsibilities\nQuarterly reserve reviews and report writing\nRegular portfolio monitoring\nData analytics\nStress testing\nYearly business planning\nPricing projects whenever required\nAutomation and streamlining of project workflows\nRequirements\nPursuing a (first-class) degree in Actuarial Science, Computer Science, Engineering, Mathematics, Statistics, or any other related quantitative fields\nInternship experience in actuarial, risk management and/or finance roles in the general insurance industry will be an advantage\nHands-on experience in Python and other programming languages\nDetail oriented, excellent problem-solving skills; comfortable with learning new concepts\nExcellent communication and interpersonal skills, ability to work as part of a team and comfortable with meeting new people\nHighly motivated, committed, and goal oriented",
+      "employment_types": [
+        "Internship/Attachment"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-15",
+      "first_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 0,
+      "position_levels": [
+        "Fresh/entry level"
+      ],
+      "posted_at": "2026-09-15",
+      "reopened_at": null,
+      "salary_max": 1000,
+      "salary_min": 1000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Teamwork",
+        "Detail Oriented",
+        "Programming Languages",
+        "Mathematics",
+        "Actuarial Support",
+        "Problem Solving",
+        "Computer Science",
+        "Actuarial Science",
+        "Python",
+        "Engineering",
+        "Actuarial qualifications",
+        "Actuarial Services",
+        "Insurance industry"
+      ],
+      "source_job_id": "9258070e171f6719e83d75f58871dc4b",
+      "source_job_post_id": "MCF-2026-1621831",
+      "status": "active",
+      "title": "Intern, Actuarial Services",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-9258070e171f6719e83d75f58871dc4b",
+      "vacancies": 1
+    },
     "9bbd00abc82d171a26f70be97f25d79a": {
       "categories": [
         "Consulting",
@@ -987,7 +1094,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1257,7 +1364,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1313,7 +1420,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1345,6 +1452,54 @@
       "title": "FS Consulting, Life Actuarial, Senior Associate to Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/fs-consulting-life-actuarial-senior-associate-manager-kpmg-services-b3a04170236f488bb32203aef011ed99",
       "vacancies": 4
+    },
+    "c4c3a49fa2fb46b5c3fe881d851303b7": {
+      "categories": [
+        "Engineering",
+        "Insurance"
+      ],
+      "company": "CHUBB ASIA PACIFIC PTE. LTD.",
+      "company_uen": "197500425H",
+      "description": "Purpose\nChubb is seeking an experienced Engineer to provide professional engineering advice to our Renewable Energy underwriting team in the Asia Pacific (APAC) region, with the aim of improving underwriting profitability and assisting in portfolio development and new business opportunities. This role involves collaboration with underwriters as well as interaction with clients and brokers.\nThe primary responsibility is to provide timely, succinct and technically advanced engineering advice to underwriters with regard to technical risks of Construction and Operational Phase of Renewable Energy Power Plants in compliance with CHUBB processes and best practices.\nResponsibilities\nIn this role, effective and objective communication is essential for providing risk management advice based on thorough evaluations of risk exposures and loss estimates for the renewable energy sector (Solar, Wind, BESS, etc). Key responsibilities include\nDevelop DeskTop Reviews (providing technical input into risk assessment, evaluating submission information including reports provided by brokers and other third parties and completing engineering reviews) for Renewable Energy sector for both construction and operational phase in the APAC region, ensuring adherence to CHUBB best practices.\nCollaborate with regional engineers to conduct peer reviews\nConduct site visits and risk surveys of client’s projects and premises, including input into broker reports and risk improvement recommendations including ensuring accuracy and completeness.\nDevelop and manage technology databases for renewable energy occupancies to track proven/unproven technology.\nIdentify internal and external data sources that enable qualifying and quantifying critical risk factors on renewable energy occupancies.\nContinuously enhance engineering knowledge and resources within areas of expertise to stay current with industry practices and standards.\nDevelop and improve communication effectiveness and manage relationships with clients, brokers, and the insurance market, to maintain CHUBB’s credibility as a leading professional and ethical insurer.\nFoster a culture of continuous improvement within the team and streamline workflow management processes\nDevelop ongoing learning and development curriculum for underwriters, claims and risk engineering colleagues across APAC.\nKeep informed of Renewable Energy sector developments including technological developments, regulatory and policy changes, investment and challenges and produce communications to share with stakeholders across APAC.\nQualifications\nA qualified engineer, preferably holding a degree in Mechanical/Chemical/ Electrical Engineering\nA minimum of eight years’ experience across key range of engineering activities; construction and operation of onshore wind, solar, battery energy storage systems, power transmission and distribution.\nExperience should include design, construction and management gained from a broad spectrum of technologies and projects\nExtensive knowledge of the Renewable Energy sectors with a desire for continuous learning Practical and results driven with ability to make own decisions, manage and prioritize workload according to needs of the business, and work on own initiative.\nAn experienced professional; clear and confident communicator with the ability to convey technical information to non-technical audiences.\nExcellent communication and negotiation skills to facilitate effective interactions with clients, brokers, and stakeholders.\nCapable of working independently as well as collaborating effectively as part of a team.\nEnthusiasm for facing new challenges, particularly in engagements with large multinational clients\nA team player with flexible, communicative, and personable approach to work.\nA keen interest in engineering subjects, with an appreciation for the business environment and ethical considerations\nProficiency in English is essential; knowledge of additional languages is beneficial.\nWillingness to travel across APAC regions.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-01",
+      "first_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: CHUBB ASIA PACIFIC PTE. LTD."
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-17",
+      "reopened_at": null,
+      "salary_max": 17000,
+      "salary_min": 10000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Peer Review",
+        "Teamwork",
+        "Renewable Energy Business",
+        "Wind Engineering",
+        "Trading Reporting and Assessment",
+        "Electrical Engineering (including power engineerin",
+        "Churn Management",
+        "risk management support",
+        "identified stakeholders",
+        "Initiative",
+        "Insurance industry"
+      ],
+      "source_job_id": "c4c3a49fa2fb46b5c3fe881d851303b7",
+      "source_job_post_id": "MCF-2026-1641260",
+      "status": "active",
+      "title": "Renewable Energy Risk Engineer",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/renewable-energy-risk-engineer-chubb-asia-pacific-c4c3a49fa2fb46b5c3fe881d851303b7",
+      "vacancies": 1
     },
     "c936750f7b5610392ab61b60e3c86dbe": {
       "categories": [
@@ -1468,7 +1623,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1519,7 +1674,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1553,6 +1708,52 @@
       "status": "active",
       "title": "Actuarial (Pricing Review and Governance), Specialist/Consultant",
       "url": "https://www.mycareersfuture.gov.sg/job/accounting/actuarial-specialistconsultant-aia-singapore-e85cf15a8956777453726849b5372357",
+      "vacancies": 1
+    },
+    "e88a8575f0ca7d49a29d3afcc31e5c0b": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "UNITED OVERSEAS INSURANCE LIMITED",
+      "company_uen": "197100152R",
+      "description": "The Underwriting & Operations Division is responsible for all underwriting governance, portfolio management, product & pricing strategy, reinsurance, and operations of the Company.\nJob Purpose\nAs an Actuarial Analyst, you will play a key role in actuarial function, with responsibilities covering reserve estimation and financial reporting, business forecast and budgeting, portfolio reviews, and capital modelling to achieve the company’s underwriting profit, shareholder’s fund, and ROE targets. You will be supporting the company’s strategy in enhancing underwriting capabilities, business expansion, portfolio management, pricing, reserving, data analytics, reinsurance, and retention strategy, in line with the Company’s risk appetite and growth plans.\nYour main responsibilities would include:\nPerform actuarial valuations to ensure company’s reserves are adequate and comply with regulatory requirements.\nDevelop, maintain, and enhance models to support key KPIs such as business forecast and budgeting, top- & bottom-line performance tracking for all lines of business, channels, underwriting teams, and capital adequacy in line with company policy and regulatory requirements.\nUnderstand the company’s underwriting strategy, portfolio structure, product offerings, reinsurance management strategy and system data architecture.\nPerform product pricing activities, design and develop pricing models that meet internal and regulatory requirements, and maintain quotation tools and premium calculators.\nCollaborate with internal stakeholders (underwriting, business team, reinsurance, product, claims, and finance) to perform portfolio reviews and provide insights to support rectification strategy to improve the portfolios’ profitability.\nCollaborate with the IT team on data extraction to support analysis requirements and develop Power BI dashboards for the team.\nAnalyse claims data and other relevant datasets to identify trends, experiences deviation, and potential reserve risks.\nPerform scenario analyses, stress testing, and sensitivity testing to support capital and risk management.\nIdentify optimal use of reinsurance and retention strategy to achieve target risk and rewards balancing along the efficiency frontier.\nSupport technical accounting and commutation calculations.\nSupport data analytics work and deliver continuous improvements to ensure high-quality resolution in terms of data granularity and accuracy.\nUndertake any other duties as may be assigned.\nRequirements\nBachelor’s degree in Actuarial, Mathematics, Statistics, or related field.\nMinimum 2-3 years’ experience in reserving, regulatory and financial reporting (e.g. MAS reporting & IFRS 17), budgeting and forecast, capital modelling and management, pricing, and portfolio management for general insurance.\nProficiency in Microsoft Office, PowerBI, and/or any statistical software such as SAS.\nProficiency in programming languages, such as SQL, VBA, python an advantage.\nFluency in English. Fluency in other languages is a plus.\nStrong analytical mindset, problem solving, good interpersonal and communication skills.\nMeticulous, organised, and able to multi-task efficiently and produce innovative solutions.\nProven ability to work both independently and collaboratively within a team.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-09",
+      "first_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-09-18",
+      "reopened_at": null,
+      "salary_max": 7000,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Analytical Thinking",
+        "Actuarial Support",
+        "Fluent English",
+        "Company Valuation",
+        "Multitasking",
+        "Liaising With Internal Stakeholders",
+        "General Insurance",
+        "Business Performance Analysis",
+        "Statistics",
+        "Portfolio insurance"
+      ],
+      "source_job_id": "e88a8575f0ca7d49a29d3afcc31e5c0b",
+      "source_job_post_id": "MCF-2026-1647525",
+      "status": "active",
+      "title": "Actuarial Analyst",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analyst-united-overseas-insurance-e88a8575f0ca7d49a29d3afcc31e5c0b",
       "vacancies": 1
     },
     "ef596055bcf02350b5231f3f3d6f3d1a": {
@@ -1678,7 +1879,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1731,7 +1932,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1784,7 +1985,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-09-18T15:17:42+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2110,6 +2311,17 @@
       "fetched": 55,
       "matching": 16,
       "new": 0,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 18,
+      "checked_at": "2026-09-18T15:17:42+08:00",
+      "data_changed": true,
+      "expired": 1,
+      "fetched": 51,
+      "matching": 18,
+      "new": 4,
       "reopened": 0,
       "status": "success"
     }
