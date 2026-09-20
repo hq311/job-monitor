@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-09-18T15:17:42+08:00",
+  "data_changed_at": "2026-09-20T15:39:26+08:00",
   "jobs": {
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
@@ -176,7 +176,7 @@
       "expired_at": null,
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -282,7 +282,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -338,7 +338,7 @@
       "expired_at": null,
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -721,7 +721,7 @@
       "expired_at": null,
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -778,7 +778,7 @@
       "expired_at": null,
       "expires_at": "2026-09-25",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -888,7 +888,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -932,7 +932,7 @@
         "Full Time"
       ],
       "ended_at": null,
-      "expired_at": null,
+      "expired_at": "2026-09-20T15:39:26+08:00",
       "expires_at": "2026-09-19",
       "first_seen_at": "2026-08-26T22:00:08+08:00",
       "last_seen_at": "2026-09-18T15:17:42+08:00",
@@ -970,7 +970,7 @@
       ],
       "source_job_id": "84cbcfceb1fad622befa772213d1c8ad",
       "source_job_post_id": "MCF-2026-1261233",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Associate, Health Pricing and Portfolio Management",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-associate-health-pricing-portfolio-management-hsbc-life-84cbcfceb1fad622befa772213d1c8ad",
       "vacancies": 1
@@ -1042,7 +1042,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1094,7 +1094,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1364,7 +1364,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1420,7 +1420,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1467,7 +1467,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1623,7 +1623,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1674,7 +1674,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-08-26T21:54:24+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1723,7 +1723,7 @@
       "expired_at": null,
       "expires_at": "2026-10-09",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1879,7 +1879,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1932,7 +1932,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1985,7 +1985,7 @@
       "expired_at": null,
       "expires_at": "2026-09-23",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-18T15:17:42+08:00",
+      "last_seen_at": "2026-09-20T15:39:26+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2322,6 +2322,17 @@
       "fetched": 51,
       "matching": 18,
       "new": 4,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 17,
+      "checked_at": "2026-09-20T15:39:26+08:00",
+      "data_changed": true,
+      "expired": 1,
+      "fetched": 49,
+      "matching": 17,
+      "new": 0,
       "reopened": 0,
       "status": "success"
     }
