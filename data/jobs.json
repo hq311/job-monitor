@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-09-24T15:30:40+08:00",
+  "data_changed_at": "2026-09-26T15:26:12+08:00",
   "jobs": {
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
@@ -68,7 +68,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -160,6 +160,55 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/planning-performance-management-executive-zurich-insurance-company-0b430a54848dc3e6b148df52b2e29017",
       "vacancies": 1
     },
+    "0b57943947d4c56f1f705685a1bd6a75": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "INCOME INSURANCE LIMITED",
+      "company_uen": "202135698W",
+      "description": "At Income Insurance, we aim to create exponential value and cultivate dynamic learning culture. As part of Income’s Actuarial Team, candidate will work closely and collaborate with stakeholders across the organization to deliver business-oriented, customer-focused and innovative insurance solutions.\nKey Responsibilities include:\nSupport other team deliveries including User Acceptance Testing, business management reports, experience and profit monitoring and reinsurance tender.\nAssist in the preparation of regulatory reporting filings\nCollaborate and support business stakeholders to gather insights for purpose of delivering project assigned, using external and internal data sources\nAdopt design-thinking and agile framework in delivering project\nEnsure deliveries follow the department's best practice on risk and compliance\nQualifications:\nFresh graduate with bachelor’s degree in Actuarial Science, or related field with good progress in actuarial credentials (e.g. ASA, AFA) from a recognized international actuarial body\nAbility in critical thinking, problem solving and decision making\nExcellent communication skills with the ability to present information clearly and concisely\nDetail oriented with a commitment to accuracy and quality\nAdaptable and open to dynamic working environment and willing to explore new ways of working\nStrong teamwork and collaboration skills\nRelevant experience in life pricing, including internship exposure, will be a strong advantage\nProficient with Microsoft Office, GEN AI tools and knowledge on programming languages will be an advantage",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-25",
+      "first_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 1,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-09-25",
+      "reopened_at": null,
+      "salary_max": 5500,
+      "salary_min": 3500,
+      "salary_period": "Monthly",
+      "skills": [
+        "Valuation",
+        "Regulatory Filings",
+        "Critical Thinking",
+        "Pricing Strategy",
+        "VBA",
+        "Actuarial Science",
+        "Life Insurance",
+        "ASA",
+        "Modelling",
+        "User Acceptance Testing",
+        "Actuarial qualifications",
+        "Statistics",
+        "Pricing Review"
+      ],
+      "source_job_id": "0b57943947d4c56f1f705685a1bd6a75",
+      "source_job_post_id": "MCF-2026-1695395",
+      "status": "active",
+      "title": "Actuarial Executive (Life Pricing)",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-executive-income-insurance-0b57943947d4c56f1f705685a1bd6a75",
+      "vacancies": 1
+    },
     "18fb1ad0e2c626070d2ce40e3930c7f0": {
       "categories": [
         "Insurance"
@@ -227,7 +276,7 @@
       "expired_at": null,
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -330,7 +379,7 @@
       "expired_at": null,
       "expires_at": "2026-10-05",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -387,7 +436,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -440,10 +489,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-09-26T15:26:12+08:00",
       "expires_at": "2026-09-26",
       "first_seen_at": "2026-08-27T19:34:05+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: Actuary"
@@ -478,10 +527,66 @@
       ],
       "source_job_id": "3f7ec6f5a757c86451d76814b97e1c35",
       "source_job_post_id": "MCF-2026-1498009",
-      "status": "active",
+      "status": "expired",
       "title": "Modelling Actuary (Insurtech Startup)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/modelling-actuary-gravitas-recruitment-group-3f7ec6f5a757c86451d76814b97e1c35",
       "vacancies": 2
+    },
+    "44835af457a39614aee46ffef8334f09": {
+      "categories": [
+        "Banking and Finance",
+        "Consulting",
+        "Insurance",
+        "Risk Management"
+      ],
+      "company": "RANDSTAD PTE. LIMITED",
+      "company_uen": "199304055W",
+      "description": "about the company\nA Tier-1 financial advisory practice with a renowned global footprint, dedicated to delivering market-leading risk solutions while providing continuous long-term career development for its professionals.\nabout the job\nThis pivotal actuarial advisory role offers direct strategic impact, empowering you to own high-value client solutions and accelerate your trajectory toward practice leadership.\nSpearhead sophisticated non-life consulting engagements including capital modeling, pricing strategies, climate risk evaluation, and M&A due diligence.\nTransform complex quantitative modeling outputs into strategic executive insights to guide C-suite business decisions.\nDrive practice growth and market expansion through innovative service offerings and impactful thought leadership.\nOptimize consulting methodologies by embedding advanced data science tools and technical frameworks into core solutions.\nLead project execution streams with end-to-end accountability while ensuring exceptional technical quality and delivery standards.\nabout the manager/team\nYou will work alongside vision-driven directors and partners within a highly collaborative setting that offers direct leadership sponsorship and broad cross-functional exposure.\nskills and experience required\nNear/Full professional actuarial qualification with IFoA, SOA or equivalent.\nDeep functional expertise across non-life pricing, reserving, capital modeling, and regulatory guidelines, with technical familiarity in tools such as ResQ, Igloo, Python, or R.\nExtensive background operating within general insurance, reinsurance, or top-tier consulting environments.\nDemonstrated ability to guide complex project deliverables, mentor junior team members, and manage end-to-end accountabilities.\nSuperior executive communication and stakeholder management capabilities to articulate complex technical concepts to non-technical business leaders.\nTo apply online please use the 'apply' function, alternatively you may contact Lynette Lim.\n(EA: 94C3609/ R1435181 )",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-25",
+      "first_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Manager"
+      ],
+      "posted_at": "2026-09-25",
+      "reopened_at": null,
+      "salary_max": 12000,
+      "salary_min": 10000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Team Mentoring",
+        "R Programming",
+        "Regulatory Compliance",
+        "Technology Expertise",
+        "Reinsurance",
+        "Capital Management",
+        "consulting services",
+        "Service-Oriented Architecture (SOA)",
+        "Actuarial Consulting",
+        "General Insurance",
+        "Python",
+        "Actuarial qualifications",
+        "Technical Leadership",
+        "mentors team members",
+        "Project Delivery",
+        "Global Account Management"
+      ],
+      "source_job_id": "44835af457a39614aee46ffef8334f09",
+      "source_job_post_id": "MCF-2026-1700432",
+      "status": "active",
+      "title": "Actuarial Consulting Manager (P&C)",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-consulting-manager-randstad-44835af457a39614aee46ffef8334f09",
+      "vacancies": 1
     },
     "5317eacf6305242d9daf08b2c044c480": {
       "categories": [
@@ -826,7 +931,7 @@
       "expired_at": null,
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -880,7 +985,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-09-26T15:26:12+08:00",
       "expires_at": "2026-09-25",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
       "last_seen_at": "2026-09-24T15:30:40+08:00",
@@ -917,7 +1022,7 @@
       ],
       "source_job_id": "6c48fbbf837b2b249477b07e6eb48949",
       "source_job_post_id": "MCF-2026-1603543",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-analyst-great-eastern-life-assurance-company-6c48fbbf837b2b249477b07e6eb48949",
       "vacancies": 3
@@ -993,7 +1098,7 @@
       "expired_at": null,
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1147,7 +1252,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1183,6 +1288,55 @@
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-9258070e171f6719e83d75f58871dc4b",
       "vacancies": 1
     },
+    "95735e4c8ce8fe7c2d6d3526ecd4a1a5": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "GENERAL REINSURANCE AG, SINGAPORE BRANCH",
+      "company_uen": "S77FC2647E",
+      "description": "Shape Your Future With Us\nGeneral Re Corporation, a subsidiary of Berkshire Hathaway Inc., is a holding company for global reinsurance and related operations, with more than 2,000 employees worldwide. It owns General Reinsurance Corporation and General Reinsurance AG, which conducts business as Gen Re.\nGen Re delivers reinsurance solutions to the Life/Health and Property/Casualty insurance industries. Represented in all major reinsurance markets through a network of 37 offices, we have earned superior financial strength ratings from each of the major rating agencies. We value diversity, equality and inclusion and promote a culture that supports professional and personal growth.\nYour Role\nOur Asia Life/Health unit is looking for an energetic and dynamic Marketing Actuary to grow our business in the ASEAN region, with a particular focus on Vietnam and other markets in Mainland Southeast Asia. You will serve as an account manager for your assigned clients and territories, managing the full deal cycle from identifying opportunities and developing proposals to negotiating and closing contracts. In this role, you will build trusted relationships with key client stakeholders, including Chief Financial Officers (CFOs), chief actuaries, heads of product, and underwriting managers.\nYour Key Responsibilities\nPlan and implement Gen Re's market strategy for your assigned territories\nMonitor market trends, competitors, and regulatory developments to identify new business opportunities\nPartner with clients on product development from concept to launch\nPrepare reinsurance quotations and perform product pricing in line with our guidelines\nNegotiate and draft reinsurance contracts\nMonitor the performance of assigned in-force portfolio, including premiums, profitability, and claims experience\nBuild strong client relationships and strengthen Gen Re's market presence\nContribute to regional and international projects\nYour Profile\nQualified or nearly qualified actuary\nAt least 5 years’ experience in life insurance or reinsurance company\nExperience in or knowledge of the Vietnamese life insurance market is an advantage\nProficient in English and Vietnamese, both written and spoken. English is the primary working language, while Vietnamese is required for effective communication and relationship management with external stakeholders.\nWilling and able to travel regularly for business\nExcellent communication and interpersonal skills\nStrong ability to work autonomously and collaboratively\nWe offer a\nhighly professional and inclusive work environment that values excellence, integrity, personal responsibility and the unique talent of each employee\nflat management hierarchy and team-based environment that promote collaboration and free-flowing communication\nmarket competitive remuneration package commensurate with experience and qualifications, with a comprehensive suite of employee benefits\nDoes this sound exciting?\nIf you want to shape your future with us, we look forward to receiving your application via the Apply Now link.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-24",
+      "first_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: Actuary"
+      ],
+      "minimum_years_experience": 5,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-09-24",
+      "reopened_at": null,
+      "salary_max": 16000,
+      "salary_min": 8000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Business Travel Arrangements",
+        "market strategy development",
+        "Reinsurance",
+        "Vietnamese",
+        "Vietnamese Language",
+        "Life Insurance",
+        "Actuaries",
+        "Actuarial qualifications",
+        "Client Development",
+        "Product Pricing",
+        "Health Insurance",
+        "Insurance",
+        "New Business Opportunities"
+      ],
+      "source_job_id": "95735e4c8ce8fe7c2d6d3526ecd4a1a5",
+      "source_job_post_id": "MCF-2026-1692159",
+      "status": "active",
+      "title": "Marketing Actuary (Life/Health)",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/marketing-actuary-general-reinsurance-ag-singapore-branch-95735e4c8ce8fe7c2d6d3526ecd4a1a5",
+      "vacancies": 1
+    },
     "9bbd00abc82d171a26f70be97f25d79a": {
       "categories": [
         "Consulting",
@@ -1199,7 +1353,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1469,7 +1623,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1525,7 +1679,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1572,7 +1726,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1660,6 +1814,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analsyst-jk-recruitment-services-c936750f7b5610392ab61b60e3c86dbe",
       "vacancies": 1
     },
+    "cb5db5a59c5f8987add45004b211c654": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "CHUBB ASIA PACIFIC PTE. LTD.",
+      "company_uen": "197500425H",
+      "description": "Job Summary\nWe are seeking a dynamic and results-driven professional to join our Accident & Health team as a Critical Illness and Dread Disease product specialist. The successful candidate will play a pivotal role in expanding and managing our Critical Illness/Dread Disease portfolio across the Asia Pacific region. They will have responsibility for assessing, evaluating, and underwriting direct marketing insurance products in the critical illness and dread disease category, tailored to diverse markets within the Asia Pacific region. This position is ideal for an individual with proven expertise in pricing, portfolio management, and, ideally, business development within the insurance sector.\nKey Responsibilities\nLead the development and execution of strategies to grow the Critical Illness/Dread Disease portfolio in line with business objectives\nConduct in-depth pricing analysis and develop competitive product offerings tailored to market needs\nPerform portfolio analysis to monitor performance, identify trends, and recommend actions to optimize profitability and growth\nCollaborate with distribution, product development and marketing teams to support product positioning, channel strategies, and market-specific requirements.\nMaintain high standards of quality and consistency in risk evaluation, adhering to local regulations and guidelines\nProvide technical support for claims and product development across multiple markets, ensuring adaptability and responsiveness to changing regulatory or medical trends\nProduct Development and Innovation\nLead the design and development of new CI/Dread Disease products across the region, working closely with regional and country colleagues teams to bring propositions from concept to launch.\nDefine and maintain CI definition frameworks, benefit structures, and covered condition lists appropriate to local market norms and regulatory requirements, ensuring competitiveness across key APAC markets.\nIdentify emerging trends and unmet protection gaps and translate these into actionable product opportunities.\nMonitor competitor product offerings and industry benchmarks to inform product positioning and updates.\nSupport product filing and regulatory approval processes in collaboration with local compliance teams, ensuring new products meet market-specific requirements across jurisdictions.\nPricing and Technical Underwriting:\nProvide technical underwriting expertise to design new CI/Dread Disease products, develop underwriting guidelines, ensuring alignment with company objectives\nDevelop and maintain robust CI pricing models in collaboration with actuaries, calibrated for regional variances, claims trends and emerging risk factors\nConduct technical underwriting assessments for complex or high-value cases, providing guidance on risk selection.\nPortfolio Management:\nWork closely with Portfolio Management Team in the development and management of the Critical Illness portfolio by analyzing portfolio health, identifying trends and recommending solutions.\nMonitor and evaluate portfolio performance against benchmarks and key performance indicators (KPIs).\nOptimization Techniques:\nIdentify segments for growth by optimizing product offering or distribution strategies\nDevelop strategies to enhance policy bind rates and renewal retention\nReporting and Documentation:\nPrepare comprehensive reports and visualizations to present findings, insights, and recommendations to stakeholders.\nDocument models, processes, and methodologies for compliance and future reference.\nCollaboration:\nWork closely with portfolio managers, product development, actuaries, underwriting, financial analysts, and other team members to develop and manage new and existing products and portfolios.\nQualifications\nBachelor’s degree or higher.\nExtensive knowledge of CI product design and distribution strategies with strong focus on portfolio growth\n5+ years of experience in Critical Illness pricing and portfolio management, including familiarity with CI definition structures and rating methodologies.\nStrong commercial awareness with experience managing or contributing to CI portfolio in Asia Pacific\nDemonstrated ability to work independently and collaboratively in a fast-paced environment\nExcellent analytical, risk assessment and decision-making abilities.\nStrong communication skills to convey technical concepts to non-technical stakeholders in cross-functional and cross-market environments.\nDetail-oriented with strong organizational and time management skills.\nPrior experience supporting claims and working with distribution partners is highly valued.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-08",
+      "first_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: CHUBB ASIA PACIFIC PTE. LTD."
+      ],
+      "minimum_years_experience": 7,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-24",
+      "reopened_at": null,
+      "salary_max": 16000,
+      "salary_min": 10000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Multi-cultural Team Building",
+        "Product Innovation",
+        "Regulatory Changes",
+        "Medical Degree",
+        "Product and Pricing Analysis",
+        "Asia Business Development",
+        "Product Design",
+        "Analytical Skills",
+        "Technical Skills",
+        "Local Regulations",
+        "Growth Strategy",
+        "Distribution Partners",
+        "Content Rating and Compliance",
+        "Critical Illness",
+        "Time Management",
+        "Work in A Fast Paced Environment"
+      ],
+      "source_job_id": "cb5db5a59c5f8987add45004b211c654",
+      "source_job_post_id": "MCF-2026-1691693",
+      "status": "active",
+      "title": "Direct Marketing Underwriter, A&H APAC",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/direct-marketing-underwriter-ah-apac-chubb-asia-pacific-cb5db5a59c5f8987add45004b211c654",
+      "vacancies": 1
+    },
     "cb83d69cc5fb3882ad70607b87f49f1e": {
       "categories": [
         "Insurance"
@@ -1714,6 +1920,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/claims-excellence-lead-apac-zurich-insurance-company-cb83d69cc5fb3882ad70607b87f49f1e",
       "vacancies": 1
     },
+    "d3c4c04679f1f7eaa9d3e2530c10c867": {
+      "categories": [
+        "Banking and Finance"
+      ],
+      "company": "HSBC LIFE (SINGAPORE) PTE. LTD.",
+      "company_uen": "199903512M",
+      "description": "We are currently seeking a high calibre professional to join our team as Associate.\nIn this role you will:\nThe role sits within the Par & Universal Life Fund Management and Experience Studies team.\nPrimarily responsible for supporting experience monitoring, setting actuarial assumptions, performing impact and sensitivity testing, and contributing to the annual Par bonus recommendation and implementation.\nSupports the monthly and quarterly production of management information for internal stakeholders.\nContributes to ad hoc actuarial initiatives and projects to enhance existing processes.\nWorks closely with internal and external stakeholders to deliver assigned outputs on time and to the required quality.\nMaintains documentation in line with HSBC standards and guidelines.\nTo be successful you will need:\nRelevant Life Actuarial experience, candidate with less experience / non-actuarial experience will be considered for Associate position.\nGood communication skills, both written and spoken.\nAbility to work independently, interact with other departments\nGood technical, analytical and problem solving skills.\nTeam player with good interpersonal skills and positive attitude.\nExperience in SQL/Python and/or Prophet is a plus.\nYou’ll achieve more at HSBC.\nHSBC is committed to building a culture where all employees are valued, respected and opinions count. We take pride in providing a workplace that fosters continuous professional development, flexible working and opportunities to grow within an inclusive and diverse environment. Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.\nCandidates with less relevant experience or skills may be offered a lower Global Career Band than stated above.\nIssued by HSBC Life (Singapore) Pte. Ltd.\nhttps://www.youtube.com/watch?v=NIa2CodFG6E",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-08",
+      "first_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 0,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-24",
+      "reopened_at": null,
+      "salary_max": 8000,
+      "salary_min": 4000,
+      "salary_period": "Monthly",
+      "skills": [
+        "year-end bonus",
+        "Communication",
+        "Interdepartmental Communication",
+        "Prophet",
+        "Information Management",
+        "Life & pension",
+        "Technical Knowledge",
+        "Actuarial Science",
+        "Liaising With Internal Stakeholders",
+        "Analytical and Problem-Solving Skills",
+        "Oracle Applications",
+        "Actuarial qualifications",
+        "Team Player",
+        "compliance documentation",
+        "Actuarial Services",
+        "Able To Work Independently"
+      ],
+      "source_job_id": "d3c4c04679f1f7eaa9d3e2530c10c867",
+      "source_job_post_id": "MCF-2026-1691869",
+      "status": "active",
+      "title": "ASSOCIATE, ACTUARIAL SERVICES",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/associate-actuarial-services-hsbc-life-d3c4c04679f1f7eaa9d3e2530c10c867",
+      "vacancies": 1
+    },
     "db7fb554b494b147f713cd9fd9ac0edb": {
       "categories": [
         "Insurance"
@@ -1728,7 +1986,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1774,7 +2032,7 @@
       "expired_at": null,
       "expires_at": "2026-10-07",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1811,6 +2069,62 @@
       "status": "active",
       "title": "Assistant Manager, Actuarial",
       "url": "https://www.mycareersfuture.gov.sg/job/others/assistant-manager-actuarial-manulife-dd521dbda30ffbfe968a14c2b4b79ae4",
+      "vacancies": 1
+    },
+    "e6f8758a9ebf7466bb0d38c6b908d71b": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "UIB ASIA REINSURANCE BROKERS PTE. LTD.",
+      "company_uen": "199701581K",
+      "description": "Objective:\nTo be a member of UIB Asia’s analytics team extending services to existing and new clients.\nTo play a role in building UIB Asia as the HUB of Analytics Excellence for UIB Group, based in the Singapore office.\nOverall Role:\nThe role holder will play an integral part in supporting brokers and clients in developing solutions and giving sound advice to clients.\nRole holder is expected to become familiar with our tools and approach, to develop and propose optimal reinsurance solutions to clients and evaluate the impact on profit, capital, volatility and other priorities. Role holder will also implement models that provide pricing advice to brokers based on the various proposed structures.\nThe role requires a clear understanding of the various reinsurance fundamentals and structures to manage risk and their implementation within the modelling framework.\nThe ideal candidate is also one who seeks progression to a more client-facing role.\nKey Accountabilities/Core Competence Indicators:\n1. Key Responsibilities\n· Lead technical conversations with brokers and clients, and assist promptly to queries\n· Perform technical costing of the reinsurance solutions using experience and exposure pricing techniques, and to working with brokers to determine the feasibility of proposed structures and target pricings\n· Perform Dynamic Financial Analysis (DFA) as a part of the reinsurance optimisation exercise\n· Present Actuarial and CAT modelling result findings to clients and propose solutions to meet their needs and constraints\n· Work with CAT Modelling Analysts in testing and determining the validity of CAT Modelling results\n· Conduct technical and skills development of team members and clients\n· Lead internal research, market benchmarking and other value-proposition initiatives.\nRequired Knowledge and Skills:\n· Between 3 to 6 years of experience in Non-Life Insurance / Reinsurance Actuarial space\n· Experience in Reinsurance Treaty and/or CAT Modelling\n· Ability to work independently and resourcefully, with a client-centred focus\n· Strong ability to manage multiple assignments and meet deadlines in a timely manner\n· Team player with excellent presentation and communication skills\n· Proficient in MS Office Suite (Word, Excel and PowerPoint)\n· Prior working experience in DFA software (e.g. ReMetrica, MetaRisk, URS Risk Explorer), CAT Modelling tools, VBA and SQL is a plus\n· Degree in Actuarial Studies or related fields such as mathematics, finance or statistical studies\n· Good progress in actuarial exam qualifications with a recognised Actuarial institute\n· Multilingual in English and at least one other Asian language.\nSend your updated CV and cover letter to humanresources@uibasia.com with the subject line “Application – Analytics Team” and specify the role you are applying for.\nWe regret to inform that only shortlisted candidates will be contacted, and we will not respond to unsolicited approaches from recruiters whom we do not currently liaise with.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-24",
+      "first_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-09-24",
+      "reopened_at": null,
+      "salary_max": 7500,
+      "salary_min": 4600,
+      "salary_period": "Monthly",
+      "skills": [
+        "analyst role",
+        "Teamwork",
+        "Microsoft Excel",
+        "Analytical Thinking",
+        "Valuation",
+        "Reinsurance",
+        "Mathematics",
+        "Asian Markets",
+        "VBA",
+        "Identify Clients Needs",
+        "Multilingual",
+        "SQL",
+        "Actuarial Science",
+        "Financial Analysis",
+        "Statistics",
+        "Capital",
+        "Team Player",
+        "Benchmarking",
+        "Market Benchmarks",
+        "Able To Work Independently"
+      ],
+      "source_job_id": "e6f8758a9ebf7466bb0d38c6b908d71b",
+      "source_job_post_id": "MCF-2026-1692065",
+      "status": "active",
+      "title": "Analyst / Senior Analyst (Actuarial)",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/analyst-senior-analyst-uib-asia-reinsurance-brokers-e6f8758a9ebf7466bb0d38c6b908d71b",
       "vacancies": 1
     },
     "e85cf15a8956777453726849b5372357": {
@@ -1880,7 +2194,7 @@
       "expired_at": null,
       "expires_at": "2026-10-09",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1926,7 +2240,7 @@
       "expired_at": null,
       "expires_at": "2026-10-06",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -2083,7 +2397,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -2136,7 +2450,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-24T15:30:40+08:00",
+      "last_seen_at": "2026-09-26T15:26:12+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2548,6 +2862,17 @@
       "fetched": 55,
       "matching": 19,
       "new": 4,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 23,
+      "checked_at": "2026-09-26T15:26:12+08:00",
+      "data_changed": true,
+      "expired": 2,
+      "fetched": 65,
+      "matching": 24,
+      "new": 6,
       "reopened": 0,
       "status": "success"
     }
