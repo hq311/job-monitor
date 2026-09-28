@@ -1,6 +1,58 @@
 {
-  "data_changed_at": "2026-09-26T15:26:12+08:00",
+  "data_changed_at": "2026-09-28T16:33:08+08:00",
   "jobs": {
+    "00f759a2f953e575f257bdf3b069dfbb": {
+      "categories": [
+        "Banking and Finance"
+      ],
+      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
+      "company_uen": "199804751N",
+      "description": "Gain exposure to actuarial experience studies and fund management\nWork with regional stakeholders on business-critical projects\nAbout Our Client\nOur client is a well-established player in the insurance industry with a strong presence across multiple markets. The organization is recognized for its commitment to innovation, robust risk management practices, and collaborative working environment. Employees have the opportunity to work alongside experienced actuarial professionals and contribute to projects that support business growth and strategic decision-making.\nJob Description\nAs an Actuarial Analyst, you will support a range of actuarial activities across experience studies, fund management, and business initiatives. Key responsibilities include:\nAssist in experience monitoring and analysis to support actuarial decision-making.\nSupport assumption setting exercises and sensitivity testing activities.\nContribute to the management and reporting of actuarial and business insights.\nPrepare monthly and quarterly management information for key stakeholders.\nParticipate in product onboarding and implementation initiatives.\nProvide actuarial support for ad hoc projects and business requirements.\nCollaborate with regional teams, consultants, and internal stakeholders to ensure compliance with regulatory and governance requirements.\nThe Successful Applicant\nYou will ideally possess:\nMin 2 years of actuarial experience, preferably within life insurance or financial services.\nBachelor's degree in Actuarial Science, Mathematics, Statistics, Quantitative Finance, Economics, Data Science, Engineering, or a related quantitative discipline.\nStrong analytical and problem-solving capabilities.\nEffective written and verbal communication skills.\nAbility to work independently while also collaborating within cross-functional teams.\nStrong interpersonal skills and a positive, proactive attitude.\nExposure to actuarial modelling or data analytics tools such as Prophet, SQL, or Python would be advantageous.\nProgress toward actuarial professional qualifications is preferred but not essential.\nWhat's on Offer\nThis opportunity offers valuable exposure to actuarial experience studies, fund management activities, and strategic business projects within a leading insurance environment. Successful candidates can expect a collaborative culture, opportunities to learn from experienced actuarial professionals, and exposure to regional stakeholders and business initiatives that will support long-term career development.\nContact\nCarine Cui (Lic No: R23117732 / EA no: 18S9099)\nQuote job ref\nJN-092026-7110921\nPhone number\n+65 6416 9806\nMichael Page International Pte Ltd | Registration No. 199804751N",
+      "employment_types": [
+        "Contract"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-28",
+      "first_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "location": "Islandwide",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-28",
+      "reopened_at": null,
+      "salary_max": 8000,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Analytical Capability",
+        "Business Insights",
+        "Interpersonal Skills",
+        "Science and Math",
+        "Actuarial Support",
+        "Cross-functional Coordination",
+        "Economics",
+        "onboarding programmes",
+        "Actuarial Consulting",
+        "Python",
+        "Actuarial qualifications",
+        "Test and Support",
+        "Data Science",
+        "Provide management information",
+        "Good Written Communication Skills",
+        "collaborate with external team"
+      ],
+      "source_job_id": "00f759a2f953e575f257bdf3b069dfbb",
+      "source_job_post_id": "MCF-2026-1711118",
+      "status": "active",
+      "title": "Actuarial Analyst (Life Insurance)",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-analyst-michael-page-international-00f759a2f953e575f257bdf3b069dfbb",
+      "vacancies": 1
+    },
     "03b612b436df75ee49b2f4bbebcb4736": {
       "categories": [
         "Insurance"
@@ -68,7 +120,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -173,7 +225,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -276,7 +328,7 @@
       "expired_at": null,
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -379,7 +431,7 @@
       "expired_at": null,
       "expires_at": "2026-10-05",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -436,7 +488,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -549,7 +601,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -931,7 +983,7 @@
       "expired_at": null,
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1095,7 +1147,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-09-28T16:33:08+08:00",
       "expires_at": "2026-09-27",
       "first_seen_at": "2026-08-29T16:53:50+08:00",
       "last_seen_at": "2026-09-26T15:26:12+08:00",
@@ -1126,7 +1178,7 @@
       ],
       "source_job_id": "7c7664a6171ccd1243edc8bed9c08d24",
       "source_job_post_id": "MCF-2026-1509921",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial, Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/accounting/actuarial-analyst-aia-singapore-7c7664a6171ccd1243edc8bed9c08d24",
       "vacancies": 1
@@ -1252,7 +1304,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1301,7 +1353,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1353,7 +1405,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1623,7 +1675,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1679,7 +1731,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1726,7 +1778,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1827,7 +1879,7 @@
       "expired_at": null,
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1933,7 +1985,7 @@
       "expired_at": null,
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1986,7 +2038,7 @@
       "expired_at": null,
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2032,7 +2084,7 @@
       "expired_at": null,
       "expires_at": "2026-10-07",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2084,7 +2136,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2194,7 +2246,7 @@
       "expired_at": null,
       "expires_at": "2026-10-09",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2240,7 +2292,7 @@
       "expired_at": null,
       "expires_at": "2026-10-06",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -2397,7 +2449,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -2450,7 +2502,7 @@
       "expired_at": null,
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-26T15:26:12+08:00",
+      "last_seen_at": "2026-09-28T16:33:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2873,6 +2925,17 @@
       "fetched": 65,
       "matching": 24,
       "new": 6,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 23,
+      "checked_at": "2026-09-28T16:33:08+08:00",
+      "data_changed": true,
+      "expired": 1,
+      "fetched": 58,
+      "matching": 23,
+      "new": 1,
       "reopened": 0,
       "status": "success"
     }
