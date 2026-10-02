@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-09-28T16:33:08+08:00",
+  "data_changed_at": "2026-10-02T16:17:47+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -120,7 +120,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -225,7 +225,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -241,7 +241,6 @@
       "salary_period": "Monthly",
       "skills": [
         "Valuation",
-        "Regulatory Filings",
         "Critical Thinking",
         "Pricing Strategy",
         "VBA",
@@ -259,6 +258,58 @@
       "status": "active",
       "title": "Actuarial Executive (Life Pricing)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-executive-income-insurance-0b57943947d4c56f1f705685a1bd6a75",
+      "vacancies": 1
+    },
+    "10e3cd4cb4629e082572a715cc9e2443": {
+      "categories": [
+        "Banking and Finance"
+      ],
+      "company": "HSBC LIFE (SINGAPORE) PTE. LTD.",
+      "company_uen": "199903512M",
+      "description": "Some careers have more impact than others.\nIf you’re looking for a career where you can make a real impression, join HSBC and discover how valued you’ll be. Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further.\nHSBC Life is a world-class institution where you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank. Here you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank.\nInsurance is about people, and the promises they make. At HSBC Life in Singapore we help deliver on these promises by providing a wide variety of life insurance products and services to our clients throughout the Asia-Pacific region. Our employees enjoy a dynamic and innovative workplace and a world of opportunities to develop their careers in a high-profile growing business segment. We empower our combined team of high-performing individuals to build skills and explore new experiences to realise the full potential of being part of HSBC.\nTogether we will pursue efficient ways of working. We will harness the latest data and technology solutions to achieve meaningful outcomes for our clients. And the protection we offer will create broad and lasting impact, helping clients to be healthier, more productive and more confident in their futures.\nWe are currently seeking a high calibre professional to join our team as a Actuarial Assistant.\nIn this role you will:\nCarry out the end-to-end actuarial reporting process, including data preparation, assumption setting, model configuration, model execution, results review, analysis and submission.\nProduce monthly, quarterly and annual reporting for insurance entities under IFRS 17.\nPrepare management information under other reporting bases, such as embedded value.\nEnsure that financial reporting activities comply with internal controls and internal and external audit requirements.\nMaintain robust control structures, governance arrangements and documentation standards.\nSupport analytical reviews for new business management, sensitivities, analysis of change, business projections and the impact of assumption changes.\nSupport assessments relating to VFA eligibility and onerous contracts under IFRS 17.\nTo be successful you will need:\nA university degree in a quantitative subject, together with progress towards or completion of professional actuarial qualifications.\nGood spoken and written English.\nStrong communication skills.\nGood interpersonal and relationship-building skills.\nA structured and detail-oriented approach to analytical and reporting work.\nThe ability to work collaboratively with colleagues and stakeholders across the business.\nYou’ll achieve more when you join HSBC.\nHSBC is committed to building a culture where all employees are valued, respected and opinions count. We take pride in providing a workplace that fosters continuous professional development, flexible working and opportunities to grow within an inclusive and diverse environment. Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.\nIssued by HSBC Life (Singapore) Pte. Ltd.\nhttps://www.youtube.com/watch?v=NIa2CodFG6E",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-15",
+      "first_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-10-01",
+      "reopened_at": null,
+      "salary_max": 7300,
+      "salary_min": 4900,
+      "salary_period": "Monthly",
+      "skills": [
+        "High Net Worth Individuals",
+        "International Organizations",
+        "change analysis",
+        "Written English",
+        "Career Development",
+        "Embedded Value",
+        "Audit and Review Management",
+        "Career Exploration",
+        "Day to Day Support",
+        "Life Insurance",
+        "Management Reporting",
+        "Documentation and Administration",
+        "Actuarial qualifications",
+        "Passion for Success",
+        "Audit Requirements",
+        "Insurance"
+      ],
+      "source_job_id": "10e3cd4cb4629e082572a715cc9e2443",
+      "source_job_post_id": "MCF-2026-1730997",
+      "status": "active",
+      "title": "Actuarial Assistant",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-assistant-hsbc-life-10e3cd4cb4629e082572a715cc9e2443",
       "vacancies": 1
     },
     "18fb1ad0e2c626070d2ce40e3930c7f0": {
@@ -328,7 +379,7 @@
       "expired_at": null,
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -418,6 +469,59 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/marketing-actuary-general-reinsurance-ag-singapore-branch-2fae869c03a274466d863ff02791ffc3",
       "vacancies": 1
     },
+    "33ab4dde10a233f76fa0e41bcf90f7a1": {
+      "categories": [
+        "Banking and Finance"
+      ],
+      "company": "HSBC LIFE (SINGAPORE) PTE. LTD.",
+      "company_uen": "199903512M",
+      "description": "Some careers have more impact than others.\nIf you’re looking for a career where you can make a real impression, join HSBC and discover how valued you’ll be. Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further.\nHSBC Life is a world-class institution where you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank. Here you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank.\nInsurance is about people, and the promises they make. At HSBC Life in Singapore we help deliver on these promises by providing a wide variety of life insurance products and services to our clients throughout the Asia-Pacific region. Our employees enjoy a dynamic and innovative workplace and a world of opportunities to develop their careers in a high-profile growing business segment. We empower our combined team of high-performing individuals to build skills and explore new experiences to realise the full potential of being part of HSBC.\nTogether we will pursue efficient ways of working. We will harness the latest data and technology solutions to achieve meaningful outcomes for our clients. And the protection we offer will create broad and lasting impact, helping clients to be healthier, more productive and more confident in their futures.\nWe are currently seeking a high calibre professional to join our team as a Vice President, Modeling (Actuarial).\nIn this role you will:\nOversee actuarial model development and ensure compliance with applicable model risk policies and controls.\nProvide modelling support and subject-matter expertise to actuarial teams.\nReview and challenge model methodologies, assumptions, outputs and associated risks.\nDrive efficiency improvements across actuarial models, tools and processes.\nSupport effective model governance, documentation, monitoring and issue remediation.\nCoach and guide junior colleagues, supporting their technical development and knowledge sharing.\nTo be successful you will need:\nQualified actuary with membership of a recognised actuarial examination body.\nStrong relevant actuarial experience, preferably including hands-on experience in actuarial modelling and stochastic valuation.\nStrong technical, analytical and problem-solving skills, with the ability to apply sound actuarial judgement.\nProven ability to manage projects, meet deadlines and prioritise competing demands effectively.\nStrong written and verbal communication skills, with the ability to explain complex actuarial concepts clearly to a range of stakeholders.\nYou’ll achieve more when you join HSBC.\nHSBC is committed to building a culture where all employees are valued, respected and opinions count. We take pride in providing a workplace that fosters continuous professional development, flexible working and opportunities to grow within an inclusive and diverse environment. Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.\nIssued by HSBC Life (Singapore) Pte. Ltd.\nhttps://www.youtube.com/watch?v=NIa2CodFG6E",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-14",
+      "first_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 10,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-30",
+      "reopened_at": null,
+      "salary_max": 16000,
+      "salary_min": 11000,
+      "salary_period": "Monthly",
+      "skills": [
+        "High Net Worth Individuals",
+        "Issue Tracking",
+        "Actuarial Support",
+        "Documentation",
+        "Coaching Colleagues",
+        "Career Development",
+        "Drive Efficiency",
+        "Career Exploration",
+        "Day to Day Support",
+        "Experience With Insurance Sector",
+        "Project Management",
+        "Life Insurance",
+        "Actuarial qualifications",
+        "Valuation Modeling",
+        "Passion for Success",
+        "Challenge Driven",
+        "Insurance"
+      ],
+      "source_job_id": "33ab4dde10a233f76fa0e41bcf90f7a1",
+      "source_job_post_id": "MCF-2026-1727375",
+      "status": "active",
+      "title": "Vice President, Modeling (Actuarial) - HSBC Life",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/vice-president-modeling-hsbc-life-hsbc-life-33ab4dde10a233f76fa0e41bcf90f7a1",
+      "vacancies": 1
+    },
     "3c79e9aeca01c71ebadb4b2a9cdc8868": {
       "categories": [
         "Banking and Finance"
@@ -431,7 +535,7 @@
       "expired_at": null,
       "expires_at": "2026-10-05",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -488,7 +592,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -601,7 +705,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -983,7 +1087,7 @@
       "expired_at": null,
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1289,6 +1393,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-regional-fpa-analyst-chubb-asia-pacific-8c7be77271e273622fa50fba318bc53d",
       "vacancies": 1
     },
+    "8c7d83be244ffb133cd5c27b32ccd18b": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "Job Purpose\nWe are seeking a motivated and innovative Associate AI Engineer to join us. In this role, you will support the design, development, and deployment of AI and machine learning solutions that enhance customer experiences, improve business processes, and drive operational efficiency.\nWorking alongside experienced Data Scientists, AI Engineers, and business stakeholders, you will gain hands-on experience with machine learning models, generative AI applications, AI agents, and cloud-based AI platforms.\nKey Responsibilities\nAssist in developing and deploying AI and machine learning solutions to address business challenges and enhance operational performance.\nWork with business and technical teams to understand requirements, gather data, and support the delivery of AI-driven use cases.\nBuild, test, and maintain machine learning models using structured and unstructured data.\nSupport the development of Generative AI applications, including chatbots, copilots, AI agents, document intelligence, and knowledge retrieval solutions.\nParticipate in the deployment and monitoring of AI solutions in cloud platforms such as Azure or AWS.\nAssist in data preparation, feature engineering, model evaluation, and performance optimization activities.\nDevelop and maintain APIs and integrations to operationalize AI models and services.\nSupport AI model observability, monitoring, and reporting to ensure reliability and performance in production.\nCollaborate with Data Engineers and Platform Engineers to improve AI and data infrastructure capabilities.\nStay current with emerging AI technologies, machine learning techniques, and industry best practices.\nEducation\nBachelor's degree in Computer Science, Data Science, Artificial Intelligence, Engineering, Mathematics, Statistics, or a related discipline.\nTechnical Skills\n1 to 3 years of experience in AI, machine learning, software engineering, data science, or related technical fields.\nBasic understanding of machine learning concepts and algorithms.\nKnowledge of Python and common data science libraries such as Pandas, NumPy, Scikit-learn, and PyTorch or TensorFlow.\nFamiliarity with Generative AI and Large Language Models (LLMs).\nUnderstanding of prompt engineering, Retrieval-Augmented Generation (RAG), or AI Agents is advantageous.\nExposure to Natural Language Processing (NLP), OCR, computer vision, or document intelligence solutions is a plus.\nBasic understanding of cloud platforms such as Microsoft Azure or AWS.\nFamiliarity with API development frameworks such as FastAPI or Flask is desirable.\nKnowledge of Git, CI/CD practices, and MLOps concepts is beneficial.\nSoft Skills\nStrong analytical and problem-solving skills.\nCuriosity and passion for learning new technologies.\nGood communication and collaboration skills.\nAbility to work effectively in a team environment.\nWillingness to learn from senior engineers and contribute to innovative AI initiatives.\nPreferred Experience\nAcademic, internship, or project experience involving machine learning, AI, software development, or data analytics.\nExposure to Generative AI technologies such as Azure OpenAI, OpenAI, Anthropic Claude, or similar platforms.\nExperience in insurance, financial services, or regulated industries would be advantageous but not required.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-31",
+      "first_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 1,
+      "position_levels": [
+        "Fresh/entry level"
+      ],
+      "posted_at": "2026-10-01",
+      "reopened_at": null,
+      "salary_max": 6000,
+      "salary_min": 4500,
+      "salary_period": "Monthly",
+      "skills": [
+        "Chatbot",
+        "Azure AI",
+        "API Development",
+        "Microsoft Azure",
+        "Generative AI Application Development and Deployment",
+        "AI Agents",
+        "AWS",
+        "Model Evaluation",
+        "Technical Requirements Gathering",
+        "Generative AI Application Development and Deployment in Financial Services",
+        "Monitoring",
+        "Production Support",
+        "Feature Engineering",
+        "Structured data analysis",
+        "Data Preparation",
+        "Testing"
+      ],
+      "source_job_id": "8c7d83be244ffb133cd5c27b32ccd18b",
+      "source_job_post_id": "MCF-2026-1731463",
+      "status": "active",
+      "title": "Associate AI Engineer",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/associate-ai-engineer-zurich-insurance-company-8c7d83be244ffb133cd5c27b32ccd18b",
+      "vacancies": 1
+    },
     "9258070e171f6719e83d75f58871dc4b": {
       "categories": [
         "Consulting",
@@ -1304,7 +1460,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1353,7 +1509,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1405,7 +1561,7 @@
       "expired_at": null,
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1675,7 +1831,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1728,10 +1884,10 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-02T16:17:47+08:00",
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1759,10 +1915,57 @@
       ],
       "source_job_id": "b3a04170236f488bb32203aef011ed99",
       "source_job_post_id": "MCF-2026-1534967",
-      "status": "active",
+      "status": "expired",
       "title": "FS Consulting, Life Actuarial, Senior Associate to Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/fs-consulting-life-actuarial-senior-associate-manager-kpmg-services-b3a04170236f488bb32203aef011ed99",
       "vacancies": 4
+    },
+    "be46768561452441c342af994444e8db": {
+      "categories": [
+        "Banking and Finance"
+      ],
+      "company": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
+      "company_uen": "199002477Z",
+      "description": "Job Profile Summary:\nIn Actuarial Pricing, the main responsibility is to price insurance products in accordance with internal financial benchmarks as well as regulatory requirements. The staff will be responsible in supporting the product delivery process, providing the actuarial requirements for product launches timely and accurately. The staff will also support all queries pertaining to product features and designs, as well as support any ad-hoc projects that may arise.\nJob Description:\nUnderstand and carry out the product pricing and delivery process.\nApply actuarial technical knowledge in making actual business decisions.\nLearn principles of product pricing framework, regulatory requirements, and gain a sense of business acumen.\nSupport all queries pertaining to product features and designs.\nSupport any ad-hoc projects that may arise.\nCompetencies & Personal Traits\nGood technical, analytical, and problem-solving skills, with the ability to work independently.\nSelf-motivated, outcome-oriented, and ability to deliver quality work under tight timelines.\nAbility to communicate and collaborate with colleagues across different functions.\nSome experience in any other type of Actuarial role is an advantage\nSome experience with Prophet model, and Excel VBA is an advantage.\nProfessional Qualifications\nGood progress in actuarial examinations from a recognized professional actuarial body.\nEducation\nDegree in Actuarial Science or related disciplines (Mathematics, Statistics, Finance, Economics, etc.)",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-14",
+      "first_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "location": "West",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 1,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-09-30",
+      "reopened_at": null,
+      "salary_max": 8000,
+      "salary_min": 4000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Microsoft Excel",
+        "Risk Assessment",
+        "Analytical Skills",
+        "Valuation",
+        "Reinsurance",
+        "Interpersonal Skills",
+        "Actuarial Science",
+        "Modelling",
+        "Actuaries",
+        "Product Development",
+        "Market Pricing"
+      ],
+      "source_job_id": "be46768561452441c342af994444e8db",
+      "source_job_post_id": "MCF-2026-1723624",
+      "status": "active",
+      "title": "Actuarial Pricing",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-pricing-prudential-assurance-company-singapore-be46768561452441c342af994444e8db",
+      "vacancies": 1
     },
     "c4c3a49fa2fb46b5c3fe881d851303b7": {
       "categories": [
@@ -1775,7 +1978,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-02T16:17:47+08:00",
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
       "last_seen_at": "2026-09-28T16:33:08+08:00",
@@ -1807,9 +2010,61 @@
       ],
       "source_job_id": "c4c3a49fa2fb46b5c3fe881d851303b7",
       "source_job_post_id": "MCF-2026-1641260",
-      "status": "active",
+      "status": "expired",
       "title": "Renewable Energy Risk Engineer",
       "url": "https://www.mycareersfuture.gov.sg/job/engineering/renewable-energy-risk-engineer-chubb-asia-pacific-c4c3a49fa2fb46b5c3fe881d851303b7",
+      "vacancies": 1
+    },
+    "c71834d46b869fa0497ce7b700b1614a": {
+      "categories": [
+        "Banking and Finance"
+      ],
+      "company": "HSBC LIFE (SINGAPORE) PTE. LTD.",
+      "company_uen": "199903512M",
+      "description": "Some careers have more impact than others.\nIf you’re looking for a career where you can make a real impression, join HSBC and discover how valued you’ll be. Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further.\nHSBC Life is a world-class institution where you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank. Here you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank.\nInsurance is about people, and the promises they make. At HSBC Life in Singapore we help deliver on these promises by providing a wide variety of life insurance products and services to our clients throughout the Asia-Pacific region. Our employees enjoy a dynamic and innovative workplace and a world of opportunities to develop their careers in a high-profile growing business segment. We empower our combined team of high-performing individuals to build skills and explore new experiences to realise the full potential of being part of HSBC.\nTogether we will pursue efficient ways of working. We will harness the latest data and technology solutions to achieve meaningful outcomes for our clients. And the protection we offer will create broad and lasting impact, helping clients to be healthier, more productive and more confident in their futures.\nWe are currently seeking a high calibre professional to join our team as a Actuarial Assistant\nIn this role you will:\nCarry out the end-to-end actuarial reporting process, including data preparation, assumption setting, model configuration, model execution, results review, analysis and submission.\nProduce monthly, quarterly and annual reporting for insurance entities under IFRS 17.\nPrepare management information under other reporting bases, such as embedded value.\nEnsure that financial reporting activities comply with internal controls and internal and external audit requirements.\nMaintain robust control structures, governance arrangements and documentation standards.\nSupport analytical reviews for new business management, sensitivities, analysis of change, business projections and the impact of assumption changes.\nSupport assessments relating to VFA eligibility and onerous contracts under IFRS 17.\nTo be successful you will need:\nA university degree in a quantitative subject, together with progress towards or completion of professional actuarial qualifications.\nGood spoken and written English.\nStrong communication skills.\nGood interpersonal and relationship-building skills.\nA structured and detail-oriented approach to analytical and reporting work.\nThe ability to work collaboratively with colleagues and stakeholders across the business.\nYou’ll achieve more when you join HSBC.\nHSBC is committed to building a culture where all employees are valued, respected and opinions count. We take pride in providing a workplace that fosters continuous professional development, flexible working and opportunities to grow within an inclusive and diverse environment. Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.\nIssued by HSBC Life (Singapore) Pte. Ltd.\nhttps://www.youtube.com/watch?v=NIa2CodFG6E",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-15",
+      "first_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-10-01",
+      "reopened_at": null,
+      "salary_max": 7300,
+      "salary_min": 4900,
+      "salary_period": "Monthly",
+      "skills": [
+        "High Net Worth Individuals",
+        "International Organizations",
+        "change analysis",
+        "Written English",
+        "Career Development",
+        "Embedded Value",
+        "Audit and Review Management",
+        "Career Exploration",
+        "Day to Day Support",
+        "Life Insurance",
+        "Management Reporting",
+        "Documentation and Administration",
+        "Actuarial qualifications",
+        "Passion for Success",
+        "Audit Requirements",
+        "Insurance"
+      ],
+      "source_job_id": "c71834d46b869fa0497ce7b700b1614a",
+      "source_job_post_id": "MCF-2026-1730947",
+      "status": "active",
+      "title": "Actuarial Assistant",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-assistant-hsbc-life-c71834d46b869fa0497ce7b700b1614a",
       "vacancies": 1
     },
     "c936750f7b5610392ab61b60e3c86dbe": {
@@ -1879,7 +2134,7 @@
       "expired_at": null,
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1985,7 +2240,7 @@
       "expired_at": null,
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2024,6 +2279,107 @@
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/associate-actuarial-services-hsbc-life-d3c4c04679f1f7eaa9d3e2530c10c867",
       "vacancies": 1
     },
+    "d5c5e9496fae90ed4fd3323e6c39ba38": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "SNAPFIND TALENT SOLUTIONS PTE. LTD.",
+      "company_uen": "202552348M",
+      "description": "Our Client, a Financial Advisory Company is seeking a sharp and versatile Senior Actuarial Analyst to join their growing actuarial function. The ideal candidate has strong actuarial foundations in life, health, and/or investment-linked products, combined with the practical toolkit of a senior BA, from API testing and data scripting.\nRESPONSIBILITIES\nActuarial Analysis & Modelling\n• Support the Head of Actuarial in the analysis, development, and maintenance of actuarial models for life, health, and investment-linked insurance products across APAC markets.\n• Conduct experience studies and assumption reviews including mortality, morbidity, persistency, and expense analyses and summarise findings for internal and client stakeholders.\n• Assist in product pricing exercises building and validating rate tables, benefit illustrations, and premium calculations for new and existing product lines.\n• Prepare and review actuarial reserve calculations and liability valuations in support of IFRS 17, RBC, and other applicable regulatory frameworks.\n• Build, test, and document actuarial models in Python or R, progressively moving away from spreadsheet-heavy approaches toward scalable, code-based workflows.\n• Support the preparation of actuarial opinions, certification letters, and regulatory submissions in coordination with the Head of Actuarial.\nBusiness Analysis &Requirements\n• Collaborate with cross-functional teams, product, engineering, client delivery, and finance to gather, analyze, and document actuarial and business requirements for platform features and client solutions.\n• Translate actuarial and business needs into clear functional specifications, user stories, and acceptance\n• Conduct gap analyses between current actuarial workflows and desired future states\nData Analysis & Reporting\n• Build and maintain advanced data models and financial analysis tools using Python, R, and Excel including dashboards, pivot analyses, and scenario modelling for internal and client use.\n• Monitor and analyze key actuarial and product performance metrics including claims experience, lapse rates, profitability indicators, and pricing\n• Design and execute data validation and test cases using Postman and scripting tools\nClient & Stakeholder Support\n• Support the Head of Actuarial in client-facing engagements including workshops, product review sessions, and data analysis requests from insurance carrier and financial advisory clients.\n• Assist clients in understanding actuarial outputs, model assumptions, and pricing rationale translating technical results into business-friendly language.\nProcess Improvement &Innovation\n• Identify opportunities to automate, streamline, or improve actuarial workflows from data ingestion and model execution to reporting and client delivery.\n• Support the integration of AI and machine learning tools into actuarial processes including validation of ML-based pricing or claims models, and exploration of GenAI tools for actuarial report generation.\nREQUIREMENTS\n· Minimum 5 to 8 years of relevant experience in actuarial, actuarial consulting, or closely related analytical role with clear exposure to life, health, or investment-linked insurance products.\n· Bachelor's degree or above in Actuarial Science, Mathematics, Statistics, Quantitative Finance, or related field.\n· Pursuing or holding an actuarial designation (ASA, FSA,AIA, FIA, or equivalent) from a recognized professional body\n· Solid working knowledge of actuarial pricing, reserving, and product analysis across life, health, and/or investment-linked product lines in one or more APAC markets.\n· Familiarity with IFRS 17 concepts\n· Strong proficiency in Python or R for actuarial data analysis, model building, and automation\n· Advanced Excel skills include complex formulas, pivot tables, scenario analysis, and dashboard design\n· Experience with API testing and validation tools, particularly Postman, to support integration testing\n· Demonstrated business analysis capabilities including requirements gathering, user story writing, gap analysis, and agile delivery support using JIRA or equivalent tools.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-30",
+      "first_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "location": "Islandwide",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 5,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-30",
+      "reopened_at": null,
+      "salary_max": 6000,
+      "salary_min": 4000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Business Analysis Planning",
+        "Microsoft Excel",
+        "Data Analysis",
+        "financial planning tools",
+        "Actuarial Support",
+        "Insurance Products",
+        "Python",
+        "Life Insurance",
+        "Actuaries",
+        "Statistics",
+        "Customer Focus",
+        "Reporting & Analysis",
+        "Regulatory Frameworks"
+      ],
+      "source_job_id": "d5c5e9496fae90ed4fd3323e6c39ba38",
+      "source_job_post_id": "MCF-2026-1727836",
+      "status": "active",
+      "title": "Senior Actuarial Analyst",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-actuarial-analyst-snapfind-talent-solutions-d5c5e9496fae90ed4fd3323e6c39ba38",
+      "vacancies": 1
+    },
+    "d9678e2ab61923d9a5bc02fe6c74419b": {
+      "categories": [
+        "Banking and Finance"
+      ],
+      "company": "HSBC LIFE (SINGAPORE) PTE. LTD.",
+      "company_uen": "199903512M",
+      "description": "Some careers have more impact than others.\nIf you’re looking for a career where you can make a real impression, join HSBC and discover how valued you’ll be. Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further.\nHSBC Life is a world-class institution where you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank. Here you can specialize in Insurance but enjoy the advantages that come with being part of a leading global international bank.\nInsurance is about people, and the promises they make. At HSBC Life in Singapore we help deliver on these promises by providing a wide variety of life insurance products and services to our clients throughout the Asia-Pacific region. Our employees enjoy a dynamic and innovative workplace and a world of opportunities to develop their careers in a high-profile growing business segment. We empower our combined team of high-performing individuals to build skills and explore new experiences to realise the full potential of being part of HSBC.\nTogether we will pursue efficient ways of working. We will harness the latest data and technology solutions to achieve meaningful outcomes for our clients. And the protection we offer will create broad and lasting impact, helping clients to be healthier, more productive and more confident in their futures.\nWe are currently seeking a high calibre professional to join our team as a Manager, Modeling (Actuarial)\nIn this role you will:\nPerform actuarial model development and ensure compliance with applicable model risk policies and controls.\nProvide modelling support and subject-matter expertise to actuarial teams.\nReview and challenge model methodologies, assumptions, outputs and associated risks.\nDrive efficiency improvements across actuarial models, tools and processes.\nSupport effective model governance, documentation, monitoring and issue remediation.\nTo be successful you will need:\nQualified / close-to-qualify actuary with membership of a recognised actuarial examination body.\nStrong relevant actuarial experience, preferably including hands-on experience in actuarial modelling and stochastic valuation.\nKnowledge in Prophet software is highly preferred.\nStrong technical, analytical and problem-solving skills, with the ability to apply sound actuarial judgement.\nStrong written and verbal communication skills, with the ability to explain complex actuarial concepts clearly to a range of stakeholders.\nYou’ll achieve more when you join HSBC.\nHSBC is committed to building a culture where all employees are valued, respected and opinions count. We take pride in providing a workplace that fosters continuous professional development, flexible working and opportunities to grow within an inclusive and diverse environment. Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.\nIssued by HSBC Life (Singapore) Pte. Ltd.\nhttps://www.youtube.com/watch?v=NIa2CodFG6E",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-14",
+      "first_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 5,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-09-30",
+      "reopened_at": null,
+      "salary_max": 13000,
+      "salary_min": 6500,
+      "salary_period": "Monthly",
+      "skills": [
+        "High Net Worth Individuals",
+        "Workplace Design",
+        "technically qualified",
+        "governance framework",
+        "Actuarial Support",
+        "Documentation",
+        "Career Development",
+        "Drive Efficiency",
+        "Day to Day Support",
+        "Experience With Insurance Sector",
+        "Life Insurance",
+        "Actuarial qualifications",
+        "Valuation Modeling",
+        "Passion for Success",
+        "Challenge Driven",
+        "Insurance"
+      ],
+      "source_job_id": "d9678e2ab61923d9a5bc02fe6c74419b",
+      "source_job_post_id": "MCF-2026-1726655",
+      "status": "active",
+      "title": "Manager, Modeling (Actuarial) - HSBC Life",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/manager-modeling-hsbc-life-hsbc-life-d9678e2ab61923d9a5bc02fe6c74419b",
+      "vacancies": 1
+    },
     "db7fb554b494b147f713cd9fd9ac0edb": {
       "categories": [
         "Insurance"
@@ -2035,7 +2391,7 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-02T16:17:47+08:00",
       "expires_at": "2026-10-01",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
       "last_seen_at": "2026-09-28T16:33:08+08:00",
@@ -2066,7 +2422,7 @@
       ],
       "source_job_id": "db7fb554b494b147f713cd9fd9ac0edb",
       "source_job_post_id": "MCF-2026-1526789",
-      "status": "active",
+      "status": "expired",
       "title": "Portfolio Management, Analyst/Specialist (Actuarial)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/portfolio-management-analystspecialist-aia-singapore-db7fb554b494b147f713cd9fd9ac0edb",
       "vacancies": 1
@@ -2084,7 +2440,7 @@
       "expired_at": null,
       "expires_at": "2026-10-07",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2136,7 +2492,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2160,7 +2516,6 @@
         "Mathematics",
         "Asian Markets",
         "VBA",
-        "Identify Clients Needs",
         "Multilingual",
         "SQL",
         "Actuarial Science",
@@ -2246,7 +2601,7 @@
       "expired_at": null,
       "expires_at": "2026-10-09",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2292,7 +2647,7 @@
       "expired_at": null,
       "expires_at": "2026-10-06",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -2440,16 +2795,16 @@
       "categories": [
         "Insurance"
       ],
-      "company": "ZURICH INSURANCE COMPANY LTD (Singapore Branch)",
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
       "company_uen": "T08FC7171K",
       "description": "Product Owner - AI Retail Growth, Zurich Asia Pacific\nContext\nZurich in Asia Pacific is running a strategic initiative focused on reimagining how insurance is discovered, considered and sold in an AI-led world. This role sits within a newly formed squad and owns the development of AI-native discovery and purchase journey, starting with select markets and expanding across the region.\nWe're looking for a Product Owner who will own the end-to-end build: from conversational discovery and purchase flows to the underlying data and recommendation architecture that powers personalized, channel-agnostic sales.\nThis is a hands-on, build-and-ship role reporting into the region, working closely with internal and external development partners, underwriting, and country teams.\nThis role reports to Head of AI Retail & Customer, APAC.\nWhat the Role Does\nOwn the product roadmap and backlog for the AI-led retail sales channel\nTranslate vision into user stories, acceptance criteria, and prioritized sprints, working directly with internal and external development agencies\nDesign and iterate the conversational purchase experience - balancing conversion, trust, and regulatory/compliance requirements in insurance sales\nDefine the data architecture and business logic behind data-driven add-on and cross-sell recommendations\nEnsure the channel is built on a channel-agnostic architecture that can extend beyond web to WhatsApp, app, and partner channels\nPartner with underwriting, pricing, and compliance to make sure the AI-driven journey stays within risk and regulatory guardrails\nDefine and track success metrics and use them to drive the product roadmap\nAct as the day-to-day counterpart to the internal and external build partner, managing scope, timelines, and quality\nScope the path to regional rollout, capturing what's reusable vs. market-specific\nWhat we’re looking for\n6–8+ years in product management/product ownership, ideally with experience shipping consumer-facing digital products in insurance, fintech, or e-commerce\nDirect experience building or owning Digital and/or AI-powered customer journeys - not just familiarity with AI tools\nStrong grasp of agile delivery - comfortable writing detailed specs and managing an external dev team, not just running ceremonies\nWorking knowledge of how insurance products and financial regulations\nSharp instincts for conversion-focused UX and where friction genuinely matters vs. where it's a compliance non-negotiable\nComfortable operating with ambiguity - this is a 0-to-1 build, not an existing product with a mature backlog\nExcellent stakeholder management - this role sits between strategy, tech delivery, core insurance operations, and country teams\nAbility to communicate effectively with customers, partners, and stakeholders across APAC markets.\nProficiency in Mandarin may be required where the role involves regular interaction with Mandarin-speaking customers, partners, vendors, or markets where documentation and business communications are primarily conducted in Mandarin.",
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-02T16:17:47+08:00",
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-02T15:01:06+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -2483,7 +2838,7 @@
       ],
       "source_job_id": "f3eb15a841b66ece6701d53f9e38f57a",
       "source_job_post_id": "MCF-2026-1537245",
-      "status": "active",
+      "status": "expired",
       "title": "Product Owner, AI & Retail Growth, APAC",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/product-owner-ai-retail-growth-apac-zurich-insurance-company-f3eb15a841b66ece6701d53f9e38f57a",
       "vacancies": 1
@@ -2499,10 +2854,10 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-02T16:17:47+08:00",
       "expires_at": "2026-10-02",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-09-28T16:33:08+08:00",
+      "last_seen_at": "2026-10-02T16:17:47+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2536,7 +2891,7 @@
       ],
       "source_job_id": "f58ae7f14f8b6aeb031e331816278490",
       "source_job_post_id": "MCF-2026-1541239",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Pricing Manager (Life Insurance / $8K) [ID 710569]",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-pricing-manager-id-710569-persol-singapore-f58ae7f14f8b6aeb031e331816278490",
       "vacancies": 1
@@ -2936,6 +3291,17 @@
       "fetched": 58,
       "matching": 23,
       "new": 1,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 25,
+      "checked_at": "2026-10-02T16:17:47+08:00",
+      "data_changed": true,
+      "expired": 5,
+      "fetched": 73,
+      "matching": 28,
+      "new": 7,
       "reopened": 0,
       "status": "success"
     }
