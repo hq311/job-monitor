@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-02T16:17:47+08:00",
+  "data_changed_at": "2026-10-04T16:16:31+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -120,7 +120,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -225,7 +225,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -273,7 +273,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -379,7 +379,7 @@
       "expired_at": null,
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -482,7 +482,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -535,7 +535,7 @@
       "expired_at": null,
       "expires_at": "2026-10-05",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -589,10 +589,10 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-04T16:16:31+08:00",
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -630,7 +630,7 @@
       ],
       "source_job_id": "3d85bb161fbb0c9b888366535dddddbc",
       "source_job_post_id": "MCF-2026-1553539",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-manager-randstad-3d85bb161fbb0c9b888366535dddddbc",
       "vacancies": 1
@@ -705,7 +705,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1084,7 +1084,7 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-04T16:16:31+08:00",
       "expires_at": "2026-10-03",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
       "last_seen_at": "2026-10-02T16:17:47+08:00",
@@ -1125,7 +1125,7 @@
       ],
       "source_job_id": "6c4655654cdc0011c59a477ec3636154",
       "source_job_post_id": "MCF-2026-1256545",
-      "status": "active",
+      "status": "expired",
       "title": "Manager, Actuarial Audit (Life & Health)",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/manager-actuarial-audit-randstad-6c4655654cdc0011c59a477ec3636154",
       "vacancies": 1
@@ -1406,7 +1406,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1460,7 +1460,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1509,7 +1509,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1558,10 +1558,10 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-04T16:16:31+08:00",
       "expires_at": "2026-10-04",
       "first_seen_at": "2026-09-04T15:08:53+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1599,7 +1599,7 @@
       ],
       "source_job_id": "9bbd00abc82d171a26f70be97f25d79a",
       "source_job_post_id": "MCF-2026-1553444",
-      "status": "active",
+      "status": "expired",
       "title": "Assistant Manager, Actuarial Capital & Solvency",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/assistant-manager-actuarial-capital-solvency-randstad-9bbd00abc82d171a26f70be97f25d79a",
       "vacancies": 1
@@ -1831,7 +1831,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1933,7 +1933,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -2028,7 +2028,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2134,7 +2134,7 @@
       "expired_at": null,
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -2240,7 +2240,7 @@
       "expired_at": null,
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2292,7 +2292,7 @@
       "expired_at": null,
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -2341,7 +2341,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2440,7 +2440,7 @@
       "expired_at": null,
       "expires_at": "2026-10-07",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2492,7 +2492,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2601,7 +2601,7 @@
       "expired_at": null,
       "expires_at": "2026-10-09",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2647,7 +2647,7 @@
       "expired_at": null,
       "expires_at": "2026-10-06",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-02T16:17:47+08:00",
+      "last_seen_at": "2026-10-04T16:16:31+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -3302,6 +3302,17 @@
       "fetched": 73,
       "matching": 28,
       "new": 7,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 22,
+      "checked_at": "2026-10-04T16:16:31+08:00",
+      "data_changed": true,
+      "expired": 3,
+      "fetched": 67,
+      "matching": 24,
+      "new": 0,
       "reopened": 0,
       "status": "success"
     }
