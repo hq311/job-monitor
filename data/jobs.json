@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-04T16:16:31+08:00",
+  "data_changed_at": "2026-10-08T16:44:39+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -120,7 +120,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -225,7 +225,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -273,7 +273,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -318,14 +318,14 @@
       ],
       "company": "CHINA LIFE INSURANCE (SINGAPORE) PTE. LTD.",
       "company_uen": "201433645N",
-      "description": "Roles and Responsibilities:\nActuarial - Valuation:\nResponsible for the preparation of reserves, new business embedded value, statutory forms and other internal and external reports\nPerform analysis of results, including explanation of movement in valuation results\nProvide support in enhancing and modification of the valuation system\nMonitor the financial positions of the company to ensure ongoing RBC2 solvency\nAssist to manage valuation related projects and coordinate with internal and external parties\nInvolve in the annual review exercise of experience studies, bonus investigation, stress test and policies such as reserving SOP, NBEV SOP, CAR computation SOP and Par Internal Governance Policy\nAssist in the preparation of annual SAA review and business plan\nOthers:\nTo participate in other projects assigned by the Chief Actuary\nJob Requirements:\nGood degree in Actuarial Science or related subjects\nJob title and rank depend on the number of years actuarial working experience in direct life insurance business or consulting firms\nFamiliar with Singapore RBC2 regulations and RBC2 development is an advantage\nFamiliar with actuarial reserving and embedded value reporting\nProficient in MS Excel and MS Access\nGood communication and project management skills\nAbility to read Chinese will be an advantage",
+      "description": "Roles and Responsibilities:\nActuarial - Valuation:\nResponsible for the preparation of reserves, new business embedded value, statutory forms and other internal and external reports\nPerform analysis of results, including explanation of movement in valuation results\nProvide support in enhancing and modification of the valuation system\nMonitor the financial positions of the company to ensure ongoing RBC2 solvency\nAssist to manage valuation related projects and coordinate with internal and external parties\nInvolve in the annual review exercise of experience studies, bonus investigation, stress test and policies such as reserving SOP, NBEV SOP, CAR computation SOP and Par Internal Governance Policy\nAssist in the preparation of annual SAA review and business plan\nOthers:\nTo participate in other projects assigned by the Chief Actuary\nJob Requirements:\nGood degree in Actuarial Science or related subjects\nJob title and rank depend on the number of years actuarial working experience in direct life insurance business or consulting firms\nFamiliar with Singapore RBC2 regulations and RBC2 development is an advantage\nFamiliar with actuarial reserving and embedded value reporting\nProficient in MS Excel and MS Access\nGood communication and project management skills",
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": "2026-09-18T15:17:42+08:00",
-      "expires_at": "2026-09-15",
+      "expired_at": null,
+      "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-09-14T15:48:10+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -334,8 +334,8 @@
       "position_levels": [
         "Senior Executive"
       ],
-      "posted_at": "2026-09-01",
-      "reopened_at": null,
+      "posted_at": "2026-10-06",
+      "reopened_at": "2026-10-08T16:44:39+08:00",
       "salary_max": 8000,
       "salary_min": 5000,
       "salary_period": "Monthly",
@@ -357,7 +357,7 @@
       ],
       "source_job_id": "18fb1ad0e2c626070d2ce40e3930c7f0",
       "source_job_post_id": "MCF-2026-1527438",
-      "status": "expired",
+      "status": "active",
       "title": "Actuarial Senior Officer/Assistant Manager/Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-senior-officerassistant-managermanager-china-life-insurance-18fb1ad0e2c626070d2ce40e3930c7f0",
       "vacancies": 1
@@ -379,7 +379,7 @@
       "expired_at": null,
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -482,7 +482,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -532,7 +532,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-08T16:44:39+08:00",
       "expires_at": "2026-10-05",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
       "last_seen_at": "2026-10-04T16:16:31+08:00",
@@ -571,7 +571,7 @@
       ],
       "source_job_id": "3c79e9aeca01c71ebadb4b2a9cdc8868",
       "source_job_post_id": "MCF-2026-1666352",
-      "status": "active",
+      "status": "expired",
       "title": "ASSOCIATE, ACTUARIAL SERVICES",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/associate-actuarial-services-hsbc-life-3c79e9aeca01c71ebadb4b2a9cdc8868",
       "vacancies": 1
@@ -705,7 +705,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1406,7 +1406,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1460,7 +1460,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1509,7 +1509,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1831,7 +1831,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1920,6 +1920,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/fs-consulting-life-actuarial-senior-associate-manager-kpmg-services-b3a04170236f488bb32203aef011ed99",
       "vacancies": 4
     },
+    "bbe939cb2765b116eb4ce7fa871f29da": {
+      "categories": [
+        "Others"
+      ],
+      "company": "ALLIANZ SE",
+      "company_uen": "S98FC5644A",
+      "description": "About us\nReinsurance is positioned at the core of the Allianz Group. At Allianz Reinsurance, we provide customized reinsurance solutions by combining technical expertise with deep local market knowledge. Building on our core strengths, we continuously expand our offerings, including advancements in portfolio analytics, catastrophe risk visualization and assessment, and run-off management. These activities play a vital role in stabilizing and diversifying the Allianz Group, supporting our purpose to secure our customers’ future—today and tomorrow.\nWith more than 40 years of experience and offices across Europe, Asia Pacific, and North America, we collaborate closely with our partners to understand risk and deliver lasting value. As a global organization, we unite international experts in underwriting and risk management, combining global reach with local insight and multi-segment expertise.\nWe are committed to fostering an inclusive culture rooted in collaboration, trust, and integrity—an environment where everyone can thrive. Our flexible work arrangements, ongoing learning opportunities, and supportive leadership empower our employees to grow and help shape the future of reinsurance.\nJob purpose / role\nThe Allianz SE Reinsurance Singapore branch underwrites Life & Health (L&H) reinsurance across the Asia Pacific region. We are seeking an Actuarial Expert to join our Finance Division. The role operates within a matrix structure, with day-to-day local oversight by a Senior Actuary in Singapore and a functional reporting line to the Head of Life & Health Actuarial in Germany. The role works closely alongside actuarial colleagues in Singapore and the broader actuarial team in Munich, Germany. The role supports the preparation of key L&H actuarial reporting deliverables for Allianz Re at both Singapore branch and global Allianz Re level, including reserving, IFRS 17, statutory and regulatory reporting, and external audit support.\nKey responsibilities\nFinancial Reporting\nPreparation of actuarial inputs for Singapore branch reporting, internal management reporting and semiannual local IFRS 17 reporting, in line with local regulatory requirements and internal guidelines.\nSupport the global Allianz Re L&H IFRS 17 closing, reporting and planning process, including specific responsibility for assigned areas such as VNB reporting.\nSupport the Certifying Actuary workstream for the Singapore branch as needed\nReserving & Actuarial Analysis\nExecute quarterly reserving in line with regulatory standards and internal guidelines.\nPerform actuarial analyses for assigned business areas, including assumption setting, experience studies and portfolio analytics, with clear explanation of methodology, results and business implications.\nMaintain and enhance cashflow models, including model updates, output review, version management and supporting documentation.\nImplement agreed enhancements to local actuarial tools, models and processes, ensuring robust controls, clear documentation and consistency with L&H actuarial approaches across Allianz Re.\nSupport risk capital modelling and model governance activities for the global L&H portfolio as needed, including preparation of analyses, documentation of model changes and implementation of agreed enhancements.\nProvide technical actuarial input to IFRS 17 analyses and assessments (e.g. contract boundary determinations, risk transfer testing) as required.\nStakeholder Engagement\nCommunicate actuarial findings and reserving outcomes to relevant stakeholders, including explanation of methodology, key movements and business implications.\nWork closely with Munich L&H Actuarial colleagues and the local Financial Reporting function to support aligned delivery of reporting, reserving, modelling and planning activities.\nSupport external audit activities by preparing actuarial analyses, providing documentation of reserving methodologies and assumptions, and responding to Auditor requests.\nProvide actuarial support to Underwriting, Accounting, Controlling, Risk and Financial Reporting teams as required.\nEscalate material technical issues, judgement areas, data concerns or delivery risks in a timely manner.\nSupport projects and initiatives as assigned.\nQualification\nBachelor's or Master’s degree in Mathematics, Statistics, Actuarial Science, or a related quantitative discipline.\nFellow, Associate or nearly qualified member of a recognised actuarial professional body (e.g., FIA, FSA,FIAA, DAV).\nExperience & Key skills\nExperience\nMinimum 5 years of actuarial experience in the life insurance or reinsurance industry (or consulting), ideally within a multinational organisation.\nAdvanced knowledge and experience of IFRS 17 principles, methodologies and requirements.\nKnowledge of Singapore regulatory reporting requirements (e.g. MAS 133) is highly advantageous.\nRobust knowledge of L&H business financials and actuarial concepts, including reserving and pricing techniques, rate development and regulatory frameworks.\nTechnical Skills\nAdvanced Excel/VBA skills are required.\nExperience with actuarial modelling platforms (e.g., RAFM, Prophet, AXIS) preferred.\nProficiency in programming languages (Python, R, SQL) or statistical software (SAS) advantageous.\nPractical experience using AI-enabled tools, automation or advanced analytics to improve actuarial modelling, reporting, documentation or process efficiency is advantageous.\nCompetencies\nProactive, detail-oriented and able to take ownership of assigned deliverables, with strong problem-solving skills.\nAbility to manage competing priorities and deliver reliably in a matrix environment under time pressure.\nStrong communication skills, with the ability to explain actuarial topics clearly to technical and non-technical stakeholders.\nCollaborative working style across local and global teams.\n103520 | Actuarial | Professional | Non-Executive | Allianz Reinsurance | Full-Time | Permanent\nAllianz Group is one of the most trusted insurance and asset management companies in the world. Caring forour employees, their ambitions, dreams and challenges, is what makes us a unique employer. Together we canbuild an environment where everyone feels empowered and has the confidence to explore, to grow and toshape a better future for our customers and the world around us.At Allianz, we stand for unity: we believe that a united world is a more prosperous world, and we are dedicatedto consistently advocating for equal opportunities for all. And the foundation for this is our inclusive workplace,where people and performance both matter, and nurtures a culture grounded in integrity, fairness, inclusionand trust. We therefore welcome applications regardless of race, ethnicity or cultural background, age, gender,nationality, religion, social class, disability or sexual orientation, or any other characteristics protected underapplicable local laws and regulations.\nJoin us. Let's care for tomorrow.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-21",
+      "first_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 5,
+      "position_levels": [
+        "Non-executive"
+      ],
+      "posted_at": "2026-10-07",
+      "reopened_at": null,
+      "salary_max": 15000,
+      "salary_min": 8000,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "Technical Skills",
+        "MS Reporting Services",
+        "Financial Knowledge",
+        "FSA",
+        "regulatory standards",
+        "Cash Flow Management",
+        "Mathematics",
+        "Actuarial Science",
+        "Actuarial Consulting",
+        "Associate Development",
+        "Actuarial qualifications",
+        "Statistics",
+        "Training Skills",
+        "Internal Reporting",
+        "Financial Reporting"
+      ],
+      "source_job_id": "bbe939cb2765b116eb4ce7fa871f29da",
+      "source_job_post_id": "MCF-2026-1769198",
+      "status": "active",
+      "title": "Life & Health Actuarial Expert",
+      "url": "https://www.mycareersfuture.gov.sg/job/others/life-health-actuarial-expert-allianz-se-bbe939cb2765b116eb4ce7fa871f29da",
+      "vacancies": 1
+    },
     "be46768561452441c342af994444e8db": {
       "categories": [
         "Banking and Finance"
@@ -1933,7 +1985,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -2028,7 +2080,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2131,10 +2183,10 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-08T16:44:39+08:00",
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -2168,7 +2220,7 @@
       ],
       "source_job_id": "cb5db5a59c5f8987add45004b211c654",
       "source_job_post_id": "MCF-2026-1691693",
-      "status": "active",
+      "status": "expired",
       "title": "Direct Marketing Underwriter, A&H APAC",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/direct-marketing-underwriter-ah-apac-chubb-asia-pacific-cb5db5a59c5f8987add45004b211c654",
       "vacancies": 1
@@ -2227,6 +2279,56 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/claims-excellence-lead-apac-zurich-insurance-company-cb83d69cc5fb3882ad70607b87f49f1e",
       "vacancies": 1
     },
+    "d23b95c472dede87dbe3d3cb0d19bc0e": {
+      "categories": [
+        "Accounting / Auditing / Taxation"
+      ],
+      "company": "PRICEWATERHOUSECOOPERS PROFESSIONAL SERVICES  PTE. LTD.",
+      "company_uen": "199505513C",
+      "description": "Job Description & Summary\nAbout PwC:\nPwC is a global network of firms delivering world-class assurance, tax, and consulting services. We help resolve complex issues and identify opportunities across diverse industries. Our teams are committed to delivering high-quality services that help our clients build trust and create sustainable success.\nRole Overview:\nAs an Actuarial Senior Associate/Manager at PwC, you will be a key member of our Financial Services team. You will lead and support engagements across a wide range of actuarial functions, providing expert insights and solutions to our clients. You will collaborate with cross-functional teams, manage client relationships, and contribute to the growth and development of our actuarial practice.\nKey Responsibilities:\nLead and manage actuarial projects for our insurance clients.\nConduct actuarial analysis and modelling, including risk assessment, pricing, reserving, and financial projections.\nDevelop and maintain strong client relationships, understanding their needs and delivering tailored solutions.\nProvide technical expertise and guidance to junior team members, fostering their professional growth.\nCollaborate with other PwC teams to deliver integrated solutions and enhance client outcomes.\nStay updated on industry trends, regulatory changes, and emerging technologies impacting the actuarial field.\nContribute to business development efforts, including proposal writing and client presentations.\nQualifications:\nBachelor's degree in Actuarial Science, Mathematics, Statistics, or a related field; advanced degree preferred.\nWorking towards professional actuarial designation.\n2-3 years of experience in actuarial roles, with a focus on life insurance. Less experienced candidate may be considered for a junior role.\nStrong analytical skills and proficiency in actuarial software and tools (e.g., Prophet, Pathwise, Excel, R, Python, SAS).\nExcellent communication and interpersonal skills, with the ability to present complex information clearly.\nProven project management skills and the ability to lead and mentor teams.\nStrong business acumen and problem-solving capabilities.\nWhy PwC?\nAccess to a diverse range of clients and projects that will challenge and expand your expertise.\nOpportunities for professional development and career advancement.\nA collaborative and inclusive work environment that values innovation and diversity.\nCompetitive compensation and benefits package.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-06",
+      "first_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-10-07",
+      "reopened_at": null,
+      "salary_max": 9000,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Proposal Writing",
+        "Risk Assessment",
+        "Analytical Skills",
+        "Interpersonal Skills",
+        "Tax",
+        "Business Acumen",
+        "Assurance",
+        "Actuarial Science",
+        "Project Management",
+        "Python",
+        "Life Insurance",
+        "Statistics",
+        "Consulting",
+        "Financial Services"
+      ],
+      "source_job_id": "d23b95c472dede87dbe3d3cb0d19bc0e",
+      "source_job_post_id": "MCF-2026-0821469",
+      "status": "active",
+      "title": "Actuarial Senior Associate",
+      "url": "https://www.mycareersfuture.gov.sg/job/accounting/actuarial-senior-associate-pricewaterhousecoopers-professional-services-d23b95c472dede87dbe3d3cb0d19bc0e",
+      "vacancies": 5
+    },
     "d3c4c04679f1f7eaa9d3e2530c10c867": {
       "categories": [
         "Banking and Finance"
@@ -2237,10 +2339,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-08T16:44:39+08:00",
       "expires_at": "2026-10-08",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2274,7 +2376,7 @@
       ],
       "source_job_id": "d3c4c04679f1f7eaa9d3e2530c10c867",
       "source_job_post_id": "MCF-2026-1691869",
-      "status": "active",
+      "status": "expired",
       "title": "ASSOCIATE, ACTUARIAL SERVICES",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/associate-actuarial-services-hsbc-life-d3c4c04679f1f7eaa9d3e2530c10c867",
       "vacancies": 1
@@ -2292,7 +2394,7 @@
       "expired_at": null,
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -2341,7 +2443,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2437,7 +2539,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-08T16:44:39+08:00",
       "expires_at": "2026-10-07",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
       "last_seen_at": "2026-10-04T16:16:31+08:00",
@@ -2474,7 +2576,7 @@
       ],
       "source_job_id": "dd521dbda30ffbfe968a14c2b4b79ae4",
       "source_job_post_id": "MCF-2026-1679514",
-      "status": "active",
+      "status": "expired",
       "title": "Assistant Manager, Actuarial",
       "url": "https://www.mycareersfuture.gov.sg/job/others/assistant-manager-actuarial-manulife-dd521dbda30ffbfe968a14c2b4b79ae4",
       "vacancies": 1
@@ -2492,7 +2594,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2601,7 +2703,7 @@
       "expired_at": null,
       "expires_at": "2026-10-09",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-08T16:44:39+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2644,7 +2746,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-08T16:44:39+08:00",
       "expires_at": "2026-10-06",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
       "last_seen_at": "2026-10-04T16:16:31+08:00",
@@ -2676,7 +2778,7 @@
       ],
       "source_job_id": "ec42504d5f4dcb9f7255009d04520879",
       "source_job_post_id": "MCF-2026-1672193",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Pricing",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-pricing-prudential-assurance-company-singapore-ec42504d5f4dcb9f7255009d04520879",
       "vacancies": 1
@@ -3314,6 +3416,17 @@
       "matching": 24,
       "new": 0,
       "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 20,
+      "checked_at": "2026-10-08T16:44:39+08:00",
+      "data_changed": true,
+      "expired": 5,
+      "fetched": 71,
+      "matching": 22,
+      "new": 2,
+      "reopened": 1,
       "status": "success"
     }
   ]
