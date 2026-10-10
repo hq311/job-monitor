@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-08T16:44:39+08:00",
+  "data_changed_at": "2026-10-10T16:20:46+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -120,7 +120,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -225,7 +225,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -273,7 +273,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -325,7 +325,7 @@
       "expired_at": null,
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -379,7 +379,7 @@
       "expired_at": null,
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -482,7 +482,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -705,7 +705,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -799,6 +799,54 @@
       "title": "Actuarial Pricing Manager, Life Insurance",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-pricing-manager-life-insurance-gravitas-recruitment-group-5317eacf6305242d9daf08b2c044c480",
       "vacancies": 1
+    },
+    "57a48a06b5e1057b940aa7928aa2a511": {
+      "categories": [
+        "Banking and Finance",
+        "Insurance"
+      ],
+      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
+      "company_uen": "199505951H",
+      "description": "Responsibilities:\nManage end-to-end pricing and implementation of new products.\nAssist Actuarial Pricing Leads and actively participate in the end-to-end actuarial pricing process, including executing premium and benefit pricing, setting actuarial assumptions, conducting profitability testing, implementing product systems, and performing user acceptance tests for quotation and administrative systems to ensure smooth and timely product delivery.\nLiaise with Products, Distribution, and Policy Servicing teams to support client requests related to in-force policy statement updates, post-sales illustrations, channel incentive analysis, and marketing campaign setup.\nParticipate in risk management-related projects, including addressing market risk mitigation, insurance risk review, and operational risk management.\nAssist with non-product development activities and participate in department-wide exercises such as periodic experience study updates, financial stress tests, board reports, regulatory initiatives, systems infrastructure upgrades, sales tools, and marketing support.\nSupport the Head of Pricing to safeguard the financial health of the insurance company, protect the interests of policyholders, and ensure compliance with statutory responsibilities under the Insurance Act.\nRequirements:\nBachelor’s degree in Actuarial Science, Statistics, Economics, or a relevant discipline.\nAt least 1-2 years of actuarial experience in life insurance product pricing is a plus.\nExperience with Prophet, VBA, and Excel programming is a plus.\nSharp communication skills for clear business connectivity.\nEngaging and open-minded working attitude with a focus on being a good team player.\nMeticulous with a keen eye for detail in financial analysis.\nInterested Candidates may send their resume and cover letter directly to Hibah.bakhtavar@manpower.com.sg ,stating the position as the subject title in the email.\nHibah Bakhtavar | EA License No. 02C3423 | Personnel Registration No. R21103109",
+      "employment_types": [
+        "Contract"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-08",
+      "first_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "location": "Islandwide",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-10-09",
+      "reopened_at": null,
+      "salary_max": 8000,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Valuation",
+        "Reinsurance",
+        "Stress",
+        "VBA",
+        "Economics",
+        "Operational Risk Management",
+        "Actuarial Science",
+        "Life Insurance",
+        "Financial Analysis",
+        "Statistics",
+        "Team Player"
+      ],
+      "source_job_id": "57a48a06b5e1057b940aa7928aa2a511",
+      "source_job_post_id": "MCF-2026-1789417",
+      "status": "active",
+      "title": "Actuarial Analyst (Insurance) | Bank | Contract",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-analyst-bank-contract-manpower-staffing-services-57a48a06b5e1057b940aa7928aa2a511",
+      "vacancies": 3
     },
     "598e2a4899637f5d79d9d016fe5937f4": {
       "categories": [
@@ -1406,7 +1454,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1460,7 +1508,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1509,7 +1557,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1831,7 +1879,7 @@
       "expired_at": null,
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1933,7 +1981,7 @@
       "expired_at": null,
       "expires_at": "2026-10-21",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1985,7 +2033,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -2080,7 +2128,7 @@
       "expired_at": null,
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2292,7 +2340,7 @@
       "expired_at": null,
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2394,7 +2442,7 @@
       "expired_at": null,
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -2443,7 +2491,7 @@
       "expired_at": null,
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2594,7 +2642,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-10T16:20:46+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2700,7 +2748,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-10T16:20:46+08:00",
       "expires_at": "2026-10-09",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
       "last_seen_at": "2026-10-08T16:44:39+08:00",
@@ -2731,7 +2779,7 @@
       ],
       "source_job_id": "e88a8575f0ca7d49a29d3afcc31e5c0b",
       "source_job_post_id": "MCF-2026-1647525",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analyst-united-overseas-insurance-e88a8575f0ca7d49a29d3afcc31e5c0b",
       "vacancies": 1
@@ -3427,6 +3475,17 @@
       "matching": 22,
       "new": 2,
       "reopened": 1,
+      "status": "success"
+    },
+    {
+      "active": 20,
+      "checked_at": "2026-10-10T16:20:46+08:00",
+      "data_changed": true,
+      "expired": 1,
+      "fetched": 65,
+      "matching": 20,
+      "new": 1,
+      "reopened": 0,
       "status": "success"
     }
   ]
