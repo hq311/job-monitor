@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-10T16:20:46+08:00",
+  "data_changed_at": "2026-10-18T15:08:35+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -120,7 +120,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -225,7 +225,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -270,7 +270,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -307,7 +307,7 @@
       ],
       "source_job_id": "10e3cd4cb4629e082572a715cc9e2443",
       "source_job_post_id": "MCF-2026-1730997",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Assistant",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-assistant-hsbc-life-10e3cd4cb4629e082572a715cc9e2443",
       "vacancies": 1
@@ -325,7 +325,7 @@
       "expired_at": null,
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-17",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -413,7 +413,7 @@
       ],
       "source_job_id": "20fff77b9b0af89cc5ec7ce4dc4fbf6d",
       "source_job_post_id": "MCF-2026-1645796",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Audit Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-audit-manager-randstad-20fff77b9b0af89cc5ec7ce4dc4fbf6d",
       "vacancies": 1
@@ -479,7 +479,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -517,7 +517,7 @@
       ],
       "source_job_id": "33ab4dde10a233f76fa0e41bcf90f7a1",
       "source_job_post_id": "MCF-2026-1727375",
-      "status": "active",
+      "status": "expired",
       "title": "Vice President, Modeling (Actuarial) - HSBC Life",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/vice-president-modeling-hsbc-life-hsbc-life-33ab4dde10a233f76fa0e41bcf90f7a1",
       "vacancies": 1
@@ -705,7 +705,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -742,6 +742,58 @@
       "status": "active",
       "title": "Actuarial Consulting Manager (P&C)",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-consulting-manager-randstad-44835af457a39614aee46ffef8334f09",
+      "vacancies": 1
+    },
+    "474ad5b538a4aa1b2a29e16aa6fdab88": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "CHUBB ASIA PACIFIC PTE. LTD.",
+      "company_uen": "197500425H",
+      "description": "Purpose\nThe Divisional Finance Officer (DFO) is responsible for overseeing the financial management, planning, and analysis for the Consumer division within the APAC, General Insurance business. The DFO serves as a strategic partner to the divisional leadership team, providing financial insights, ensuring compliance with regulatory requirements, and driving financial performance to achieve business objectives.\nResponsibilities\nFinancial Strategy and Leadership:\nPartner with divisional leadership to develop and execute financial strategies that align with the overall goals of the Consumer business.\nProvide financial insights and recommendations to support decision-making, including pricing, underwriting, and claims management strategies.\nLead the development of financial plans, budgets, and forecasts for the division.\nFinancial Planning And Analysis (FP&A)\nAnalyze financial performance, including revenue, expenses, profitability, and key performance indicators (KPIs).\nPrepare and present financial reports, dashboards, and variance analyses to senior management.\nIdentify trends, risks, and opportunities, and recommend actions to optimize financial outcomes.\nOperational Support\nCollaborate with underwriting, claims, and operations teams to ensure alignment between financial goals and operational activities.\nSupport the development of pricing models and ensure appropriate reserving practices for the P&C portfolio.\nMonitor and manage expense controls, ensuring efficient use of resources.\nRegulatory And Compliance Oversight\nEnsure compliance with all financial reporting standards, regulatory requirements, and internal policies.\nOversee the preparation of statutory filings and regulatory submissions for the Consumer division.\nWork closely with auditors and regulators to address financial and compliance matters.\nRisk Management\nAssess financial risks related to underwriting, claims, and market conditions, and develop mitigation strategies.\nCollaborate with actuarial teams to evaluate loss reserves and ensure adequacy.\nTeam Leadership And Development\nLead and mentor a team of finance professionals, fostering a culture of collaboration, accountability, and continuous improvement.\nBuild strong relationships with cross-functional teams and stakeholders to drive alignment and achieve business objectives.\nTechnology And Process Improvement\nLeverage financial systems and tools to enhance reporting, analytics, and decision-making capabilities.\nIdentify and implement process improvements to increase efficiency and accuracy in financial operations.\nQualifications\nEducation and Experience:\nBachelor’s degree in Finance, Accounting, Economics, or a related field (MBA or CPA preferred).\nExtensive experience (typically 10+ years) in financial management roles, preferably within the insurance industry or Consumer line of business.\nStrong knowledge of insurance accounting principles, including GAAP, IFRS, and statutory accounting.\nSkills And Competencies\nDeep understanding of the Consumer insurance market, including underwriting, claims, and reinsurance.\nStrong analytical and problem-solving skills, with the ability to interpret complex financial data.\nExcellent communication and presentation skills, with the ability to influence stakeholders at all levels.\nProven leadership and team management abilities.\nProficiency in financial systems, tools, and software (e.g., SAP, Oracle, or similar platforms).\nKey Attributes\nStrategic thinker with a results-oriented mindset.\nHigh level of integrity and commitment to ethical practices.\nAbility to thrive in a fast-paced, dynamic environment.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-26",
+      "first_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: CHUBB ASIA PACIFIC PTE. LTD."
+      ],
+      "minimum_years_experience": 10,
+      "position_levels": [
+        "Middle Management"
+      ],
+      "posted_at": "2026-10-12",
+      "reopened_at": null,
+      "salary_max": 22500,
+      "salary_min": 17000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Financial Management",
+        "Financial Planning",
+        "Financial Decisions",
+        "Underwriting Process",
+        "Finance and Accounting",
+        "Implementing Marketing Strategies",
+        "Strategic Leadership",
+        "Basic Accounting Knowledge",
+        "Corporate FP&A",
+        "Education",
+        "Stakeholder Management",
+        "Key Performance Indicators",
+        "Interpret financial statements",
+        "Developing Skills",
+        "Insurance industry",
+        "Financial Reporting"
+      ],
+      "source_job_id": "474ad5b538a4aa1b2a29e16aa6fdab88",
+      "source_job_post_id": "MCF-2026-1797185",
+      "status": "active",
+      "title": "Divisional Finance Officer, Consumer Lines",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/divisional-finance-officer-consumer-lines-chubb-asia-pacific-474ad5b538a4aa1b2a29e16aa6fdab88",
       "vacancies": 1
     },
     "5317eacf6305242d9daf08b2c044c480": {
@@ -814,7 +866,7 @@
       "expired_at": null,
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1389,6 +1441,61 @@
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-associate-health-pricing-portfolio-management-hsbc-life-84cbcfceb1fad622befa772213d1c8ad",
       "vacancies": 1
     },
+    "84ed0e9712bbe8bf5df859eb0fe613ca": {
+      "categories": [
+        "Consulting",
+        "Insurance",
+        "Professional Services",
+        "Others"
+      ],
+      "company": "LMA RECRUITMENT SINGAPORE PTE. LTD.",
+      "company_uen": "201131609D",
+      "description": "We are partnering with a well-established life insurer to hire a Modelling Senior Manager to strengthen its actuarial modelling capabilities. This role offers the opportunity to work on complex life insurance models, enhance modelling standards and contribute to key actuarial initiatives across the business.\nWhat You'll Be Doing\nLead the development, enhancement and maintenance of actuarial models supporting life insurance valuation and financial reporting.\nEvaluate modelling approaches, actuarial assumptions and results, providing independent technical challenge where needed.\nStrengthen model governance, controls and documentation to ensure robust and reliable modelling practices.\nIdentify opportunities to streamline modelling processes, improve existing tools and enhance operational efficiency.\nPartner with actuarial and business stakeholders in Singapore and across the region to provide technical guidance and resolve modelling issues.\nWhat We're Looking For\nA qualified or near-qualified actuary with a recognised actuarial professional body.\nSolid experience in life insurance actuarial modelling, including stochastic modelling and valuation.\nPractical experience with Prophet modelling software will be highly advantageous.\nStrong analytical and problem-solving skills, with the ability to translate complex technical concepts into clear, actionable insights.\nA collaborative professional who can engage effectively with stakeholders and drive continuous improvements.\nApply for a confidential discussion.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-13",
+      "first_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Middle Management"
+      ],
+      "posted_at": "2026-10-14",
+      "reopened_at": null,
+      "salary_max": 15000,
+      "salary_min": 8000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Improve Operational Performance",
+        "Good Documentation Practices",
+        "Project Leadership",
+        "technically qualified",
+        "governance framework",
+        "Prophet",
+        "Global Technical Support",
+        "Designing Process Flows",
+        "Model Evaluation",
+        "Technical Requirements Gathering",
+        "Technical Knowledge",
+        "Actuarial Science",
+        "Life Insurance",
+        "Actuarial qualifications",
+        "Valuation Modeling",
+        "Collaboration With Stakeholders"
+      ],
+      "source_job_id": "84ed0e9712bbe8bf5df859eb0fe613ca",
+      "source_job_post_id": "MCF-2026-1820081",
+      "status": "active",
+      "title": "Actuarial Modelling Senior Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-modelling-senior-manager-lma-recruitment-singapore-84ed0e9712bbe8bf5df859eb0fe613ca",
+      "vacancies": 1
+    },
     "8c7be77271e273622fa50fba318bc53d": {
       "categories": [
         "Insurance"
@@ -1454,7 +1561,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1505,7 +1612,7 @@
       "employment_types": [
         "Internship/Attachment"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -1539,7 +1646,7 @@
       ],
       "source_job_id": "9258070e171f6719e83d75f58871dc4b",
       "source_job_post_id": "MCF-2026-1621831",
-      "status": "active",
+      "status": "expired",
       "title": "Intern, Actuarial Services",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-9258070e171f6719e83d75f58871dc4b",
       "vacancies": 1
@@ -1557,7 +1664,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1876,7 +1983,7 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-11",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -1917,7 +2024,7 @@
       ],
       "source_job_id": "b0b80ae85ce80ec787a77f42ea063a5e",
       "source_job_post_id": "MCF-2026-1606215",
-      "status": "active",
+      "status": "expired",
       "title": "Lead Pricing Actuary (Regional)",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/lead-pricing-actuary-randstad-b0b80ae85ce80ec787a77f42ea063a5e",
       "vacancies": 1
@@ -1981,7 +2088,7 @@
       "expired_at": null,
       "expires_at": "2026-10-21",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2030,7 +2137,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -2062,9 +2169,63 @@
       ],
       "source_job_id": "be46768561452441c342af994444e8db",
       "source_job_post_id": "MCF-2026-1723624",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Pricing",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-pricing-prudential-assurance-company-singapore-be46768561452441c342af994444e8db",
+      "vacancies": 1
+    },
+    "be9724597831aa7caeafb03acccf569d": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "CIGNA EUROPE INSURANCE COMPANY S.A.-N.V. SINGAPORE BRANCH",
+      "company_uen": "T10FC0145E",
+      "description": "Delivers professional activities in the Actuarial job family. Learns various actuarial techniques and procedures. Performs tasks which are of a mathematical nature. Compiles and categorizes data, documenting and verifying the factors used in computations such as those used in developing rating factors to be used by Underwriting. Gaining knowledge about company operations, systems and actuarial methodologies. Applies standard techniques and procedures to routine instructions that require professional knowledge in specialist areas. Provides standard professional advice and creates initial reports/analyses for review. May provide guidance, coaching, and direction to more junior members of the team in Actuary. Position generally requires completion of 1 - 2 actuarial exams.\nCritical Tasks and Expected Contributions/Results:\nTo support APAC valuation tasks for Australia and Singapore as follows:\nAssist in internal US GAAP reporting, local statutory reporting (e.g. ALCO and ORSA), as well as annual reserve and expense study\nAssist in setting reserves for financial close, conduct claims and loss ratio detailed movement analysis and understanding of underlying key drivers\nAssist in APAC reporting, e.g. monthly PYD computation and analysis\nAssist in IFRS17 reporting and related task including implementation and transition to business-as-usual process\nAssist in meeting both internal and external audit requirements for local reporting and IFRS 17 reporting\nData preparation and assist in the development and maintenance of claims/actuarial database and analytic dashboards\nProvide support in optimizing and streamlining reserving processes. This includes proposing and implementing improvements while maintaining robust controls and proper documentation\nParticipate in actuarial reserving projects and collaborate with other business functions in ad-hoc projects to implement key strategic initiatives\nAny other ad-hoc tasks as assigned\nKey Challenges/Anticipated Changes in Environment:\nAble to juggle priorities and work under pressure to meet tight deadlines\nHave strong financial acumen and professional integrity. Able to balance and apply actuarial principles in a commercial setting\nDevelopmental Value of Position:\nDevelop the ability to work independently while taking ownership to contribute actively to a high-performing team environment\nCultivate a strong growth mindset to have a deep hunger and willingness to experiment, explore and broaden actuarial expertise\nStrengthen communication and interpersonal skills to productively interact with cross-functional colleagues.\nExperience/Knowledge, Education and Other Requirements:\nBachelor’s degree in Actuarial Science or related field of study\nAssociate level or candidates actively pursuing actuarial qualifications from the Society of Actuaries, Institute and Faculty of Actuaries, or comparable actuarial bodies\n3+ years of relevant actuarial experience.\nGood knowledge and experience of valuation and reporting process\nGood understanding in health insurance, health claim process, healthcare systems, IFRS17 is a plus\nGood knowledge and strong interest in programming (e.g. Alteryx, AWS, ResQ, SQL and Tableau). Proficient in Microsoft (Excel, Access, Powerpoint etc.)\nStrong communication and presentation skills\nPersonal Competencies Required:\nHave good understanding of the Actuarial valuation function and operating models\nStrong analytical and numerical skills, applied to insurance and finance data domains\nAbility to apply technical knowledge and skills in automating and streamlining work processes\nFast learner and detail oriented. Be able to complete tasks assigned accurately and in a timely manner. Be able to identify and highlight critical issues to be discussed throughout the whole process",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-03",
+      "first_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 5,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-10-13",
+      "reopened_at": null,
+      "salary_max": 12000,
+      "salary_min": 7500,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "GNU E",
+        "Valuation",
+        "Implementation of Business Processes",
+        "Content Rating and Compliance",
+        "Annual Budget",
+        "Valuation Research and Analysis",
+        "Actuarial Science",
+        "Actuarial Consulting",
+        "Team Coaching",
+        "Actuaries",
+        "Providing expert advice",
+        "Statutory Reporting",
+        "Industry Knowledge",
+        "Monthly Accruals",
+        "Mathematical Skills",
+        "Claims Investigations",
+        "US GAAP Reporting"
+      ],
+      "source_job_id": "be9724597831aa7caeafb03acccf569d",
+      "source_job_post_id": "MCF-2026-1245894",
+      "status": "active",
+      "title": "Assistant Manager, Actuarial",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/assistant-manager-actuarial-cigna-europe-insurance-company-sa-nv-singapore-branch-be9724597831aa7caeafb03acccf569d",
       "vacancies": 1
     },
     "c4c3a49fa2fb46b5c3fe881d851303b7": {
@@ -2125,7 +2286,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-15",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -2162,7 +2323,7 @@
       ],
       "source_job_id": "c71834d46b869fa0497ce7b700b1614a",
       "source_job_post_id": "MCF-2026-1730947",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Assistant",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-assistant-hsbc-life-c71834d46b869fa0497ce7b700b1614a",
       "vacancies": 1
@@ -2340,7 +2501,7 @@
       "expired_at": null,
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2442,7 +2603,7 @@
       "expired_at": null,
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -2488,7 +2649,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-18T15:08:35+08:00",
       "expires_at": "2026-10-14",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
       "last_seen_at": "2026-10-10T16:20:46+08:00",
@@ -2525,7 +2686,7 @@
       ],
       "source_job_id": "d9678e2ab61923d9a5bc02fe6c74419b",
       "source_job_post_id": "MCF-2026-1726655",
-      "status": "active",
+      "status": "expired",
       "title": "Manager, Modeling (Actuarial) - HSBC Life",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/manager-modeling-hsbc-life-hsbc-life-d9678e2ab61923d9a5bc02fe6c74419b",
       "vacancies": 1
@@ -2629,6 +2790,59 @@
       "url": "https://www.mycareersfuture.gov.sg/job/others/assistant-manager-actuarial-manulife-dd521dbda30ffbfe968a14c2b4b79ae4",
       "vacancies": 1
     },
+    "e4689fa148ddd57c7293a76e3919f733": {
+      "categories": [
+        "Banking and Finance",
+        "Insurance"
+      ],
+      "company": "TOKIO MARINE LIFE INSURANCE SINGAPORE PTE. LTD.",
+      "company_uen": "194800055D",
+      "description": "Job Description\nResponsible for performing sensitivity analysis on reserves and solvency.\nResponsible for performing MAS Stress test and ORSA reporting.\nResponsible for performing the protected liabilities required for Policyholders Protection Fund (PPF) reporting.\nWork closely with modelling team on enhancements and implementation.\nMaintain proper documentation and controls in areas of responsibility.\nReview existing work processes and identify opportunities to streamline, enhance, automate, or eliminate redundant activities to improve efficiency, control effectiveness, and overall productivity.\nAssist in audit request, ad-hoc actuarial investigations and corporate initiatives from time to time.\nAssist in preparing materials for the various Committees and Board meetings.\nJob Requirements\nMinimum Degree certification in Actuarial Science or any related field.\nMinimum 4 - 6 years of working experience in actuarial field.\nStrong mathematical and analytical skills\nGood communication skills, both written and spoken\nAble to work independently, self-motived and out-come oriented\nMeticulous with a keen eye for detail\nTeam player with good interpersonal skills and positive attitude\nProficient in Microsoft Office suite (Excel, Word, PPT, Access)\nIntermediate to advance knowledge of actuarial projection software, i.e., Prophet, DCS.",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-10-26",
+      "first_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 4,
+      "position_levels": [
+        "Manager"
+      ],
+      "posted_at": "2026-10-12",
+      "reopened_at": null,
+      "salary_max": 10800,
+      "salary_min": 7200,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "DCS",
+        "Microsoft Office",
+        "Results analysis",
+        "Valuation",
+        "Prophet",
+        "Mathematics",
+        "Cash Flow Projections",
+        "Embedded Value",
+        "VBA",
+        "Economics",
+        "Business Planning",
+        "Actuarial Science",
+        "Actuaries",
+        "Statistics"
+      ],
+      "source_job_id": "e4689fa148ddd57c7293a76e3919f733",
+      "source_job_post_id": "MCF-2026-1804791",
+      "status": "active",
+      "title": "Assistant Actuarial Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/assistant-actuarial-manager-tokio-marine-life-insurance-singapore-e4689fa148ddd57c7293a76e3919f733",
+      "vacancies": 2
+    },
     "e6f8758a9ebf7466bb0d38c6b908d71b": {
       "categories": [
         "Insurance"
@@ -2642,7 +2856,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-10T16:20:46+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2748,10 +2962,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": "2026-10-10T16:20:46+08:00",
-      "expires_at": "2026-10-09",
+      "expired_at": null,
+      "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-18T15:08:35+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2760,8 +2974,8 @@
       "position_levels": [
         "Executive"
       ],
-      "posted_at": "2026-09-18",
-      "reopened_at": null,
+      "posted_at": "2026-10-12",
+      "reopened_at": "2026-10-18T15:08:35+08:00",
       "salary_max": 7000,
       "salary_min": 5000,
       "salary_period": "Monthly",
@@ -2779,7 +2993,7 @@
       ],
       "source_job_id": "e88a8575f0ca7d49a29d3afcc31e5c0b",
       "source_job_post_id": "MCF-2026-1647525",
-      "status": "expired",
+      "status": "active",
       "title": "Actuarial Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analyst-united-overseas-insurance-e88a8575f0ca7d49a29d3afcc31e5c0b",
       "vacancies": 1
@@ -3486,6 +3700,17 @@
       "matching": 20,
       "new": 1,
       "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 17,
+      "checked_at": "2026-10-18T15:08:35+08:00",
+      "data_changed": true,
+      "expired": 8,
+      "fetched": 62,
+      "matching": 17,
+      "new": 4,
+      "reopened": 1,
       "status": "success"
     }
   ]
