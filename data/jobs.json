@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-18T15:08:35+08:00",
+  "data_changed_at": "2026-10-20T15:22:59+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -51,6 +51,58 @@
       "status": "active",
       "title": "Actuarial Analyst (Life Insurance)",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-analyst-michael-page-international-00f759a2f953e575f257bdf3b069dfbb",
+      "vacancies": 1
+    },
+    "013baa608f402af5101777580971d8d1": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "Role Overview\nThe Technical Underwriting Manager plays a critical role in shaping underwriting excellence, ensuring adherence to technical standards, and driving continuous improvement across the portfolio.\nReinsurance management oversees the purchase of reinsurance including internal treaty arrangements with Group and manages external facultative reinsurance purchases across the Business Unit ensuring coverage adequacy and optimization.\nThis role is part of the Underwriting Leadership team providing deep technical support to the Chief Underwriting Officer, LOB Heads and Underwriters, leading strategic underwriting initiatives, and contributing significantly to profitable business growth through robust governance, insights, and innovation.\nTechnical Leadership & Governance\nLead the implementation of underwriting strategies, technical standards, and risk appetite changes across the portfolio.\nEnsure compliance with internal governance frameworks, regulatory requirements, and global underwriting standards.\nDefine, update, and embed underwriting guidelines, frameworks, rating methodologies, and best practices.\nLead and support underwriting assurance activities, audits, compliance reviews, and readiness reviews to maintain strong risk controls.\nManage Underwriting empowerment and delegation across all Lines of Business.\nComplex Risk Review\nSupport Underwriters with non‑standard queries across all Lines of Business.\nProvide expert guidance to Underwriters on terms, conditions, mitigation strategies, and complex technical assessments e.g., Cut-Through Clauses, Downgrade Clauses, and LTA’s.\nReinsurance Management\nManage internal reinsurance treaties to Group, including structure alignment, renewals, documentation, and stakeholder coordination.\nOversee reinsurance coverage adequacy across the BU, including monitoring retentions/limits, aggregations, and coverage issues; escalate gaps and recommend optimizations.\nLead reinsurance data calls, ensuring timely, accurate submissions and reconciliation of exposure, premium, claims and bordereaux data.\nCoordinate and ensure governance over external facultative reinsurance purchases across the BU, including placement strategy, reinsurer engagement, terms negotiation support, approvals, and post-placement administration.\nOperational Excellence & Transformation\nLead high‑impact initiatives related to underwriting operational transformation, workflow optimization, and process efficiency.\nIdentify gaps or inefficiencies in underwriting processes and drive solutions to enhance consistency and turnaround time.\nContribute to thought leadership on emerging risks and product‑related developments.\nDigital & Data Enablement\nDrive adoption of digital underwriting tools, analytics, automation, and decision‑support technologies.\nPromote data‑driven decision‑making and enhance technical underwriting quality through better tools and insights.\nDelegated Authority Oversight\nOversee governance of delegated authorities and empowered underwriting structures.\nEnsure robust controls, audits, performance reviews, and compliance with underwriting governance frameworks.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-18",
+      "first_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 7,
+      "position_levels": [
+        "Professional"
+      ],
+      "posted_at": "2026-10-19",
+      "reopened_at": null,
+      "salary_max": 20000,
+      "salary_min": 13000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Negotiation",
+        "Optimization",
+        "Group Insurance",
+        "Regulatory Compliance",
+        "governance framework",
+        "Delegation",
+        "Documentation",
+        "Ratings Service",
+        "Renewals",
+        "Exposure Assessment",
+        "Underwriting Process",
+        "Auditing",
+        "Lead Sales Activities",
+        "Compliance Issues",
+        "Developing Frameworks",
+        "Aggregate Data"
+      ],
+      "source_job_id": "013baa608f402af5101777580971d8d1",
+      "source_job_post_id": "MCF-2026-1846023",
+      "status": "active",
+      "title": "Technical Underwriting & Reinsurance Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/technical-underwriting-reinsurance-manager-zurich-insurance-company-013baa608f402af5101777580971d8d1",
       "vacancies": 1
     },
     "03b612b436df75ee49b2f4bbebcb4736": {
@@ -120,7 +172,7 @@
       "expired_at": null,
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "West",
       "matched_criteria": [
         "Title: actuarial"
@@ -225,7 +277,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -258,6 +310,103 @@
       "status": "active",
       "title": "Actuarial Executive (Life Pricing)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-executive-income-insurance-0b57943947d4c56f1f705685a1bd6a75",
+      "vacancies": 1
+    },
+    "0c3420a9100092995f806d184bbe4ed6": {
+      "categories": [
+        "Consulting",
+        "Insurance",
+        "Professional Services"
+      ],
+      "company": "MSIG ASIA PTE. LTD.",
+      "company_uen": "200412216K",
+      "description": "Join our Actuarial Services team, where you will support in the provision of actuarial-related advice and services across our business units in Asia.\nResponsibilities\nQuarterly reserve reviews and report writing\nRegular portfolio monitoring\nData analytics\nStress testing\nYearly business planning\nPricing projects whenever required\nAutomation and streamlining of project workflows\nRequirements\nPursuing a (first-class) degree in Actuarial Science, Computer Science, Engineering, Mathematics, Statistics, or any other related quantitative fields\nInternship experience in actuarial, risk management and/or finance roles in the general insurance industry will be an advantage\nHands-on experience in Python and other programming languages\nDetail oriented, excellent problem-solving skills; comfortable with learning new concepts\nExcellent communication and interpersonal skills, ability to work as part of a team and comfortable with meeting new people\nHighly motivated, committed, and goal oriented",
+      "employment_types": [
+        "Internship/Attachment"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-18",
+      "first_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 0,
+      "position_levels": [
+        "Fresh/entry level"
+      ],
+      "posted_at": "2026-10-19",
+      "reopened_at": null,
+      "salary_max": 1000,
+      "salary_min": 1000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Teamwork",
+        "Detail Oriented",
+        "Programming Languages",
+        "Mathematics",
+        "Actuarial Support",
+        "Problem Solving",
+        "Computer Science",
+        "Actuarial Science",
+        "Python",
+        "Engineering",
+        "Actuarial qualifications",
+        "Actuarial Services",
+        "Insurance industry"
+      ],
+      "source_job_id": "0c3420a9100092995f806d184bbe4ed6",
+      "source_job_post_id": "MCF-2026-1846874",
+      "status": "active",
+      "title": "Intern, Actuarial Services",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-0c3420a9100092995f806d184bbe4ed6",
+      "vacancies": 1
+    },
+    "0d242e0c7ef51b7a3ece1f2d0bf71d90": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "UNITED OVERSEAS INSURANCE LIMITED",
+      "company_uen": "197100152R",
+      "description": "The Underwriting & Operations Division is responsible for all underwriting governance, portfolio management, product & pricing strategy, reinsurance, and operations of the Company.\nJob Purpose\nAs an Actuarial Analyst, you will play a key role in actuarial function, with responsibilities covering reserve estimation and financial reporting, business forecast and budgeting, portfolio reviews, and capital modelling to achieve the company’s underwriting profit, shareholder’s fund, and ROE targets. You will be supporting the company’s strategy in enhancing underwriting capabilities, business expansion, portfolio management, pricing, reserving, data analytics, reinsurance, and retention strategy, in line with the Company’s risk appetite and growth plans.\nYour main responsibilities would include:\nPerform actuarial valuations to ensure company’s reserves are adequate and comply with regulatory requirements.\nDevelop, maintain, and enhance models to support key KPIs such as business forecast and budgeting, top- & bottom-line performance tracking for all lines of business, channels, underwriting teams, and capital adequacy in line with company policy and regulatory requirements.\nUnderstand the company’s underwriting strategy, portfolio structure, product offerings, reinsurance management strategy and system data architecture.\nPerform product pricing activities, design and develop pricing models that meet internal and regulatory requirements, and maintain quotation tools and premium calculators.\nCollaborate with internal stakeholders (underwriting, business team, reinsurance, product, claims, and finance) to perform portfolio reviews and provide insights to support rectification strategy to improve the portfolios’ profitability.\nCollaborate with the IT team on data extraction to support analysis requirements and develop Power BI dashboards for the team.\nAnalyse claims data and other relevant datasets to identify trends, experiences deviation, and potential reserve risks.\nPerform scenario analyses, stress testing, and sensitivity testing to support capital and risk management.\nIdentify optimal use of reinsurance and retention strategy to achieve target risk and rewards balancing along the efficiency frontier.\nSupport technical accounting and commutation calculations.\nSupport data analytics work and deliver continuous improvements to ensure high-quality resolution in terms of data granularity and accuracy.\nUndertake any other duties as may be assigned.\nRequirements\nBachelor’s degree in Actuarial, Mathematics, Statistics, or related field.\nPrior internship experience in reserving, regulatory and financial reporting (e.g. MAS reporting & IFRS 17), budgeting and forecast, capital modelling and management, pricing, and portfolio management for general insurance is a plus.\nProficiency in Microsoft Office, PowerBI, and/or any statistical software such as SAS.\nProficiency in programming languages, such as SQL, VBA, python an advantage.\nFluency in English. Fluency in other languages is a plus.\nStrong analytical mindset, problem solving, good interpersonal and communication skills.\nMeticulous, organised, and able to multi-task efficiently and produce innovative solutions.\nProven ability to work both independently and collaboratively within a team.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-18",
+      "first_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-10-19",
+      "reopened_at": null,
+      "salary_max": 6000,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Analytical Thinking",
+        "Actuarial Support",
+        "Fluent English",
+        "Company Valuation",
+        "Multitasking",
+        "Liaising With Internal Stakeholders",
+        "General Insurance",
+        "Business Performance Analysis",
+        "Statistics",
+        "Portfolio insurance"
+      ],
+      "source_job_id": "0d242e0c7ef51b7a3ece1f2d0bf71d90",
+      "source_job_post_id": "MCF-2026-1851062",
+      "status": "active",
+      "title": "[Entry Level] Actuarial Analyst",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/entry-level-actuarial-analyst-united-overseas-insurance-0d242e0c7ef51b7a3ece1f2d0bf71d90",
       "vacancies": 1
     },
     "10e3cd4cb4629e082572a715cc9e2443": {
@@ -325,7 +474,7 @@
       "expired_at": null,
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -635,6 +784,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-manager-randstad-3d85bb161fbb0c9b888366535dddddbc",
       "vacancies": 1
     },
+    "3e2db5d6851311c3fc2e83cce0bc8ec7": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "CHUBB ASIA PACIFIC PTE. LTD.",
+      "company_uen": "197500425H",
+      "description": "Purpose\nThe Global Services & Captive Fronting Solutions Manager, Asia is responsible for the management of Outwards/Produced and Inwards/Servicing performance with respect to Multinational clients and the delivery of timely / high-quality service. A core focus of this role is on Proposition Development & Profitable Growth, engaging with Brokers and Clients to position Chubb as a leader for Multinational Programs, to identify and assist in new opportunity development\nThey are also responsible for the management of Captive Programs and Alternative Risk Transfer solutions for Asia, bringing Chubb’s global capabilities to this region as it grows in importance. The role brings team leadership, with a proposition development and profitable growth focus, to be a key part of our Major Accounts Division Value Proposition.\nResponsibilities\nDrive growth of the multinational and captive portfolio through client and broker engagement.\nLead or support client and broker meetings, stewardship sessions and new business pitches.\nPromote Chubb’s multinational programme and captive fronting capabilities in the market.\nIdentify and develop new business opportunities in partnership with underwriters and sales teams.\nSupport profitable growth through cross-sell, renewal strategy and opportunity conversion.\nOwn service excellence across allocated accounts, including SLA management, query resolution and quality control.\nEnsure programmes are implemented and maintained to agreed service standards and corporate guidelines.\nBuild and maintain strong relationships with clients, brokers, Chubb offices and other internal stakeholders.\nSupport captive programme management, including RFPs, account servicing and alternative risk structures.\nWork with Legal, Compliance, Credit Management and other specialist teams on technical and operational matters.\nAct as a technical focal point for multinational programme matters and support compliance with internal and external requirements.\nContribute to the development of underwriting processes, protocols and service propositions.\nLead continuous improvement initiatives to enhance the customer journey, operating model and SOPs.\nCoach, develop and support team members to ensure strong performance and alignment to Chubb values.\nUndertake other duties, projects or functions as assigned by senior management.\nQualifications\nAt least 10 years’ experience in underwriting, broking, multinational servicing or a related insurance leadership role.\nGood knowledge of multinational insurance programmes, captive solutions, fronting structures and the broking environment.\nProven ability to be able to lead and influence members of a team.\nProven ability to lead, motivate and drive a strong customer service culture within the team.\nProven ability to act as a technical referral point in relation to Multinational Business\nProven ability to manage Global Corporate Service Standards\nExpert in depth knowledge of Multinational Business\nExperience of servicing multinational insurance programmes is essential.\nExcellent stakeholder management skills and experience of managing within a multi-country matrix environment. Flexible, influential style.\nRecognized bachelor’s degree\nRelevant professional/insurance qualifications",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-02",
+      "first_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: CHUBB ASIA PACIFIC PTE. LTD."
+      ],
+      "minimum_years_experience": 10,
+      "position_levels": [
+        "Middle Management"
+      ],
+      "posted_at": "2026-10-19",
+      "reopened_at": null,
+      "salary_max": 22500,
+      "salary_min": 17000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Matrix Management",
+        "Handling Queries",
+        "International Business",
+        "Service Planning and Implementation",
+        "Product Stewardship",
+        "Renewals",
+        "Referral Marketing",
+        "Brokerage Management",
+        "Business Standards",
+        "Experience With Insurance Sector",
+        "Sla Management",
+        "Team Leadership",
+        "Liaising With Internal Stakeholders",
+        "Create Sales Opportunities",
+        "improve customer service",
+        "Insurance industry"
+      ],
+      "source_job_id": "3e2db5d6851311c3fc2e83cce0bc8ec7",
+      "source_job_post_id": "MCF-2026-1848118",
+      "status": "active",
+      "title": "Global Services & Captive Fronting Solutions Manager, Asia",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/global-services-captive-fronting-solutions-manager-asia-chubb-asia-pacific-3e2db5d6851311c3fc2e83cce0bc8ec7",
+      "vacancies": 1
+    },
     "3f7ec6f5a757c86451d76814b97e1c35": {
       "categories": [
         "Insurance"
@@ -705,7 +906,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -757,7 +958,7 @@
       "expired_at": null,
       "expires_at": "2026-10-26",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -866,7 +1067,7 @@
       "expired_at": null,
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1457,7 +1658,7 @@
       "expired_at": null,
       "expires_at": "2026-11-13",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1561,7 +1762,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1664,7 +1865,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -2088,7 +2289,7 @@
       "expired_at": null,
       "expires_at": "2026-10-21",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2187,7 +2388,7 @@
       "expired_at": null,
       "expires_at": "2026-11-03",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2501,7 +2702,7 @@
       "expired_at": null,
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2603,7 +2804,7 @@
       "expired_at": null,
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -2805,7 +3006,7 @@
       "expired_at": null,
       "expires_at": "2026-10-26",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2856,7 +3057,7 @@
       "expired_at": null,
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2965,7 +3166,7 @@
       "expired_at": null,
       "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-18T15:08:35+08:00",
+      "last_seen_at": "2026-10-20T15:22:59+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2977,7 +3178,7 @@
       "posted_at": "2026-10-12",
       "reopened_at": "2026-10-18T15:08:35+08:00",
       "salary_max": 7000,
-      "salary_min": 5000,
+      "salary_min": 6000,
       "salary_period": "Monthly",
       "skills": [
         "Analytical Thinking",
@@ -2994,7 +3195,7 @@
       "source_job_id": "e88a8575f0ca7d49a29d3afcc31e5c0b",
       "source_job_post_id": "MCF-2026-1647525",
       "status": "active",
-      "title": "Actuarial Analyst",
+      "title": "Actuarial Analyst (General Insurance)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analyst-united-overseas-insurance-e88a8575f0ca7d49a29d3afcc31e5c0b",
       "vacancies": 1
     },
@@ -3711,6 +3912,17 @@
       "matching": 17,
       "new": 4,
       "reopened": 1,
+      "status": "success"
+    },
+    {
+      "active": 21,
+      "checked_at": "2026-10-20T15:22:59+08:00",
+      "data_changed": true,
+      "expired": 0,
+      "fetched": 66,
+      "matching": 21,
+      "new": 4,
+      "reopened": 0,
       "status": "success"
     }
   ]
