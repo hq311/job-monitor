@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-20T15:22:59+08:00",
+  "data_changed_at": "2026-10-24T15:06:54+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -66,7 +66,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -169,7 +169,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-24T15:06:54+08:00",
       "expires_at": "2026-10-22",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
       "last_seen_at": "2026-10-20T15:22:59+08:00",
@@ -205,7 +205,7 @@
       ],
       "source_job_id": "06406b123c03618c17f4bb9a61e35073",
       "source_job_post_id": "MCF-2026-1672147",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Valuation",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-valuation-prudential-assurance-company-singapore-06406b123c03618c17f4bb9a61e35073",
       "vacancies": 1
@@ -277,7 +277,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -327,7 +327,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -474,7 +474,7 @@
       "expired_at": null,
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -509,6 +509,57 @@
       "status": "active",
       "title": "Actuarial Senior Officer/Assistant Manager/Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-senior-officerassistant-managermanager-china-life-insurance-18fb1ad0e2c626070d2ce40e3930c7f0",
+      "vacancies": 1
+    },
+    "1c06a257079499aaeacded7780517f5b": {
+      "categories": [
+        "Insurance",
+        "Professional Services",
+        "Others"
+      ],
+      "company": "AIA SINGAPORE PRIVATE LIMITED",
+      "company_uen": "201106386R",
+      "description": "Regular reporting and analysis (60%)\nPerform IFRS reporting tasks and take appropriate actions to address any potential issues in a timely and effective manner.\nAnalyze OPAT drivers, CSM movements, and assist in providing explanations of financial results to local management and Group Office.\nSupport the preparation of management reports, business analysis and reporting packs.\nLeverage data, automation and emerging technologies, including AI-enabled solutions, to improve reporting processes, analytics and operational efficiency.\nSystem and Model Maintenance (30%)\nMaintain actuarial models and reporting systems to support financial reporting and business requirements.\nSupport implementation and maintenance of new products, model enhancements and system changes, ensuring alignment with business and pricing requirements.\nAssist in system testing, model validation, reconciliations, user acceptance testing (UAT) and issue resolution.\nDocument system and model changes, including preparation of change logs, testing evidence and maintenance of governance documentation.\nSupport ongoing improvements to actuarial systems, processes and controls to enhance efficiency, reliability and data quality.\nStrategic planning and projects (10%)\nSupport the annual strategic planning exercise, including the enhancement of models for the budget exercise, and preparation of management reports / presentations\nSupport company projects and initiatives from a financial reporting perspective\nMinimum Job Requirements:\nEducation – University graduate (Major in Actuarial Science, Mathematics, Statistics, or related discipline)\nExperience – At least 1-2 years of life insurance-related actuarial working experience\nCertifications/Licences – Progression in, or intention to pursue, professional actuarial examinations\nTechnical Skills – Knowledge of actuarial software and programming languages such as Python, R, VBA, SQL or SAS would be an advantage",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-11-20",
+      "first_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Junior Executive"
+      ],
+      "posted_at": "2026-10-21",
+      "reopened_at": null,
+      "salary_max": 6500,
+      "salary_min": 4000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Certifications",
+        "SAS",
+        "R Programming",
+        "Technical Skills",
+        "Valuation",
+        "Mathematics",
+        "VBA",
+        "SQL",
+        "Actuarial Science",
+        "Python",
+        "Actuarial qualifications",
+        "Statistics"
+      ],
+      "source_job_id": "1c06a257079499aaeacded7780517f5b",
+      "source_job_post_id": "MCF-2026-1868046",
+      "status": "active",
+      "title": "Actuarial Analyst",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analyst-aia-singapore-1c06a257079499aaeacded7780517f5b",
       "vacancies": 1
     },
     "20fff77b9b0af89cc5ec7ce4dc4fbf6d": {
@@ -797,7 +848,7 @@
       "expired_at": null,
       "expires_at": "2026-11-02",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -906,7 +957,7 @@
       "expired_at": null,
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -958,7 +1009,7 @@
       "expired_at": null,
       "expires_at": "2026-10-26",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1067,7 +1118,7 @@
       "expired_at": null,
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1658,7 +1709,7 @@
       "expired_at": null,
       "expires_at": "2026-11-13",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1762,7 +1813,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1862,10 +1913,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-24T15:06:54+08:00",
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -1896,7 +1947,7 @@
       ],
       "source_job_id": "95735e4c8ce8fe7c2d6d3526ecd4a1a5",
       "source_job_post_id": "MCF-2026-1692159",
-      "status": "active",
+      "status": "expired",
       "title": "Marketing Actuary (Life/Health)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/marketing-actuary-general-reinsurance-ag-singapore-branch-95735e4c8ce8fe7c2d6d3526ecd4a1a5",
       "vacancies": 1
@@ -2286,7 +2337,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-24T15:06:54+08:00",
       "expires_at": "2026-10-21",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
       "last_seen_at": "2026-10-20T15:22:59+08:00",
@@ -2323,7 +2374,7 @@
       ],
       "source_job_id": "bbe939cb2765b116eb4ce7fa871f29da",
       "source_job_post_id": "MCF-2026-1769198",
-      "status": "active",
+      "status": "expired",
       "title": "Life & Health Actuarial Expert",
       "url": "https://www.mycareersfuture.gov.sg/job/others/life-health-actuarial-expert-allianz-se-bbe939cb2765b116eb4ce7fa871f29da",
       "vacancies": 1
@@ -2388,7 +2439,7 @@
       "expired_at": null,
       "expires_at": "2026-11-03",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2702,7 +2753,7 @@
       "expired_at": null,
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2804,7 +2855,7 @@
       "expired_at": null,
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -3006,7 +3057,7 @@
       "expired_at": null,
       "expires_at": "2026-10-26",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3054,10 +3105,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-24T15:06:54+08:00",
       "expires_at": "2026-10-24",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3068,7 +3119,7 @@
       ],
       "posted_at": "2026-09-24",
       "reopened_at": null,
-      "salary_max": 7500,
+      "salary_max": 8500,
       "salary_min": 4600,
       "salary_period": "Monthly",
       "skills": [
@@ -3094,7 +3145,7 @@
       ],
       "source_job_id": "e6f8758a9ebf7466bb0d38c6b908d71b",
       "source_job_post_id": "MCF-2026-1692065",
-      "status": "active",
+      "status": "expired",
       "title": "Analyst / Senior Analyst (Actuarial)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/analyst-senior-analyst-uib-asia-reinsurance-brokers-e6f8758a9ebf7466bb0d38c6b908d71b",
       "vacancies": 1
@@ -3166,7 +3217,7 @@
       "expired_at": null,
       "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-20T15:22:59+08:00",
+      "last_seen_at": "2026-10-24T15:06:54+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3922,6 +3973,17 @@
       "fetched": 66,
       "matching": 21,
       "new": 4,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 18,
+      "checked_at": "2026-10-24T15:06:54+08:00",
+      "data_changed": true,
+      "expired": 4,
+      "fetched": 66,
+      "matching": 20,
+      "new": 1,
       "reopened": 0,
       "status": "success"
     }
