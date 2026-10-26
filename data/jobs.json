@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-24T15:06:54+08:00",
+  "data_changed_at": "2026-10-26T15:39:55+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -14,7 +14,7 @@
       "expired_at": null,
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -66,7 +66,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -274,7 +274,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-26T15:39:55+08:00",
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
       "last_seen_at": "2026-10-24T15:06:54+08:00",
@@ -307,7 +307,7 @@
       ],
       "source_job_id": "0b57943947d4c56f1f705685a1bd6a75",
       "source_job_post_id": "MCF-2026-1695395",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Executive (Life Pricing)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-executive-income-insurance-0b57943947d4c56f1f705685a1bd6a75",
       "vacancies": 1
@@ -327,7 +327,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -474,7 +474,7 @@
       "expired_at": null,
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -527,7 +527,7 @@
       "expired_at": null,
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -848,7 +848,7 @@
       "expired_at": null,
       "expires_at": "2026-11-02",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -954,7 +954,7 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-26T15:39:55+08:00",
       "expires_at": "2026-10-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
       "last_seen_at": "2026-10-24T15:06:54+08:00",
@@ -991,7 +991,7 @@
       ],
       "source_job_id": "44835af457a39614aee46ffef8334f09",
       "source_job_post_id": "MCF-2026-1700432",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Consulting Manager (P&C)",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-consulting-manager-randstad-44835af457a39614aee46ffef8334f09",
       "vacancies": 1
@@ -1006,10 +1006,10 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-26T15:39:55+08:00",
       "expires_at": "2026-10-26",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1043,7 +1043,7 @@
       ],
       "source_job_id": "474ad5b538a4aa1b2a29e16aa6fdab88",
       "source_job_post_id": "MCF-2026-1797185",
-      "status": "active",
+      "status": "expired",
       "title": "Divisional Finance Officer, Consumer Lines",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/divisional-finance-officer-consumer-lines-chubb-asia-pacific-474ad5b538a4aa1b2a29e16aa6fdab88",
       "vacancies": 1
@@ -1118,7 +1118,7 @@
       "expired_at": null,
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1709,7 +1709,7 @@
       "expired_at": null,
       "expires_at": "2026-11-13",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1813,7 +1813,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -2439,7 +2439,7 @@
       "expired_at": null,
       "expires_at": "2026-11-03",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2753,7 +2753,7 @@
       "expired_at": null,
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2855,7 +2855,7 @@
       "expired_at": null,
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -3054,10 +3054,10 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-26T15:39:55+08:00",
       "expires_at": "2026-10-26",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3090,7 +3090,7 @@
       ],
       "source_job_id": "e4689fa148ddd57c7293a76e3919f733",
       "source_job_post_id": "MCF-2026-1804791",
-      "status": "active",
+      "status": "expired",
       "title": "Assistant Actuarial Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/assistant-actuarial-manager-tokio-marine-life-insurance-singapore-e4689fa148ddd57c7293a76e3919f733",
       "vacancies": 2
@@ -3217,7 +3217,7 @@
       "expired_at": null,
       "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-26T15:39:55+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3984,6 +3984,17 @@
       "fetched": 66,
       "matching": 20,
       "new": 1,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 14,
+      "checked_at": "2026-10-26T15:39:55+08:00",
+      "data_changed": true,
+      "expired": 4,
+      "fetched": 58,
+      "matching": 16,
+      "new": 0,
       "reopened": 0,
       "status": "success"
     }
