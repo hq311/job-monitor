@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-10-26T15:39:55+08:00",
+  "data_changed_at": "2026-10-30T16:26:09+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -11,7 +11,7 @@
       "employment_types": [
         "Contract"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-30T16:26:09+08:00",
       "expires_at": "2026-10-28",
       "first_seen_at": "2026-09-28T16:33:08+08:00",
       "last_seen_at": "2026-10-26T15:39:55+08:00",
@@ -48,7 +48,7 @@
       ],
       "source_job_id": "00f759a2f953e575f257bdf3b069dfbb",
       "source_job_post_id": "MCF-2026-1711118",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Analyst (Life Insurance)",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-analyst-michael-page-international-00f759a2f953e575f257bdf3b069dfbb",
       "vacancies": 1
@@ -66,7 +66,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -327,7 +327,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -474,7 +474,7 @@
       "expired_at": null,
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -527,7 +527,7 @@
       "expired_at": null,
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -732,10 +732,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": "2026-10-08T16:44:39+08:00",
-      "expires_at": "2026-10-05",
+      "expired_at": null,
+      "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-10-04T16:16:31+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -744,8 +744,8 @@
       "position_levels": [
         "Professional"
       ],
-      "posted_at": "2026-09-21",
-      "reopened_at": null,
+      "posted_at": "2026-10-26",
+      "reopened_at": "2026-10-30T16:26:09+08:00",
       "salary_max": 7500,
       "salary_min": 4000,
       "salary_period": "Monthly",
@@ -771,7 +771,7 @@
       ],
       "source_job_id": "3c79e9aeca01c71ebadb4b2a9cdc8868",
       "source_job_post_id": "MCF-2026-1666352",
-      "status": "expired",
+      "status": "active",
       "title": "ASSOCIATE, ACTUARIAL SERVICES",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/associate-actuarial-services-hsbc-life-3c79e9aeca01c71ebadb4b2a9cdc8868",
       "vacancies": 1
@@ -848,7 +848,7 @@
       "expired_at": null,
       "expires_at": "2026-11-02",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1118,7 +1118,7 @@
       "expired_at": null,
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1709,7 +1709,7 @@
       "expired_at": null,
       "expires_at": "2026-11-13",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1813,7 +1813,7 @@
       "expired_at": null,
       "expires_at": "2026-10-31",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -2439,7 +2439,7 @@
       "expired_at": null,
       "expires_at": "2026-11-03",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2753,7 +2753,7 @@
       "expired_at": null,
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2800,10 +2800,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": "2026-10-08T16:44:39+08:00",
-      "expires_at": "2026-10-08",
+      "expired_at": null,
+      "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-08T16:44:39+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2812,8 +2812,8 @@
       "position_levels": [
         "Professional"
       ],
-      "posted_at": "2026-09-24",
-      "reopened_at": null,
+      "posted_at": "2026-10-26",
+      "reopened_at": "2026-10-30T16:26:09+08:00",
       "salary_max": 8000,
       "salary_min": 4000,
       "salary_period": "Monthly",
@@ -2837,7 +2837,7 @@
       ],
       "source_job_id": "d3c4c04679f1f7eaa9d3e2530c10c867",
       "source_job_post_id": "MCF-2026-1691869",
-      "status": "expired",
+      "status": "active",
       "title": "ASSOCIATE, ACTUARIAL SERVICES",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/associate-actuarial-services-hsbc-life-d3c4c04679f1f7eaa9d3e2530c10c867",
       "vacancies": 1
@@ -2852,10 +2852,10 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-10-30T16:26:09+08:00",
       "expires_at": "2026-10-30",
       "first_seen_at": "2026-10-02T16:17:47+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -2886,7 +2886,7 @@
       ],
       "source_job_id": "d5c5e9496fae90ed4fd3323e6c39ba38",
       "source_job_post_id": "MCF-2026-1727836",
-      "status": "active",
+      "status": "expired",
       "title": "Senior Actuarial Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-actuarial-analyst-snapfind-talent-solutions-d5c5e9496fae90ed4fd3323e6c39ba38",
       "vacancies": 1
@@ -3105,10 +3105,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": "2026-10-24T15:06:54+08:00",
-      "expires_at": "2026-10-24",
+      "expired_at": null,
+      "expires_at": "2026-11-10",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-10-24T15:06:54+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3117,8 +3117,8 @@
       "position_levels": [
         "Executive"
       ],
-      "posted_at": "2026-09-24",
-      "reopened_at": null,
+      "posted_at": "2026-10-27",
+      "reopened_at": "2026-10-30T16:26:09+08:00",
       "salary_max": 8500,
       "salary_min": 4600,
       "salary_period": "Monthly",
@@ -3145,7 +3145,7 @@
       ],
       "source_job_id": "e6f8758a9ebf7466bb0d38c6b908d71b",
       "source_job_post_id": "MCF-2026-1692065",
-      "status": "expired",
+      "status": "active",
       "title": "Analyst / Senior Analyst (Actuarial)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/analyst-senior-analyst-uib-asia-reinsurance-brokers-e6f8758a9ebf7466bb0d38c6b908d71b",
       "vacancies": 1
@@ -3217,7 +3217,7 @@
       "expired_at": null,
       "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-10-26T15:39:55+08:00",
+      "last_seen_at": "2026-10-30T16:26:09+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3996,6 +3996,17 @@
       "matching": 16,
       "new": 0,
       "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 15,
+      "checked_at": "2026-10-30T16:26:09+08:00",
+      "data_changed": true,
+      "expired": 2,
+      "fetched": 59,
+      "matching": 16,
+      "new": 0,
+      "reopened": 3,
       "status": "success"
     }
   ]
