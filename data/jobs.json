@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-11-01T16:59:39+08:00",
+  "data_changed_at": "2026-11-03T17:20:08+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -66,7 +66,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -327,7 +327,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -474,7 +474,7 @@
       "expired_at": null,
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -527,7 +527,7 @@
       "expired_at": null,
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -735,7 +735,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -845,7 +845,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-03T17:20:08+08:00",
       "expires_at": "2026-11-02",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
       "last_seen_at": "2026-11-01T16:59:39+08:00",
@@ -882,7 +882,7 @@
       ],
       "source_job_id": "3e2db5d6851311c3fc2e83cce0bc8ec7",
       "source_job_post_id": "MCF-2026-1848118",
-      "status": "active",
+      "status": "expired",
       "title": "Global Services & Captive Fronting Solutions Manager, Asia",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/global-services-captive-fronting-solutions-manager-asia-chubb-asia-pacific-3e2db5d6851311c3fc2e83cce0bc8ec7",
       "vacancies": 1
@@ -1118,7 +1118,7 @@
       "expired_at": null,
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1709,7 +1709,7 @@
       "expired_at": null,
       "expires_at": "2026-11-13",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1747,6 +1747,54 @@
       "title": "Actuarial Modelling Senior Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-modelling-senior-manager-lma-recruitment-singapore-84ed0e9712bbe8bf5df859eb0fe613ca",
       "vacancies": 1
+    },
+    "8bb2a46d44cb7d5ffd79b2c8fae410fa": {
+      "categories": [
+        "Consulting"
+      ],
+      "company": "KPMG SERVICES PTE. LTD.",
+      "company_uen": "200003956G",
+      "description": "The KPMG Actuarial Services team offers innovative business solutions to help clients navigate the rapidly changing insurance industry. Our professionals have sound technical skills with the ability to cut through complex issues to help our clients make more effective and efficient business decisions.\nWe invite highly motivated, dynamic professionals to join our growing Actuarial practice. Successful candidates will play a significant role in offering a wide range of actuarial consultancy services in the insurance and financial services industry.\nThe role involves:\nManaging engagement teams on a variety of general insurance actuarial advisory engagements related to business planning, capital and risk management, reserving and pricing reviews, capital modelling, and mergers and acquisitions.\nContributing to IFRS 17 projects which can vary from financial impact assessments, actuarial modelling, technical support, implementation execution, systems testing and results optimisation.\nLiaising with various internal and external stakeholders as part of engagements in order to scope projects, discuss analysis and prepare reports.\nReviewing or building financial models to support various business planning / forecasting, corporate financing and capital management projects.\nSupporting the actuarial reviews for our general insurance and reinsurance audit clients.\nSupporting business development activities and the general development of the practice.\nThe ideal candidate should have:\nPossess a recognised degree or relevant qualification, preferably along with a recognised actuarial qualification.\nAt least 3 years of experience in general insurance actuarial practice, preferably within the ASEAN market.\nStrong experience in SAS, VBA, python and R.\nPossess strong communication, analytical and problem-solving skills with the ability to work independently.\nOnly shortlisted candidates will be contacted by KPMG Talent Acquisition team, personal data collected will be used for recruitment purposes only.\nAt KPMG in Singapore we are committed to creating a diverse and inclusive workplace. We believe that diversity of thought, background and experience strengthens relationships and delivers meaningful benefits to our people, our clients and communities. As an equal opportunity employer, all qualified applicants will receive consideration for employment regardless of age, race, gender identity or expression, colour, marital status, religion, sexual orientation, disability, or other non-merit factors. We celebrate the different talents that our people bring and support every staff member in their journey to achieve personal and professional growth. One of the ways we do this is through Take Charge: Flexi-work, our flexible working framework which enables agile and innovative teams to help deliver our business goals.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-02",
+      "first_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-11-02",
+      "reopened_at": null,
+      "salary_max": 9000,
+      "salary_min": 4500,
+      "salary_period": "Monthly",
+      "skills": [
+        "IFRS",
+        "SAS",
+        "R Programming",
+        "Reinsurance",
+        "Capital Management",
+        "VBA",
+        "Actuarial Consulting",
+        "General Insurance",
+        "Python",
+        "Financial Modelling",
+        "Actuarial Services",
+        "Corporate Finance"
+      ],
+      "source_job_id": "8bb2a46d44cb7d5ffd79b2c8fae410fa",
+      "source_job_post_id": "MCF-2026-1942699",
+      "status": "active",
+      "title": "Financial Services Consulting (Non-Life Actuarial), Senior Associate / Assistant Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/financial-services-consulting-senior-associate-assistant-manager-kpmg-services-8bb2a46d44cb7d5ffd79b2c8fae410fa",
+      "vacancies": 5
     },
     "8c7be77271e273622fa50fba318bc53d": {
       "categories": [
@@ -2238,7 +2286,7 @@
       "expired_at": null,
       "expires_at": "2026-11-30",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -2436,10 +2484,10 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-03T17:20:08+08:00",
       "expires_at": "2026-11-03",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2475,7 +2523,7 @@
       ],
       "source_job_id": "be9724597831aa7caeafb03acccf569d",
       "source_job_post_id": "MCF-2026-1245894",
-      "status": "active",
+      "status": "expired",
       "title": "Assistant Manager, Actuarial",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/assistant-manager-actuarial-cigna-europe-insurance-company-sa-nv-singapore-branch-be9724597831aa7caeafb03acccf569d",
       "vacancies": 1
@@ -2753,7 +2801,7 @@
       "expired_at": null,
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2803,7 +2851,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3108,7 +3156,7 @@
       "expired_at": null,
       "expires_at": "2026-11-10",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3217,7 +3265,7 @@
       "expired_at": null,
       "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-11-01T16:59:39+08:00",
+      "last_seen_at": "2026-11-03T17:20:08+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -4018,6 +4066,17 @@
       "matching": 15,
       "new": 0,
       "reopened": 1,
+      "status": "success"
+    },
+    {
+      "active": 14,
+      "checked_at": "2026-11-03T17:20:08+08:00",
+      "data_changed": true,
+      "expired": 2,
+      "fetched": 57,
+      "matching": 15,
+      "new": 1,
+      "reopened": 0,
       "status": "success"
     }
   ]
