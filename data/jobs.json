@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-11-03T17:20:08+08:00",
+  "data_changed_at": "2026-11-07T16:37:13+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -66,7 +66,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -327,7 +327,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -471,7 +471,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-07T16:37:13+08:00",
       "expires_at": "2026-11-05",
       "first_seen_at": "2026-09-01T19:14:05+08:00",
       "last_seen_at": "2026-11-03T17:20:08+08:00",
@@ -506,7 +506,7 @@
       ],
       "source_job_id": "18fb1ad0e2c626070d2ce40e3930c7f0",
       "source_job_post_id": "MCF-2026-1527438",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Senior Officer/Assistant Manager/Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-senior-officerassistant-managermanager-china-life-insurance-18fb1ad0e2c626070d2ce40e3930c7f0",
       "vacancies": 1
@@ -527,7 +527,7 @@
       "expired_at": null,
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -722,6 +722,62 @@
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/vice-president-modeling-hsbc-life-hsbc-life-33ab4dde10a233f76fa0e41bcf90f7a1",
       "vacancies": 1
     },
+    "3a17b6e6f1216a201f218f42514eec44": {
+      "categories": [
+        "Banking and Finance",
+        "Consulting",
+        "Insurance",
+        "Professional Services"
+      ],
+      "company": "ERNST & YOUNG ADVISORY PTE. LTD.",
+      "company_uen": "198905395E",
+      "description": "At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\nThe Opportunity\nAs part of our life actuarial team, you’ll focus on high-impact opportunities to apply your knowledge and experience that will shape our services. You’ll build valuable relationships with clients and develop strong capabilities, through both formal training and working with senior mentors and talented colleagues. You will be at the forefront of issues that are shaping the insurance industry in Asia and gain a wide exposure to a diverse range of actuarial projects.\nYour Key Responsibilities\nAs a Senior Consultant in the Actuarial team, you will be assisting and leading the delivery of a wide range of client engagements, leading or working as part of a project team, relating to IFRS 17, Appointed Actuary work, actuarial valuation, pricing and product development, actuarial modelling, Merger & Acquisitions (M&A) and due diligence. You will also be performing evaluation in areas related to financial risk, product distribution and capital issues. You will also work with advanced financial modeling approaches and systems, e.g. designing valuation and Asset Liability Management (ALM) frameworks.\nSkills and Attributes for Success\nGood understanding of economic or market issues and the ability to interpret their impact on clients\nPossess strong interpersonal and teaming skills\nHas strong analytical and creative skills\nLeverage technology to continually learn, improve service delivery and maintain our leading-edge best practices\nTo Qualify for the role, you must have\nMin 3 years of experience in the life actuarial team or an actuarial consulting firm\nNewly or Nearly qualified with either the Institute and Faculty of Actuaries (UK), the Society of Actuaries (US) or the Institute of Actuaries of Australia\nGood knowledge of Prophet software\nGood written and verbal communication skills\nIdeally, you’ll also have\nDepth of experience in at least one of the following areas:\nFinancial modeling\nFinancial and regulatory reporting\nProduct and distribution strategy\nERM / Solvency II\nM&A due diligence\nWhat we look for\nHighly motivated individuals with excellent problem-solving skills and the ability to prioritize shifting workloads in a rapidly changing industry. An effective communicator, you’ll be a confident team player that collaborates with people from various teams while looking to develop your career in a dynamic organization.\nWhat working at EY offers\nWe offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. We also offer you:\nSupport, coaching and feedback from some of the most engaging colleagues around\nOpportunities to develop new skills and progress your career\nThe freedom and flexibility to handle your role in a way that’s right for you\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible.",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-06",
+      "first_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-11-06",
+      "reopened_at": null,
+      "salary_max": 11060,
+      "salary_min": 5850,
+      "salary_period": "Monthly",
+      "skills": [
+        "Distribution Strategies",
+        "Valuation",
+        "Administrative Work",
+        "Reinsurance",
+        "M&A due diligence",
+        "Interpersonal Skills",
+        "Technology-Enabled Learning Delivery",
+        "Client Perspectives",
+        "Actuarial Science",
+        "General Insurance",
+        "Life Insurance",
+        "Financial Modelling",
+        "Service Delivery Management",
+        "Creativity",
+        "Regulatory Reporting",
+        "Solvency II"
+      ],
+      "source_job_id": "3a17b6e6f1216a201f218f42514eec44",
+      "source_job_post_id": "MCF-2026-1971583",
+      "status": "active",
+      "title": "Actuarial Life Insurance (Financial Services) Senior Consultant, Risk Consulting",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-life-insurance-senior-consultant-risk-consulting-ernst-young-advisory-3a17b6e6f1216a201f218f42514eec44",
+      "vacancies": 3
+    },
     "3c79e9aeca01c71ebadb4b2a9cdc8868": {
       "categories": [
         "Banking and Finance"
@@ -735,7 +791,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1118,7 +1174,7 @@
       "expired_at": null,
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1709,7 +1765,7 @@
       "expired_at": null,
       "expires_at": "2026-11-13",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1761,7 +1817,7 @@
       "expired_at": null,
       "expires_at": "2026-12-02",
       "first_seen_at": "2026-11-03T17:20:08+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2286,7 +2342,7 @@
       "expired_at": null,
       "expires_at": "2026-11-30",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -2798,7 +2854,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-07T16:37:13+08:00",
       "expires_at": "2026-11-06",
       "first_seen_at": "2026-10-08T16:44:39+08:00",
       "last_seen_at": "2026-11-03T17:20:08+08:00",
@@ -2833,7 +2889,7 @@
       ],
       "source_job_id": "d23b95c472dede87dbe3d3cb0d19bc0e",
       "source_job_post_id": "MCF-2026-0821469",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Senior Associate",
       "url": "https://www.mycareersfuture.gov.sg/job/accounting/actuarial-senior-associate-pricewaterhousecoopers-professional-services-d23b95c472dede87dbe3d3cb0d19bc0e",
       "vacancies": 5
@@ -2851,7 +2907,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3156,7 +3212,7 @@
       "expired_at": null,
       "expires_at": "2026-11-10",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3196,6 +3252,58 @@
       "status": "active",
       "title": "Analyst / Senior Analyst (Actuarial)",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/analyst-senior-analyst-uib-asia-reinsurance-brokers-e6f8758a9ebf7466bb0d38c6b908d71b",
+      "vacancies": 1
+    },
+    "e772eb42015065e46bbd9f744f1b7b20": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "The Opportunity\nWe are seeking a Senior Compliance Specialist to join our Compliance team. You will play a pivotal role in ensuring that our organization adheres to all relevant laws, regulations and internal policies. You will work closely with various departments to implement compliance programs, conduct assurance activities, and provide advisory on compliance matters. The Compliance team is dedicated to maintaining the highest standards of compliance and ethical conduct within our business unit. Reporting to the Head of Compliance Singapore, you will also serve as a key point of contact for managing and coordinating compliance-related initiatives, projects, training, and communications with stakeholders. Your role will be instrumental in fostering a compliance culture across the organization.\nYour Role\nThe primary responsibilities:\nImplement, and maintain an effective compliance framework, policies, and procedures.\nConduct regular compliance risk assessments and assurance activities to identify areas of non-compliance and implement corrective actions as necessary, ensuring consistency and alignment with Group policies and procedures.\nMonitor, assess and interpret regulatory developments and emerging compliance risks, evaluate their impact on the business, and coordinate with relevant stakeholders to implement required changes.\nProvide oversight and advisory on sanctions screening activities and escalations; conduct risk-based monitoring and implement enhancement of sanctions compliance framework.\nProvide practical compliance advice, guidance and training to employees on compliance-related matters.\nCollaborate with internal stakeholders to address compliance issues and implement remediation actions.\nPrepare and submit regulatory reports and filings as required.\nServe as a point of contact for regulatory authorities and industry associations.\nSupport Data and AI Governance, Risk and Audit control tasks as compliance advocate.\nManage and coordinate compliance-related projects from inception to completion, including holding regular alignment meetings with project stakeholders.\nDrive compliance-related innovation and automation activities.\nStay up to date with industry best practices and emerging trends in compliance.\nYour Skills and Experience\nBachelor’s degree in Business Administration, Law, Finance, or a related field.\nMinimum 4 or more years of experience in a compliance role within an insurance or corporate environment.\nProven experience in developing and implementing compliance programs and policies.\nStrong knowledge of relevant local laws, regulations, and industry standards.\nExperience with conducting compliance assessments and assurance activities.\nSound understanding of risk management principles and practices.\nExcellent analytical and problem-solving skills.\nStrong project management skills with the ability to manage multiple projects simultaneously.\nHighly self-motivated with a strong sense of accountability and attention to detail.\nCapable of quickly adapting to new methodologies and working towards deadlines.\nExcellent verbal and written communication skills.\nDetail-oriented with a high level of integrity and ethical standard.\nProficiency in using compliance management software and tools.\nFamiliarity with digital technologies and their applications in compliance processes is a plus.",
+      "employment_types": [
+        "Contract"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-06",
+      "first_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-11-06",
+      "reopened_at": null,
+      "salary_max": 7000,
+      "salary_min": 5000,
+      "salary_period": "Monthly",
+      "skills": [
+        "provide procedures",
+        "Compliance Procedures",
+        "Assure Compliance",
+        "Regulatory Compliance Risk",
+        "Regulatory Affairs",
+        "Compliance Management",
+        "Economic Sanctions",
+        "Risk and Compliance Reporting",
+        "Monitor Hardware",
+        "Liaising With Internal Stakeholders",
+        "Compliance Issues",
+        "Business Impact Analysis",
+        "Policy Management",
+        "Risk Compliance and Governance",
+        "Regulatory Submissions",
+        "Implemented Code"
+      ],
+      "source_job_id": "e772eb42015065e46bbd9f744f1b7b20",
+      "source_job_post_id": "MCF-2026-1975215",
+      "status": "active",
+      "title": "Senior Compliance Specialist (12-month contract)",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-compliance-specialist-zurich-insurance-company-e772eb42015065e46bbd9f744f1b7b20",
       "vacancies": 1
     },
     "e85cf15a8956777453726849b5372357": {
@@ -3265,7 +3373,7 @@
       "expired_at": null,
       "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-11-03T17:20:08+08:00",
+      "last_seen_at": "2026-11-07T16:37:13+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -4076,6 +4184,17 @@
       "fetched": 57,
       "matching": 15,
       "new": 1,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 14,
+      "checked_at": "2026-11-07T16:37:13+08:00",
+      "data_changed": true,
+      "expired": 2,
+      "fetched": 52,
+      "matching": 14,
+      "new": 2,
       "reopened": 0,
       "status": "success"
     }
