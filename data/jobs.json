@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-11-07T16:37:13+08:00",
+  "data_changed_at": "2026-11-09T17:33:29+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -66,7 +66,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -327,7 +327,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -527,7 +527,7 @@
       "expired_at": null,
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -739,7 +739,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -791,7 +791,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1171,7 +1171,7 @@
       "employment_types": [
         "Contract"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-09T17:33:29+08:00",
       "expires_at": "2026-11-08",
       "first_seen_at": "2026-10-10T16:20:46+08:00",
       "last_seen_at": "2026-11-07T16:37:13+08:00",
@@ -1203,7 +1203,7 @@
       ],
       "source_job_id": "57a48a06b5e1057b940aa7928aa2a511",
       "source_job_post_id": "MCF-2026-1789417",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial Analyst (Insurance) | Bank | Contract",
       "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/actuarial-analyst-bank-contract-manpower-staffing-services-57a48a06b5e1057b940aa7928aa2a511",
       "vacancies": 3
@@ -1765,7 +1765,7 @@
       "expired_at": null,
       "expires_at": "2026-11-13",
       "first_seen_at": "2026-10-18T15:08:35+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1817,7 +1817,7 @@
       "expired_at": null,
       "expires_at": "2026-12-02",
       "first_seen_at": "2026-11-03T17:20:08+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2342,7 +2342,7 @@
       "expired_at": null,
       "expires_at": "2026-11-30",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -2907,7 +2907,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3212,7 +3212,7 @@
       "expired_at": null,
       "expires_at": "2026-11-10",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3267,7 +3267,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -3373,7 +3373,7 @@
       "expired_at": null,
       "expires_at": "2026-11-11",
       "first_seen_at": "2026-09-18T15:17:42+08:00",
-      "last_seen_at": "2026-11-07T16:37:13+08:00",
+      "last_seen_at": "2026-11-09T17:33:29+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -4195,6 +4195,17 @@
       "fetched": 52,
       "matching": 14,
       "new": 2,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 13,
+      "checked_at": "2026-11-09T17:33:29+08:00",
+      "data_changed": true,
+      "expired": 1,
+      "fetched": 50,
+      "matching": 13,
+      "new": 0,
       "reopened": 0,
       "status": "success"
     }
