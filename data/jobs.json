@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-11-15T17:05:25+08:00",
+  "data_changed_at": "2026-11-17T18:29:04+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -66,7 +66,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -327,7 +327,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -376,7 +376,7 @@
       "expired_at": null,
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -527,7 +527,7 @@
       "expired_at": null,
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -739,7 +739,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -791,7 +791,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1313,6 +1313,59 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-executive-income-insurance-59cb7ae7404fa053faddbacd7407c0d7",
       "vacancies": 1
     },
+    "623eaa3de59792b4307fbead0cf2b296": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "GRAVITAS RECRUITMENT GROUP (SG) PTE. LTD.",
+      "company_uen": "201411749D",
+      "description": "Our client, a leading life insurer, serves clients across Asia-Pacific and has a strong, well-capitalised book. They are seeking a high calibre professional to join the Financial Risk Management team as VP (Solvency).\nThe Role\nYou’ll own end-to-end Solvency II production and turn the numbers into insight that shapes capital, product and investment decisions.\nKey responsibilities\nLead Solvency II production, including reconciliations, capital movement analysis, sensitivities and a controlled reporting timetable\nDevelop and govern the actuarial models, assumptions and methodologies behind Solvency II, including data validation, expert judgement and change controls\nAssess the solvency impact of new products, investment and reinsurance decisions, and business planning, and present recommendations to management and committees\nDesign and interpret stress tests and scenario analysis, highlighting vulnerabilities and mitigating actions\nContribute to the ORSA and risk reporting, and support the independent review of the RBC2 Matching Adjustment\nWhat you’ll bring\nQualified or near-qualified actuary, with 8+ years of experience in the life insurance industry\nStrong experience in the following: Solvency II, regulatory and economic capital, stress testing and scenario analysis\nExperience challenging model outputs and methodologies; exposure to internal model, standard formula or model governance is a plus\nA track record of leading accurate reporting cycles through reconciliations, sign-offs, governance papers and regulatory submissions\nThe ability to explain complex results clearly and influence senior stakeholders across functions",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-16",
+      "first_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "location": "Islandwide",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Middle Management"
+      ],
+      "posted_at": "2026-11-16",
+      "reopened_at": null,
+      "salary_max": 16000,
+      "salary_min": 11000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Expert Systems",
+        "Risk Based Capital",
+        "Resolving Product Problems",
+        "Reinsurance",
+        "Reconciliation",
+        "Financial Risk Management",
+        "Business Planning",
+        "Risk and Compliance Reporting",
+        "Actuarial Science",
+        "Life Insurance",
+        "Financial Modelling",
+        "Capital Market Analysis",
+        "Provide management information",
+        "Stress Testing",
+        "Regulatory Reporting",
+        "Insurance",
+        "Solvency II"
+      ],
+      "source_job_id": "623eaa3de59792b4307fbead0cf2b296",
+      "source_job_post_id": "MCF-2026-2032291",
+      "status": "active",
+      "title": "Senior Manager, Financial Risk Management (Actuarial) | Life Insurance",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-manager-financial-risk-management-life-insurance-gravitas-recruitment-group-623eaa3de59792b4307fbead0cf2b296",
+      "vacancies": 1
+    },
     "62e4fd769608e6e64adc0a53c81a46eb": {
       "categories": [
         "Banking and Finance",
@@ -1708,7 +1761,7 @@
       "expired_at": null,
       "expires_at": "2026-12-12",
       "first_seen_at": "2026-11-15T17:05:25+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1850,6 +1903,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/actuarial-modelling-senior-manager-lma-recruitment-singapore-84ed0e9712bbe8bf5df859eb0fe613ca",
       "vacancies": 1
     },
+    "85175ab2bf45430eae780e55d33ac507": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "CHUBB ASIA PACIFIC PTE. LTD.",
+      "company_uen": "197500425H",
+      "description": "Purpose\nThis is a senior leadership role with accountability for the performance and transformation of Commercial Operations across 10 APAC markets. The role spans two equally important mandates: running a high-performing, cost-efficient operations function today and leading the multi-year programme to modernise it. The right candidate will be as comfortable in a quarterly performance review as they are shaping a three-year automation roadmap and credible with underwriters, technology teams, and senior regional leadership alike.\nKey Responsibilities\nOperational Leadership\nOwn end-to-end Commercial Ops performance across APAC — issuance, bookings, submissions, indexing, renewals, and endorsements.\nDrive productivity, quality, and cost-to-serve targets.\nLead and develop a distributed team of operations managers and senior specialists, including in CBS hub teams in Philippines and KL.\nPartner closely with P&C and A&H underwriting leaders to ensure operational delivery aligns with underwriting appetite and service expectations.\nMaintain clear performance frameworks that give senior stakeholders timely and accurate visibility of ops health — reporting cadences, KPIs, escalation paths\nManage operational risk proactively, including process controls, audit readiness, and regulatory compliance across markets.\nTransformation & Change\nLead the Commercial Ops transformation programme including automation initiatives, workflow platforms, and legacy system migration from business case through to benefits realisation.\nDefine and own the multi-year FTE and cost reduction roadmap, ensuring initiative sequencing is realistic and savings are trackable.\nAct as the primary commercial operations voice in enterprise transformation programmes.\nBuild the case for investment where required; prepare and present business cases to regional and global stakeholders.\nDrive adoption of new tools and processes across markets, managing the people and change dimension in step with the technical delivery owners.\nEstablish baseline measurement and benefits tracking frameworks so transformation impact can be reported with confidence.\nStakeholder Engagement\nBuild trusted relationships with underwriting, finance, technology, and HR leaders across APAC markets.\nInfluence without authority — navigate complex, matrixed stakeholder environments to drive alignment and move programmes forward.\nRepresent Commercial Ops in regional leadership forums; provide clear, evidence-based reporting to the Head of Operations & Transformation, APAC.\nEngage with country-level operations teams and market heads to embed regional strategy within local delivery.\nQualifications\nEssential\nSubstantial experience in P&C commercial insurance operations; direct underwriting operations or underwriting leadership experience is required; candidates without this background will not be considered.\nDemonstrated track record leading operational teams across multiple APAC markets, ideally including hub or shared services environments.\nExperience owning and delivering transformation programmes (not just participating in them) with measurable outcomes in efficiency or FTE reduction.\nStrong commercial acumen; able to build, defend, and track business cases for investment.\nProven ability to influence senior stakeholders across underwriting, finance, and technology in a matrixed organisation.\nExcellent communication skills; equally effective in an exec briefing as in a working-level problem-solving session.\nHighly Regarded\nFamiliarity with automation and AI tools in an insurance operations context — workflow platforms, intelligent document processing, and unstructured data ingestion.\nExperience working with centralised processing hub models in APAC.\nExposure to commercial insurance systems such as Duck Creek, Quadient or equivalent policy administration platforms.\nFormal programme or change management credentials (e.g. PMP, MSP, Prosci) are a plus, though not required.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-01",
+      "first_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: CHUBB ASIA PACIFIC PTE. LTD."
+      ],
+      "minimum_years_experience": 12,
+      "position_levels": [
+        "Middle Management"
+      ],
+      "posted_at": "2026-11-17",
+      "reopened_at": null,
+      "salary_max": 22500,
+      "salary_min": 14000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Regulatory Compliance",
+        "Indexing",
+        "Operational Delivery Teams",
+        "Transformation",
+        "Participate in Activities",
+        "Distributed Team Management",
+        "Building Business Cases",
+        "Commercial and operational support",
+        "Organisational Leadership",
+        "Finance",
+        "Organizational Structure",
+        "Patient Monitoring",
+        "Commercial Insurance",
+        "Drive Productivity and Innovation",
+        "Service Delivery",
+        "employee briefings"
+      ],
+      "source_job_id": "85175ab2bf45430eae780e55d33ac507",
+      "source_job_post_id": "MCF-2026-2043291",
+      "status": "active",
+      "title": "Head of Commercial Operations, APAC",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/head-commercial-operations-apac-chubb-asia-pacific-85175ab2bf45430eae780e55d33ac507",
+      "vacancies": 1
+    },
     "8bb2a46d44cb7d5ffd79b2c8fae410fa": {
       "categories": [
         "Consulting"
@@ -1863,7 +1968,7 @@
       "expired_at": null,
       "expires_at": "2026-12-02",
       "first_seen_at": "2026-11-03T17:20:08+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2388,7 +2493,7 @@
       "expired_at": null,
       "expires_at": "2026-11-30",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -2953,7 +3058,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3313,7 +3418,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-15T17:05:25+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -3607,6 +3712,58 @@
       "status": "expired",
       "title": "Intern, Actuarial Services",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-f01d09bb39a0c54ac1fb473a6da69f1b",
+      "vacancies": 1
+    },
+    "f11c3f7fccc3655a73b6375edb111125": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "As a Strategic Broker Relationship Manager, you will develop a strategic trading relationship with our top tier and strategic brokers with a focus on establishing & maintaining strong broker relationships, developing sound business development strategies, managing the sales process & pipeline and capturing detailed insights for future stratgeic direction.\nThe role requires driving accountability within the Underwriting community Commercial, driving and owning the trading relationship, whilst fostering a multi-tier relationship across all levels in both organisations and all lines of business.\nKey responsibilities\nWorking with the Head of CDM,APAC and the Head of CI APAC, setting the strategic direction with our top tier and strategic brokers, ensuring alignment across APAC and agreeing and monitoring key growth initiatives.\nManaging our top tier brokers and developing a holistic understanding of the brokers’ businesses to identify both strategic & transactional opportunities for Zurich.\nWorking closely with underwriting, claims and risk engineering (ZRS) to communicate broker strategy whilst bringing the best of Zurich to the market.\nWorking with the Head of CDM,APAC, monitoring portfolio and share of wallet (SOW) performance overall and per line with each broker, setting clear improvement targets YOY.\nTranslate and articulate broker performance data in to the business to ensure appropriate actions and output based on the information presented.\nGaining, capturing and analysing competitor intelligence data and developing plans to gain competitive advantage, identifying growth potential in each designated broker.\nUnderstanding Zurich’s value proposition across all lines and segments and promoting this with the broker to strengthen relationships, leading to profitable business growth.\nDesigning an infrastructure for a multi-tiered relationship and embedding this across appropriate lines and segments\nEnsuring regular and consistent communication between Zurich and the broker to improve the relationship and effectiveness across both organisations and to resolve service or relationship issues\nWorking closely with the APAC regional team, manage consistent messages and delivery of Zurich propositions.\nWorking collaboratively with the U/W’s and LOB Heads to be a focal point of contact to the market in respect of Multi-line and complex deals.\nAssist the Underwriting teams in navigating brokers to manage and negotiate major deals, assisting in increasing Zurich’s product density and cross sell per client whilst identifying opportunities for business improvement.\nActing as a conduit between each broking partner and Zurich across all levels to improve communication and effective working relationships.\nBringing together the best of Zurich in articulating and delivering our Value Proposition to the market.\nDevelop and maintain relationships with key brokers in support of business retention and new business acquisition.\nRepresenting Zurich at conferences and functions and ensuring other relevant Zurich Stakeholders are included\nSupport the Head of CDM, APAC, in the production of Broker Exec packs, Exec meeting, monthly reporting and negotiation and monitoring of Strategic Carrier Agreements\nImportant to your success\nQualifications/Experience:\nANZIIF CIP member or equivalent\nGood level of Operational and Financial management experience\nMinimum 7-10 years' experience in the Commercial Insurance Market\nKnowledge:\nCommercially astute with a comprehensive understanding of the General Insurance industry and the productsavailable.\nSound knowledge of how to generate additional business through intermediaries\nA high-level understanding of underwriting and claims processes\nCommunication, transparency, accountability and a performance culture are key behaviours that need to bedriven through this role\nDemonstrated ability to collaborate in a high performing workforce\nProven ability to operate in a change environment\nTechnical Skills/Experience:\nDemonstrated capabilities in the development of long-term business relationships, the development of strategic business plans and managing the sales process & pipeline.\nProven ability to execute on strategic plans and company initiatives\nDemonstrated ability in relationship/strategic selling (preferably within the Insurance industry).\nStrong stakeholder management capability\nCommercially astute with strong financial acumen\nExcellent strategic and problem-solving skills\nStrong IT, analytics and reporting capability",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-17",
+      "first_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Middle Management"
+      ],
+      "posted_at": "2026-11-17",
+      "reopened_at": null,
+      "salary_max": 17200,
+      "salary_min": 13000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Strategic Planning",
+        "Claims Management",
+        "Brokerage",
+        "Business Brokerage",
+        "Financial Management",
+        "Business Information",
+        "Text Embedding",
+        "Underwriting Process",
+        "Brokerage Management",
+        "Project Finance",
+        "General Insurance",
+        "Market Entry",
+        "Business Growth",
+        "Competitive Intelligence",
+        "Partner Management",
+        "CDM"
+      ],
+      "source_job_id": "f11c3f7fccc3655a73b6375edb111125",
+      "source_job_post_id": "MCF-2026-2042947",
+      "status": "active",
+      "title": "Strategic Broker Relationship Manager",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/strategic-broker-relationship-manager-zurich-insurance-company-f11c3f7fccc3655a73b6375edb111125",
       "vacancies": 1
     },
     "f3eb15a841b66ece6701d53f9e38f57a": {
@@ -4274,6 +4431,17 @@
       "fetched": 42,
       "matching": 11,
       "new": 1,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 14,
+      "checked_at": "2026-11-17T18:29:04+08:00",
+      "data_changed": true,
+      "expired": 0,
+      "fetched": 44,
+      "matching": 14,
+      "new": 3,
       "reopened": 0,
       "status": "success"
     }
