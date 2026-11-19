@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-11-17T18:29:04+08:00",
+  "data_changed_at": "2026-11-19T18:06:28+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -63,7 +63,7 @@
       "employment_types": [
         "Permanent"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-19T18:06:28+08:00",
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
       "last_seen_at": "2026-11-17T18:29:04+08:00",
@@ -100,7 +100,7 @@
       ],
       "source_job_id": "013baa608f402af5101777580971d8d1",
       "source_job_post_id": "MCF-2026-1846023",
-      "status": "active",
+      "status": "expired",
       "title": "Technical Underwriting & Reinsurance Manager",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/technical-underwriting-reinsurance-manager-zurich-insurance-company-013baa608f402af5101777580971d8d1",
       "vacancies": 1
@@ -324,7 +324,7 @@
       "employment_types": [
         "Internship/Attachment"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-19T18:06:28+08:00",
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
       "last_seen_at": "2026-11-17T18:29:04+08:00",
@@ -358,7 +358,7 @@
       ],
       "source_job_id": "0c3420a9100092995f806d184bbe4ed6",
       "source_job_post_id": "MCF-2026-1846874",
-      "status": "active",
+      "status": "expired",
       "title": "Intern, Actuarial Services",
       "url": "https://www.mycareersfuture.gov.sg/job/consulting/intern-actuarial-services-msig-asia-0c3420a9100092995f806d184bbe4ed6",
       "vacancies": 1
@@ -373,7 +373,7 @@
       "employment_types": [
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-19T18:06:28+08:00",
       "expires_at": "2026-11-18",
       "first_seen_at": "2026-10-20T15:22:59+08:00",
       "last_seen_at": "2026-11-17T18:29:04+08:00",
@@ -404,7 +404,7 @@
       ],
       "source_job_id": "0d242e0c7ef51b7a3ece1f2d0bf71d90",
       "source_job_post_id": "MCF-2026-1851062",
-      "status": "active",
+      "status": "expired",
       "title": "[Entry Level] Actuarial Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/entry-level-actuarial-analyst-united-overseas-insurance-0d242e0c7ef51b7a3ece1f2d0bf71d90",
       "vacancies": 1
@@ -527,7 +527,7 @@
       "expired_at": null,
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -739,7 +739,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -791,7 +791,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1104,6 +1104,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/divisional-finance-officer-consumer-lines-chubb-asia-pacific-474ad5b538a4aa1b2a29e16aa6fdab88",
       "vacancies": 1
     },
+    "4b8057b874792baa3e4fb28472899d4c": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "The Senior Claims Executive, Casualty is responsible for managing a portfolio of casualty claims—including work injury compensation and product liability—ensuring timely, fair, and cost-effective resolution. The role emphasizes delivering a customer-focused claims experience while maintaining technical excellence and regulatory compliance.\nKey Responsibilities\nIndependently manage complex and high-severity casualty claims from initial notification through to final settlement, formulating case strategies and escalating issues to the Claims Manager when necessary.\nConduct thorough investigations into claims, including policy coverage analysis, liability assessment, and quantum evaluation.\nMaintain accurate and timely claims reserves, and manage associated expenses by coordinating with appointed vendors to ensure appropriate scope of work.\nProvide strategic direction to Defence or Monitoring Counsel throughout litigation, guiding settlement approaches and legal positioning.\nProactively review outstanding claims to ensure timely progression and resolution.\nCollaborate effectively with insurers, brokers, vendors, and clients to achieve optimal claims outcomes.\nDeliver technical advice and regular claims updates to stakeholders, including trend analysis and recommendations for process improvements.\nEnsure accurate documentation and record-keeping using claims systems such as Merimen.\nComply with relevant local regulations, including the Singapore Work Injury Compensation Act or its equivalent.\nAssess injury severity and treatment plans for work injury claims, and coordinate with employers on rehabilitation and return-to-work programs.\nDevelop tailored claims protocols for specific accounts to enhance efficiency and customer satisfaction.\nParticipate in training sessions, workshops, and industry forums to stay abreast of best practices and emerging trends.\nMentor junior claims staff and provide training on casualty claims handling.\nIdentify potential recovery opportunities and fraud risks.\nBuild and maintain strong relationships with internal and external stakeholders to ensure alignment and transparency.\nSupport the Claims Manager with managerial duties and ad hoc tasks as required.\nPreferred Qualifications, Skills & Competencies\nA degree in any discipline is preferred; diploma holders with insurance qualifications (e.g., ACII,ADGIRM, DGIRM) will also be considered.\nMinimum of 3 years’ experience in casualty claims handling, ideally within an insurance company.\nStrong technical knowledge of casualty insurance, including work injury legislation and legal principles.\nExcellent communication, negotiation, and interpersonal skills.\nAnalytical mindset with strong attention to detail and the ability to work independently.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-19",
+      "first_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Senior Executive"
+      ],
+      "posted_at": "2026-11-19",
+      "reopened_at": null,
+      "salary_max": 7500,
+      "salary_min": 4500,
+      "salary_period": "Monthly",
+      "skills": [
+        "Negotiation",
+        "Property & Casualty Insurance",
+        "Claims Resolution",
+        "Communication",
+        "Policy Analysis",
+        "Claims Management",
+        "Brokerage",
+        "Process Improvement",
+        "Interpersonal Skills",
+        "Maintain Discipline",
+        "Providing Strategic Direction",
+        "claim management system",
+        "Assess the Liability",
+        "Able To Work Independently",
+        "Claims Investigations",
+        "Liaising With Vendors"
+      ],
+      "source_job_id": "4b8057b874792baa3e4fb28472899d4c",
+      "source_job_post_id": "MCF-2026-2073282",
+      "status": "active",
+      "title": "Senior Claims Executive, Casualty",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-claims-executive-casualty-zurich-insurance-company-4b8057b874792baa3e4fb28472899d4c",
+      "vacancies": 1
+    },
     "5317eacf6305242d9daf08b2c044c480": {
       "categories": [
         "Banking and Finance",
@@ -1313,6 +1365,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-executive-income-insurance-59cb7ae7404fa053faddbacd7407c0d7",
       "vacancies": 1
     },
+    "5c1971ffcf5d27fd33532fbfdcbd2dae": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "Job Purpose\nWe are seeking a motivated and innovative Associate AI Engineer to join us. In this role, you will support the design, development, and deployment of AI and machine learning solutions that enhance customer experiences, improve business processes, and drive operational efficiency.\nWorking alongside experienced Data Scientists, AI Engineers, and business stakeholders, you will gain hands-on experience with machine learning models, generative AI applications, AI agents, and cloud-based AI platforms.\nKey Responsibilities\nAssist in developing and deploying AI and machine learning solutions to address business challenges and enhance operational performance.\nWork with business and technical teams to understand requirements, gather data, and support the delivery of AI-driven use cases.\nBuild, test, and maintain machine learning models using structured and unstructured data.\nSupport the development of Generative AI applications, including chatbots, copilots, AI agents, document intelligence, and knowledge retrieval solutions.\nParticipate in the deployment and monitoring of AI solutions in cloud platforms such as Azure or AWS.\nAssist in data preparation, feature engineering, model evaluation, and performance optimization activities.\nDevelop and maintain APIs and integrations to operationalize AI models and services.\nSupport AI model observability, monitoring, and reporting to ensure reliability and performance in production.\nCollaborate with Data Engineers and Platform Engineers to improve AI and data infrastructure capabilities.\nStay current with emerging AI technologies, machine learning techniques, and industry best practices.\nEducation\nBachelor's degree in Computer Science, Data Science, Artificial Intelligence, Engineering, Mathematics, Statistics, or a related discipline.\nTechnical Skills\n1 to 3 years of experience in AI, machine learning, software engineering, data science, or related technical fields.\nBasic understanding of machine learning concepts and algorithms.\nKnowledge of Python and common data science libraries such as Pandas, NumPy, Scikit-learn, and PyTorch or TensorFlow.\nFamiliarity with Generative AI and Large Language Models (LLMs).\nUnderstanding of prompt engineering, Retrieval-Augmented Generation (RAG), or AI Agents is advantageous.\nExposure to Natural Language Processing (NLP), OCR, computer vision, or document intelligence solutions is a plus.\nBasic understanding of cloud platforms such as Microsoft Azure or AWS.\nFamiliarity with API development frameworks such as FastAPI or Flask is desirable.\nKnowledge of Git, CI/CD practices, and MLOps concepts is beneficial.\nSoft Skills\nStrong analytical and problem-solving skills.\nCuriosity and passion for learning new technologies.\nGood communication and collaboration skills.\nAbility to work effectively in a team environment.\nWillingness to learn from senior engineers and contribute to innovative AI initiatives.\nPreferred Experience\nAcademic, internship, or project experience involving machine learning, AI, software development, or data analytics.\nExposure to Generative AI technologies such as Azure OpenAI, OpenAI, Anthropic Claude, or similar platforms.\nExperience in insurance, financial services, or regulated industries would be advantageous but not required.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-19",
+      "first_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 1,
+      "position_levels": [
+        "Fresh/entry level"
+      ],
+      "posted_at": "2026-11-19",
+      "reopened_at": null,
+      "salary_max": 6000,
+      "salary_min": 4500,
+      "salary_period": "Monthly",
+      "skills": [
+        "Chatbot",
+        "Azure AI",
+        "API Development",
+        "Microsoft Azure",
+        "Generative AI Application Development and Deployment",
+        "AI Agents",
+        "AWS",
+        "Model Evaluation",
+        "Technical Requirements Gathering",
+        "Generative AI Application Development and Deployment in Financial Services",
+        "Monitoring",
+        "Production Support",
+        "Feature Engineering",
+        "Structured data analysis",
+        "Data Preparation",
+        "Testing"
+      ],
+      "source_job_id": "5c1971ffcf5d27fd33532fbfdcbd2dae",
+      "source_job_post_id": "MCF-2026-2073319",
+      "status": "active",
+      "title": "Associate AI Engineer",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/associate-ai-engineer-zurich-insurance-company-5c1971ffcf5d27fd33532fbfdcbd2dae",
+      "vacancies": 1
+    },
     "623eaa3de59792b4307fbead0cf2b296": {
       "categories": [
         "Insurance"
@@ -1326,7 +1430,7 @@
       "expired_at": null,
       "expires_at": "2026-12-16",
       "first_seen_at": "2026-11-17T18:29:04+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1761,7 +1865,7 @@
       "expired_at": null,
       "expires_at": "2026-12-12",
       "first_seen_at": "2026-11-15T17:05:25+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1916,7 +2020,7 @@
       "expired_at": null,
       "expires_at": "2026-12-01",
       "first_seen_at": "2026-11-17T18:29:04+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -1968,7 +2072,7 @@
       "expired_at": null,
       "expires_at": "2026-12-02",
       "first_seen_at": "2026-11-03T17:20:08+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2493,7 +2597,7 @@
       "expired_at": null,
       "expires_at": "2026-11-30",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -2941,6 +3045,58 @@
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/direct-marketing-underwriter-ah-apac-chubb-asia-pacific-cb5db5a59c5f8987add45004b211c654",
       "vacancies": 1
     },
+    "cb75fdea2daa45d2b6ccc58610ccbc2f": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "The Opportunity\nZurich Edge is Zurich's digital partnership business across Asia Pacific, built to make Zurich the embedded-insurance partner of choice for the region's digital platforms, fintechs, banks, telecommunications companies, mobility businesses and other digital ecosystems.\nWe are looking for an experienced Business Development Manager to build and grow a pipeline of digital partnership opportunities across APAC, from initial engagement through to signed agreement and implementation.\nThis is a senior, hands-on business development and deal-execution role. You will take ownership of your pipeline, including identifying prospective partners, positioning Zurich Edge's proposition, developing the commercial case and progressing opportunities through negotiation and signature.\nYou will work closely with Zurich's regional and local teams to develop partnership opportunities and deliver sustainable commercial outcomes.\nYou will engage with organisations such as digital platforms, fintechs, banks, payment providers, e-commerce companies, travel businesses, mobility platforms, telecommunications companies and retailers with established digital customer ecosystems and opportunities for embedded insurance.\nWhat You Will Do\nBuild and manage a qualified pipeline of digital partnership opportunities across APAC, aligned with Zurich Edge's growth strategy.\nConduct structured business development and origination activities through direct outreach, referrals, industry networks, conferences and digital channels.\nBuild relationships with relevant decision-makers and stakeholders at prospective partner organisations.\nOwn new-business targets across qualified opportunities, proposals, partner conversions and expected revenue or gross written premium.\nLead discovery conversations, develop commercial propositions and negotiate commercial terms through to agreement, involving relevant stakeholders where appropriate.\nMaintain accurate CRM records and pipeline forecasts and provide updates on pipeline health and deal progress to relevant stakeholders.\nMonitor market developments and identify emerging sectors, customer journeys and embedded-insurance opportunities.\nCollaborate with Product, Underwriting, Technology, Operations, Legal, Compliance, Risk and local market teams to progress opportunities through due diligence and contracting.\nPartner with the Propositions Lead to develop pitches, proposals and business cases that address partner needs.\nWhat You Will Bring\nEssential\n8 to 10 years experience in business development, B2B sales, partnerships, channel development or enterprise sales, with demonstrated experience owning and progressing commercial opportunities through the full sales cycle.\nA strong track record of building a pipeline and independently progressing opportunities from initial engagement through proposal, negotiation and conversion.\nStrong client-facing communication and relationship-building skills, including experience engaging with senior stakeholders.\nSound commercial judgement, with the ability to assess opportunities, develop commercial models and negotiate effectively.\nExperience managing multiple stakeholders and complex or multi-party sales cycles through to completion.\nStrong written and spoken English communication skills.\nPreferred\nExperience in insurance, insurtech, fintech, payments, banking, e-commerce, travel technology, telecommunications, mobility or another relevant digital-platform environment.\nExposure to embedded insurance, digital distribution, affinity partnerships, B2B2C propositions or API-enabled products.\nExperience developing partnerships with large corporates or regional digital businesses.\nFamiliarity with APAC markets and their differing commercial and regulatory environments.\nExperience working across multiple countries or with regional stakeholders.\nEstablished professional networks within relevant digital ecosystems would be advantageous.\nWhy Zurich Edge?\nYou will have the opportunity to help grow a regional digital partnership business, working with established and emerging platforms across APAC.\nYou will build expertise across insurance, technology and proposition development while working with a team focused on rethinking how insurance is designed, integrated and distributed across the region. The role offers significant ownership of partnership opportunities and the commercial outcomes you help create.",
+      "employment_types": [
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-19",
+      "first_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 8,
+      "position_levels": [
+        "Manager"
+      ],
+      "posted_at": "2026-11-19",
+      "reopened_at": null,
+      "salary_max": 13400,
+      "salary_min": 10000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Proposal Writing",
+        "Collaboration",
+        "Partnership Sales",
+        "Pipeline Management",
+        "Pipeline Development",
+        "Negotiating Commercial Terms",
+        "Leadership Development",
+        "Stakeholder Engagement",
+        "Partnership Development",
+        "Referral Management",
+        "Developing Leads",
+        "digital communications channels",
+        "Business Development",
+        "Stakeholder Management",
+        "Industry Networking",
+        "Customer insurance"
+      ],
+      "source_job_id": "cb75fdea2daa45d2b6ccc58610ccbc2f",
+      "source_job_post_id": "MCF-2026-2073221",
+      "status": "active",
+      "title": "Business Development Manager, APAC",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/business-development-manager-apac-zurich-insurance-company-cb75fdea2daa45d2b6ccc58610ccbc2f",
+      "vacancies": 1
+    },
     "cb83d69cc5fb3882ad70607b87f49f1e": {
       "categories": [
         "Insurance"
@@ -2993,6 +3149,58 @@
       "status": "expired",
       "title": "Claims Excellence Lead, APAC",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/claims-excellence-lead-apac-zurich-insurance-company-cb83d69cc5fb3882ad70607b87f49f1e",
+      "vacancies": 1
+    },
+    "cf1b8b15678f67d4a4959fe3fd233659": {
+      "categories": [
+        "Insurance",
+        "Professional Services",
+        "Others"
+      ],
+      "company": "AIA SINGAPORE PRIVATE LIMITED",
+      "company_uen": "201106386R",
+      "description": "Regular reporting and analysis (60%)\nPerform IFRS reporting tasks and take appropriate actions to address any potential issues in a timely and effective manner.\nAnalyze OPAT drivers, CSM movements, and assist in providing explanations of financial results to local management and Group Office.\nSupport the preparation of management reports, business analysis and reporting packs.\nLeverage data, automation and emerging technologies, including AI-enabled solutions, to improve reporting processes, analytics and operational efficiency.\nSystem and Model Maintenance (30%)\nMaintain actuarial models and reporting systems to support financial reporting and business requirements.\nSupport implementation and maintenance of new products, model enhancements and system changes, ensuring alignment with business and pricing requirements.\nAssist in system testing, model validation, reconciliations, user acceptance testing (UAT) and issue resolution.\nDocument system and model changes, including preparation of change logs, testing evidence and maintenance of governance documentation.\nSupport ongoing improvements to actuarial systems, processes and controls to enhance efficiency, reliability and data quality.\nStrategic planning and projects (10%)\nSupport the annual strategic planning exercise, including the enhancement of models for the budget exercise, and preparation of management reports / presentations\nSupport company projects and initiatives from a financial reporting perspective\nMinimum Job Requirements:\nEducation – University graduate (Major in Actuarial Science, Mathematics, Statistics, or related discipline)\nExperience – At least 1-2 years of life insurance-related actuarial working experience\nCertifications/Licences – Progression in, or intention to pursue, professional actuarial examinations\nTechnical Skills – Knowledge of actuarial software and programming languages such as Python, R, VBA, SQL or SAS would be an advantage",
+      "employment_types": [
+        "Permanent",
+        "Full Time"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-18",
+      "first_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Title: actuarial"
+      ],
+      "minimum_years_experience": 2,
+      "position_levels": [
+        "Junior Executive"
+      ],
+      "posted_at": "2026-11-18",
+      "reopened_at": null,
+      "salary_max": 6500,
+      "salary_min": 3200,
+      "salary_period": "Monthly",
+      "skills": [
+        "Higher Education",
+        "Certifications",
+        "SAS",
+        "R Programming",
+        "Valuation",
+        "Reinsurance",
+        "Mathematics",
+        "VBA",
+        "SQL",
+        "Actuarial Science",
+        "Python",
+        "Actuarial qualifications",
+        "Statistics"
+      ],
+      "source_job_id": "cf1b8b15678f67d4a4959fe3fd233659",
+      "source_job_post_id": "MCF-2026-2055972",
+      "status": "active",
+      "title": "Actuarial, Analyst",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analyst-aia-singapore-cf1b8b15678f67d4a4959fe3fd233659",
       "vacancies": 1
     },
     "d23b95c472dede87dbe3d3cb0d19bc0e": {
@@ -3058,7 +3266,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3418,7 +3626,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -3727,7 +3935,7 @@
       "expired_at": null,
       "expires_at": "2026-12-17",
       "first_seen_at": "2026-11-17T18:29:04+08:00",
-      "last_seen_at": "2026-11-17T18:29:04+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -3973,6 +4181,58 @@
       "status": "expired",
       "title": "Senior Actuarial Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/senior-actuarial-analyst-chubb-asia-pacific-fa3d5989fb3526fa9cea0462abe0444a",
+      "vacancies": 1
+    },
+    "fa97c09fbb9803c19d0b98da07cb9571": {
+      "categories": [
+        "Insurance"
+      ],
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "company_uen": "T08FC7171K",
+      "description": "Claims Executive – Energy, Property & Construction\nWe are looking for a Claims Executive – Energy, Property & Construction to join our Claims team.\nIn this role, you will manage a portfolio of commercial claims within assigned authority limits, with a particular focus on Energy, Property and Construction-related losses. You will apply sound technical judgement across coverage assessment, reserving, claims strategy, negotiation and settlement, while ensuring claims are handled fairly, efficiently and in line with internal governance requirements.\nYou will work closely with customers, brokers, loss adjusters, legal advisers, reinsurers and internal stakeholders to drive timely claims resolution and deliver a high-quality, customer-centric claims experience.\nThis opportunity would suit someone with 3 to 5 years of commercial claims experience, ideally with exposure to Property, Engineering, Construction or Energy-related claims, who is looking to further develop their technical claims expertise.\nKey Responsibilities\nClaims Management & Technical Assessment\nManage a portfolio of Energy, Property and Construction claims from notification through to resolution, within assigned authority limits and claims handling guidelines.\nReview policy wording, facts of loss and supporting documentation to determine policy response, coverage and liability, escalating complex coverage matters where appropriate.\nDevelop and execute appropriate claims strategies based on the circumstances, complexity and potential exposure of each claim.\nMaintain accurate and comprehensive claims records, ensuring claims data and documentation are updated promptly and in accordance with internal standards and best practices.\nReserving, Settlement & Recoveries\nEstablish timely and appropriate claims reserves, including consideration of potential ultimate cost and sensitivities, and conduct regular reviews throughout the claims lifecycle.\nAssess claim quantum and supporting evidence, challenge costs where appropriate, and negotiate fair and reasonable settlements within assigned authority.\nIdentify and pursue opportunities for recovery, subrogation and contribution, where applicable.\nManage and calculate recoveries relating to internal accounts and external reinsurers, ensuring appropriate documentation and follow-up.\nStakeholder & Customer Management\nProactively manage relationships with customers, brokers, loss adjusters, lawyers, experts, reinsurers and other external service providers to facilitate effective claims resolution.\nWork closely with internal stakeholders, including Underwriting and Distribution, to share relevant claims insights and support effective portfolio management.\nCommunicate claims decisions and technical matters clearly, professionally and empathetically, ensuring a positive customer experience throughout the claims journey.\nManage produced and received claims in accordance with applicable claims protocols and agreed service standards.\nGovernance & Continuous Improvement\nEnsure claims are managed in accordance with relevant regulatory requirements, internal controls, delegated authority limits and claims governance standards.\nIdentify emerging issues, claims trends and lessons learned, and share relevant insights with stakeholders.\nContribute to business planning, process improvement and transformation initiatives within the Claims function.\nSupport initiatives that improve claims efficiency, technical capability, customer outcomes and operational effectiveness.\nQualifications, Experience & Skills\nDiploma or Bachelor’s Degree in a relevant discipline, or equivalent professional experience.\n3 to 5 years of experience in commercial insurance claims, ideally with exposure to Property, Engineering, Construction and/or Energy-related claims.\nGood understanding of commercial insurance principles, policy interpretation, coverage assessment, reserving and claims settlement.\nDemonstrated ability to manage claims independently within defined authority levels.\nStrong analytical and problem-solving skills, with the ability to assess complex information and exercise sound judgement.\nStrong negotiation and stakeholder management capabilities.\nExcellent verbal and written communication skills.\nStrong organisational skills with the ability to manage multiple claims and competing priorities effectively.",
+      "employment_types": [
+        "Permanent"
+      ],
+      "expired_at": null,
+      "expires_at": "2026-12-19",
+      "first_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "location": "Central",
+      "matched_criteria": [
+        "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
+      ],
+      "minimum_years_experience": 3,
+      "position_levels": [
+        "Executive"
+      ],
+      "posted_at": "2026-11-19",
+      "reopened_at": null,
+      "salary_max": 7000,
+      "salary_min": 4000,
+      "salary_period": "Monthly",
+      "skills": [
+        "Settlement",
+        "checking claims",
+        "Stakeholder Relationship",
+        "Energy Trading Portfolio Optimisation",
+        "Settlement of Claims",
+        "scientific discipline",
+        "Cost-Benefit Analysis",
+        "Professional Experience",
+        "Claims",
+        "Coverage Analysis",
+        "Written Communication",
+        "Market Coverage",
+        "Liability Insurance",
+        "Standards Compliance",
+        "Judgement and Decision Making Skills",
+        "Commercial Insurance"
+      ],
+      "source_job_id": "fa97c09fbb9803c19d0b98da07cb9571",
+      "source_job_post_id": "MCF-2026-2073167",
+      "status": "active",
+      "title": "Claims Executive - Energy, Property & Construction",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/claims-executive-energy-property-construction-zurich-insurance-company-fa97c09fbb9803c19d0b98da07cb9571",
       "vacancies": 1
     }
   },
@@ -4442,6 +4702,17 @@
       "fetched": 44,
       "matching": 14,
       "new": 3,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 16,
+      "checked_at": "2026-11-19T18:06:28+08:00",
+      "data_changed": true,
+      "expired": 3,
+      "fetched": 49,
+      "matching": 16,
+      "new": 5,
       "reopened": 0,
       "status": "success"
     }
