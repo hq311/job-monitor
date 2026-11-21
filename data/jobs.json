@@ -1,5 +1,5 @@
 {
-  "data_changed_at": "2026-11-19T18:06:28+08:00",
+  "data_changed_at": "2026-11-21T17:30:27+08:00",
   "jobs": {
     "00f759a2f953e575f257bdf3b069dfbb": {
       "categories": [
@@ -524,7 +524,7 @@
         "Permanent",
         "Full Time"
       ],
-      "expired_at": null,
+      "expired_at": "2026-11-21T17:30:27+08:00",
       "expires_at": "2026-11-20",
       "first_seen_at": "2026-10-24T15:06:54+08:00",
       "last_seen_at": "2026-11-19T18:06:28+08:00",
@@ -557,7 +557,7 @@
       ],
       "source_job_id": "1c06a257079499aaeacded7780517f5b",
       "source_job_post_id": "MCF-2026-1868046",
-      "status": "active",
+      "status": "expired",
       "title": "Actuarial, Analyst",
       "url": "https://www.mycareersfuture.gov.sg/job/insurance/actuarial-analyst-aia-singapore-1c06a257079499aaeacded7780517f5b",
       "vacancies": 1
@@ -739,7 +739,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -791,7 +791,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-24T15:30:40+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -1117,7 +1117,7 @@
       "expired_at": null,
       "expires_at": "2026-12-19",
       "first_seen_at": "2026-11-19T18:06:28+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1378,7 +1378,7 @@
       "expired_at": null,
       "expires_at": "2026-12-19",
       "first_seen_at": "2026-11-19T18:06:28+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -1430,7 +1430,7 @@
       "expired_at": null,
       "expires_at": "2026-12-16",
       "first_seen_at": "2026-11-17T18:29:04+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Islandwide",
       "matched_criteria": [
         "Title: actuarial"
@@ -1865,7 +1865,7 @@
       "expired_at": null,
       "expires_at": "2026-12-12",
       "first_seen_at": "2026-11-15T17:05:25+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2020,7 +2020,7 @@
       "expired_at": null,
       "expires_at": "2026-12-01",
       "first_seen_at": "2026-11-17T18:29:04+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: CHUBB ASIA PACIFIC PTE. LTD."
@@ -2072,7 +2072,7 @@
       "expired_at": null,
       "expires_at": "2026-12-02",
       "first_seen_at": "2026-11-03T17:20:08+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -2597,7 +2597,7 @@
       "expired_at": null,
       "expires_at": "2026-11-30",
       "first_seen_at": "2026-09-12T15:03:54+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: Actuary"
@@ -3058,7 +3058,7 @@
       "expired_at": null,
       "expires_at": "2026-12-19",
       "first_seen_at": "2026-11-19T18:06:28+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -3167,7 +3167,7 @@
       "expired_at": null,
       "expires_at": "2026-12-18",
       "first_seen_at": "2026-11-19T18:06:28+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3266,7 +3266,7 @@
       "expired_at": null,
       "expires_at": "2026-11-25",
       "first_seen_at": "2026-09-26T15:26:12+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Title: actuarial"
@@ -3626,7 +3626,7 @@
       "expired_at": null,
       "expires_at": "2026-12-06",
       "first_seen_at": "2026-11-07T16:37:13+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -3935,7 +3935,7 @@
       "expired_at": null,
       "expires_at": "2026-12-17",
       "first_seen_at": "2026-11-17T18:29:04+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -4196,7 +4196,7 @@
       "expired_at": null,
       "expires_at": "2026-12-19",
       "first_seen_at": "2026-11-19T18:06:28+08:00",
-      "last_seen_at": "2026-11-19T18:06:28+08:00",
+      "last_seen_at": "2026-11-21T17:30:27+08:00",
       "location": "Central",
       "matched_criteria": [
         "Company: ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)"
@@ -4713,6 +4713,17 @@
       "fetched": 49,
       "matching": 16,
       "new": 5,
+      "reopened": 0,
+      "status": "success"
+    },
+    {
+      "active": 15,
+      "checked_at": "2026-11-21T17:30:27+08:00",
+      "data_changed": true,
+      "expired": 1,
+      "fetched": 54,
+      "matching": 15,
+      "new": 0,
       "reopened": 0,
       "status": "success"
     }
